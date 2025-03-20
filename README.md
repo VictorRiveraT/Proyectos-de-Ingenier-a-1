@@ -1,5 +1,5 @@
 # Fundamentos-De-Dise-o---EQ-3
-Bienvenidos al repositorio del Grupo 3 del curso: "Fundamentos de diseño". 
+Bienvenidos al repositorio del Grupo 3 del curso: "Fundamentos de diseño".  
 Proyecto: ""
 (OBJETIVO)
 # Tabla de contenidos:
