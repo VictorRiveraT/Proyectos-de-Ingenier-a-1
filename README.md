@@ -15,5 +15,5 @@ Proyecto: ""
 - Flavio Francisco Rabanal Bravo (colaborador) - flavio.rababal@upch.pe
  
 
-
+![image](https://github.com/user-attachments/assets/dc2735cc-b476-41eb-b225-048a50ce7f3c)
 
