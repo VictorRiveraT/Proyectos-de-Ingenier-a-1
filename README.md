@@ -10,7 +10,7 @@ Proyecto: ""
 # Integrantes:
 - Jesús Anselmo Morales Alvarado (colaborador) - jesus.morales@upch.pe
 - Andrea Margarita Villamizar Maravi (colaborador) - andrea.villamizar@upch.pe
-- Oscar Manuel Herrera Tumba (colaborador) - oscar.herrera@uch.pe
+- Oscar Manuel Herrera Tumba (colaborador) - oscar.herrera@upch.pe
 - Victor Daniel Rivera Torres (colaborador) - victor.rivera@upch.pe
 - Flavio Francisco Rabanal Bravo (colaborador) - flavio.rababal@upch.pe
  
