@@ -8,13 +8,13 @@ En este segmento se desarrollara los aspectos característicos de cada uno de lo
 # ¿Quienes somos?  
 Nuestro equipo se encuentra conformado por estudiantes de la Universidad Peruana Cayetano Heredia de la Facultad de Ciencias e Ingeniería, quienes se han unido a traves del ahnelo y compromiso de la búsqueda de conocimiento y mejora continua. Creemos que el análisis y la tecnología son herramientas fundamentales para generar un impacto positivo en la sociedad y el medio ambiente.   
 
-# Nuestra Misión
+# Nuestra Misión:
 Nuestra misión es desarrollar un prototipo como solucion tecnológica innovadora que fomente un consumo responsable en la sociedad peruana, promoviendo así una cultura ambiental sostenible.  (FALTA MODIFICAR DEBE ESTAR RELACIONADO CON EL PROYECTO)
 
-# Nuestra Visión
+# Nuestra Visión:
 (FALTA MODIFICAR DEBE ESTAR RELACIONADO CON EL PROYECTO)
 
-# Acerca de nosotros
+# Acerca de nosotros:
 
 
 
