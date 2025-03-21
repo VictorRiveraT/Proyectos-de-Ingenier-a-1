@@ -8,12 +8,11 @@ Proyecto: ""
 -
 -
 # Integrantes:
-- Jesús Anselmo Morales Alvarado (colaborador) - jesus.morales@upch.pe
-- Andrea Margarita Villamizar Maravi (colaborador) - andrea.villamizar@upch.pe
-- Oscar Manuel Herrera Tumba (colaborador) - oscar.herrera@upch.pe
-- Victor Daniel Rivera Torres (colaborador) - victor.rivera@upch.pe
-- Flavio Francisco Rabanal Bravo (colaborador) - flavio.rababal@upch.pe
- 
+- Flavio Francisco Rabanal Bravo (Coordinador General) - flavio.rababal@upch.pe
+- Oscar Manuel Herrera Tumba (Coordinador de Investigación y Gestión del Proyecto) - oscar.herrera@upch.pe
+- Jesús Anselmo Morales Alvarado (Coordinador de Programación y de la Página Web) - jesus.morales@upch.pe
+- Andrea Margarita Villamizar Maravi (Coordinadora de __) - andrea.villamizar@upch.pe
+- Victor Daniel Rivera Torres (Coordinador de Diseño y Prototipado) - victor.rivera@upch.pe 
 
 ![image](https://github.com/user-attachments/assets/dc2735cc-b476-41eb-b225-048a50ce7f3c)
 
