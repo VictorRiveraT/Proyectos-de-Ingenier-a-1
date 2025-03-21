@@ -1,7 +1,20 @@
 # Fundamentos De Diseño Grupo 3
 Bienvenidos al repositorio del Grupo 3 del curso: "Fundamentos de diseño".  
+
+¿Quienes somos?
+
+Nuestra Misión:
+
+Nuestra Visión:
+
+Sobre Nosotros:
+
+
 Proyecto: ""  
 (OBJETIVO)
+
+
+
 # Tabla de contenidos:
 -
 -
