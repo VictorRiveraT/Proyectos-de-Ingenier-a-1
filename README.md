@@ -1,7 +1,8 @@
 # Fundamentos De Diseño Grupo 3
 Bienvenidos al repositorio del Grupo 3 del curso: "Fundamentos de diseño".  
 
-# 1. NOSOTROS
+
+# 1. NOSOTROS  
 # Objetivo del archivo actual:  
 En este segmento se desarrollara los aspectos característicos de cada uno de los integrantes que forman parte del equipo con el fin de dar a conocer una breve descripción de nuestros intereses y fortalezas. Asi mismo, expondremos con ello, nuestra misión y visión que hemos planteado como grupo colaborativo.  
 
