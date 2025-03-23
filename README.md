@@ -121,12 +121,12 @@ Estudiante de tercer año de Ingeniería Informática con interés en bioinform�
 **Descripción:** 
 
 
-__
+__.
 
 **Cargo a Desempeñar:**
 
 
-📌 "*Coordinadora de __*": __
+📌 "*Coordinadora de __*": __.
 
 **Imágen Referencial:**
 
