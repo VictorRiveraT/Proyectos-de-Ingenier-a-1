@@ -2,10 +2,11 @@
 Bienvenidos al repositorio del Grupo 3 del curso: "Fundamentos de diseño".  
 
 # 📖 Tabla de contenidos:
--
--
--
--
+- [Nosotros](#nosotros)  
+- [Nuestra Relación con la ODS 12](#nuestra-relación-con-la-ods-12)  
+- [Nuestra Misión](#nuestra-misión)  
+- [Nuestra Visión](#nuestra-visión)  
+- [Integrantes](#acerca-de-nosotros)  
 
 # 1. NOSOTROS  
 
