@@ -21,7 +21,8 @@ A continuación, se brindará algunas caracteristicas de cada integrante del gru
 
 # Rabanal Bravo Flavio Francisco - (flavio.rabanal@upch.pe) 
 
-**Carrera:** Ingeniería Ambiental  
+**Carrera:** Ingeniería Ambiental
+
 **Edad:** 19 años  
 
 **Descripción:** 
@@ -36,7 +37,8 @@ Estudiante de tercer año de Ingeniería Ambiental con interés en energías ren
 
 **Imágen Referencial:**
 
- 
+[]
+
 # Herrera Tumba Oscar Manuel - (oscar.herrera@upch.pe)
 Carrera: Ingeniería Ambiental
 Edad: 21 años
