@@ -19,7 +19,7 @@ Nuestra misión es desarrollar un prototipo como solucion tecnológica innovador
 
 A continuación, se brindará algunas caracteristicas de cada integrante del grupo.
 
-<font size="5">**Rabanal Bravo Flavio Francisco - (flavio.rabanal@upch.pe)**</font> 
+## **Rabanal Bravo Flavio Francisco - (flavio.rabanal@upch.pe)**
 
 **Carrera:** Ingeniería Ambiental
 
