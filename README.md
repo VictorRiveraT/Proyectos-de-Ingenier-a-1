@@ -7,13 +7,13 @@ Bienvenidos al repositorio del Grupo 3 del curso: "Fundamentos de diseño".
 Este documento tiene como propósito presentar a los integrantes de nuestro equipo, detallando sus perfiles, intereses y fortalezas. Además, exponemos nuestra misión y visión como grupo, reflejando nuestro compromiso con el desarrollo de soluciones innovadoras alineadas con los principios de sostenibilidad y consumo responsable.
 
 # ¿Quienes somos?  
-Nuestro equipo se encuentra conformado por estudiantes de la Universidad Peruana Cayetano Heredia de la Facultad de Ciencias e Ingeniería, quienes se han unido a traves del ahnelo y compromiso de la búsqueda de conocimiento y mejora continua. Creemos que el análisis y la tecnología son herramientas fundamentales para generar un impacto positivo en la sociedad y el medio ambiente.   
+Somos un equipo de estudiantes de la Universidad Peruana Cayetano Heredia, pertenecientes a la Facultad de Ciencias e Ingeniería, unidos por el interés en generar un impacto positivo en la sociedad y el medio ambiente. Creemos que el análisis, la tecnología y la innovación son herramientas clave para promover un modelo de producción y consumo más sostenible en el Perú.
 
 # Nuestra Misión:
-Nuestra misión es desarrollar un prototipo como solucion tecnológica innovadora que fomente un consumo responsable en la sociedad peruana, promoviendo así una cultura ambiental sostenible.  (FALTA MODIFICAR DEBE ESTAR RELACIONADO CON EL PROYECTO)
+Diseñar y desarrollar un prototipo que fomente prácticas de consumo responsable, incentivando la sostenibilidad y la optimización de recursos en la sociedad peruana.
 
 # Nuestra Visión:
-(FALTA MODIFICAR DEBE ESTAR RELACIONADO CON EL PROYECTO)
+Ser un equipo de referencia en el desarrollo de soluciones tecnológicas que impulsen una cultura de consumo responsable, contribuyendo a la reducción del desperdicio de recursos y al fortalecimiento de una sociedad más consciente y sostenible.
 
 # Acerca de nosotros:
 
@@ -130,12 +130,6 @@ Proyecto: ""
 -
 -
 -
-# Integrantes:
-- Flavio Francisco Rabanal Bravo (Coordinador General) - flavio.rababal@upch.pe
-- Oscar Manuel Herrera Tumba (Coordinador de Investigación y Gestión del Proyecto) - oscar.herrera@upch.pe
-- Jesús Anselmo Morales Alvarado (Coordinador de Programación y de la Página Web) - jesus.morales@upch.pe
-- Andrea Margarita Villamizar Maravi (Coordinadora de __) - andrea.villamizar@upch.pe
-- Victor Daniel Rivera Torres (Coordinador de Diseño y Prototipado) - victor.rivera@upch.pe 
 
 ![image](https://github.com/user-attachments/assets/dc2735cc-b476-41eb-b225-048a50ce7f3c)
 
