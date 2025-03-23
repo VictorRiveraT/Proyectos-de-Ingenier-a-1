@@ -8,6 +8,8 @@ Bienvenidos al repositorio del Grupo 3 del curso: "Fundamentos de diseño".
 - [Nuestra Visión](#-🚀-Nuestra-Visión)  
 - [Integrantes](#-🙌-Acerca-de-nosotros)  
 
+---
+
 # 1. NOSOTROS  
 
 # 🎯 Objetivo del archivo
