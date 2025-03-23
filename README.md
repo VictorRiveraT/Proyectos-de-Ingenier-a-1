@@ -92,21 +92,21 @@ Estudiante de Ingeniería Informática, aún está explorando las diferentes ár
 
 []
 
-### **__ __ __ __ - (📧 __.__@upch.pe)**
+### **Rivera Torres Victor Daniel - (📧 victor.daniel@upch.pe)**
 
 **Carrera:** Ingeniería Informática
 
-**Edad:** __ años  
+**Edad:** 19 años  
 
 **Descripción:** 
 
 
-__
+Estudiante de tercer año de Ingeniería Informática con interés en bioinformática. En su tiempo libre, disfruta jugar videojuegos, escuchar música y preparar postres.
 
 **Cargo a Desempeñar:**
 
 
-📌 "*Coordinadorx de __*": __
+📌 "*Coordinador de Diseño y Prototipado*": Encargado de la elaboración de los mapas de construcción para el desarrollo de prototipos, asegurando su correcta planificación y funcionalidad.
 
 **Imágen Referencial:**
 
