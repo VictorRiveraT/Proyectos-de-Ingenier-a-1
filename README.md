@@ -92,7 +92,7 @@ Estudiante de Ingeniería Informática, aún está explorando las diferentes ár
 
 []
 
-### **Rivera Torres Victor Daniel - (📧 victor.daniel@upch.pe)**
+### **Rivera Torres Victor Daniel - (📧 victor.rivera@upch.pe)**
 
 **Carrera:** Ingeniería Informática
 
@@ -112,7 +112,7 @@ Estudiante de tercer año de Ingeniería Informática con interés en bioinform�
 
 []
 
-### **Villamizar Maravi Andrea Margarita - (📧 __.__@upch.pe)**
+### **Villamizar Maravi Andrea Margarita - (📧 andrea.villamizar@upch.pe)**
 
 **Carrera:** Ingeniería Informática
 
