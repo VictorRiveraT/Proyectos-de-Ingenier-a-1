@@ -19,7 +19,7 @@ Nuestra misión es desarrollar un prototipo como solucion tecnológica innovador
 
 A continuación, se brindará algunas caracteristicas de cada integrante del grupo.
 
-## **Rabanal Bravo Flavio Francisco - (flavio.rabanal@upch.pe)**
+##**Rabanal Bravo Flavio Francisco - (flavio.rabanal@upch.pe)**
 
 **Carrera:** Ingeniería Ambiental
 
@@ -39,7 +39,7 @@ Estudiante de tercer año de Ingeniería Ambiental con interés en energías ren
 
 []
 
-# Herrera Tumba Óscar Manuel - (oscar.herrera@upch.pe) 
+## **Herrera Tumba Óscar Manuel - (oscar.herrera@upch.pe)**
 
 **Carrera:** Ingeniería Ambiental
 
@@ -59,7 +59,7 @@ Estudiante de la carrera de Ingeniería Ambiental interesado en el rubro del tra
 
 []
 
-# Morales Alvarado Jesús Anselmo - (jesus.morales@upch.pe) 
+## **Morales Alvarado Jesús Anselmo - (jesus.morales@upch.pe)**
 
 **Carrera:** Ingeniería Informática
 
@@ -79,7 +79,7 @@ Estudiante de ingeniería informática, aún estoy por decidir el área al cual 
 
 []
 
-# __ __ __ __ - (__.__@upch.pe) 
+## **__ __ __ __ - (__.__@upch.pe)**
 
 **Carrera:** Ingeniería Informática
 
@@ -99,7 +99,7 @@ __
 
 []
 
-# __ __ __ __ - (__.__@upch.pe) 
+## **__ __ __ __ - (__.__@upch.pe)**
 
 **Carrera:** Ingeniería Informática
 
