@@ -116,17 +116,17 @@ Estudiante de tercer año de Ingeniería Informática con interés en bioinform�
 
 **Carrera:** Ingeniería Informática
 
-**Edad:** __ años  
+**Edad:** 20 años  
 
 **Descripción:** 
 
 
-__.
+Soy estudiante de Ingeniería Informática con interés en la bioinformática y bioingeniería, enfocado en aplicar la tecnología al ámbito médico para mejorar la calidad de vida. Me considero investigativa, entusiasta y perseverante, buscando innovaciones que impulsen el desarrollo tecnológico, el bienestar humano y la sostenibilidad ambiental ya que creo en la elaboración de herramientas para comunidades en necesidad, promoviendo soluciones sostenibles con impacto positivo. En mi tiempo libre, disfruto escuchar música y jugar videojuegos.
 
 **Cargo a Desempeñar:**
 
 
-📌 "*Coordinadora de __*": __.
+📌 "*Coordinadora de electronica y manufactura*": Encargada de la integración y gestión de sistemas electrónicos, además, del control de materiales y manufactura. Dirección de pruebas y calidad para mejorar diseños. Responsable del mantenimiento y resolución de fallos. Encargado de la seguridad del equipo y materiales..
 
 **Imágen Referencial:**
 
