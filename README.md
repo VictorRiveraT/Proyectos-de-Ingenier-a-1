@@ -17,8 +17,68 @@ Nuestra misión es desarrollar un prototipo como solucion tecnológica innovador
 
 # Acerca de nosotros:
 
+A continuación, se brindará algunas caracteristicas de cada integrante del grupo.
+ 
+# Rabanal Bravo Flavio Francisco - (flavio.rabanal@upch.pe)
+Carrera: Ingeniería Ambiental
+Edad: 19 años
+Descripción:
+Estudiante de tercer año de Ingeniería Ambiental con interés en energías renovables y tratamiento de aguas. Le motiva comprender el impacto de las actividades humanas en el entorno y desarrollar soluciones innovadoras para una convivencia más sostenible. Ha formado parte de los Scouts del Perú y de diversos proyectos multiculturales, lo que le ha permitido fortalecer su liderazgo, trabajo en equipo y empatía. Disfruta la naturaleza, el arte, la música y valora el aprendizaje continuo.
+
+Cargo a Desempeñar:
+"*Coordinador General*": Encargado de la organización y supervisión del proyecto, asegurando el trabajo coordinado entre todas las áreas. Facilita la comunicación, apoya en la resolución de problemas y fomenta un ambiente colaborativo para alcanzar los objetivos planteados.
+
+Imágen Referencial:
+
+ 
+# Herrera Tumba Oscar Manuel - (oscar.herrera@upch.pe)
+Carrera: Ingeniería Ambiental
+Edad: 21 años
+Descripción:
+Estudiante de la carrera de Ingeniería Ambiental interesado en el rubro del tratamiento de las aguas residuales. En su tiempo libre le gusta salir a divertirse con sus amigos, leer libros y escuchar música.
+
+Cargo a Desempeñar:
+"*Coordinador de Investigación y Gestión del Proyecto*": Encargado de la investigación que se realizará para nuestro proyecto y de la gestión del grupo que se requiera.
+
+Imágen Referencial:
+
+ 
+# Morales Alvarado Jesús Anselmo - (jesus.morales@upch.pe)
+Carrera: Ingeniería Informática
+Edad: 19 años
+Descripción:
+Estudiante de ingeniería informática, aún estoy por decidir el área al cual me voy a desempeñar, en mi tiempo libre me gusta jugar fútbol.
+
+Cargo a Desempeñar:
+"*Coordinador de Programación y Página Web*": Encargado de diseñar e incluir lo requerido para este proyecto.
+
+Imágen Referencial:
+
+  
+# __ __ __ __ - (__.__@upch.pe)
+Carrera: Ingeniería __
+Edad: __ años
+Descripción:
+__
+
+Cargo a Desempeñar:
+"*Coordinadorx de ___ *": __
+
+Imágen Referencial:
 
 
+# __ __ __ __ - (__.__@upch.pe)
+Carrera: Ingeniería __
+Edad: __ años
+Descripción:
+__
+
+Cargo a Desempeñar:
+"*Coordinadorx de ___ *": __
+
+Imágen Referencial:
+
+ 
 Proyecto: ""  
 (OBJETIVO)
 
