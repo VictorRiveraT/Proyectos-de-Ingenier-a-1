@@ -126,7 +126,7 @@ __
 **Cargo a Desempeñar:**
 
 
-📌 "*Coordinadorx de __*": __
+📌 "*Coordinadora de __*": __
 
 **Imágen Referencial:**
 
