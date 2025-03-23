@@ -112,7 +112,7 @@ Estudiante de tercer año de Ingeniería Informática con interés en bioinform�
 
 []
 
-### **__ __ __ __ - (📧 __.__@upch.pe)**
+### **Villamizar Maravi Andrea Margarita - (📧 __.__@upch.pe)**
 
 **Carrera:** Ingeniería Informática
 
