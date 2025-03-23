@@ -2,11 +2,11 @@
 Bienvenidos al repositorio del Grupo 3 del curso: "Fundamentos de diseño".  
 
 # 📖 Tabla de contenidos:
-- [Objetivo del Archivo](#-🎯-Objetivo-del-archivo)  
-- [¿Quienes somos?](#-🌟-¿Quienes-somos?)  
-- [Nuestra Misión](#-🏆-Nuestra-Misión)  
-- [Nuestra Visión](#-🚀-Nuestra-Visión)  
-- [Integrantes](#-🙌-Acerca-de-nosotros)  
+- [Objetivo del Archivo](#-objetivo-del-archivo)  
+- [¿Quienes somos?](#-¿quienes-somos?)  
+- [Nuestra Misión](#-nuestra-misión)  
+- [Nuestra Visión](#-nuestra-visión)  
+- [Integrantes](#-acerca-de-nosotros)  
 
 ---
 
