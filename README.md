@@ -66,7 +66,7 @@ Estudiante de la carrera de Ingeniería Ambiental interesado en el rubro del tra
 **Cargo a Desempeñar:**
 
 
-📌 "*Coordinador de Investigación y Gestión del Proyecto*": Responsable de la investigación necesaria para el desarrollo del proyecto, así como de la gestión y coordinación del equipo en las actividades requeridas.
+📌 "*Coordinador de Investigación y Gestión del Proyecto*": Responsable de la investigación necesaria para el desarrollo del proyecto, así como de la gestión del equipo en las actividades requeridas.
 
 **Imágen Referencial:**
 
