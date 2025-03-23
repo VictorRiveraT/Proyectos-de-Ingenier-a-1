@@ -1,5 +1,5 @@
-# 🌍 Fundamentos De Diseño Grupo 3
-Bienvenidos al repositorio del Grupo 3 del curso: "Fundamentos de diseño".  
+# 🌍 Fundamentos De Diseño - Grupo 03
+Bienvenidos al repositorio del Grupo 03 del curso: "Fundamentos de diseño".  
 
 # 📖 Tabla de contenidos:
 - [Objetivo del Archivo](#-objetivo-del-archivo)  
