@@ -39,16 +39,25 @@ Estudiante de tercer año de Ingeniería Ambiental con interés en energías ren
 
 []
 
-# Herrera Tumba Oscar Manuel - (oscar.herrera@upch.pe)
-Carrera: Ingeniería Ambiental
-Edad: 21 años
-Descripción:
+# Herrera Tumba Óscar Manuel - (oscar.herrera@upch.pe) 
+
+**Carrera:** Ingeniería Ambiental
+
+**Edad:** 21 años  
+
+**Descripción:** 
+
+
 Estudiante de la carrera de Ingeniería Ambiental interesado en el rubro del tratamiento de las aguas residuales. En su tiempo libre le gusta salir a divertirse con sus amigos, leer libros y escuchar música.
 
-Cargo a Desempeñar:
+**Cargo a Desempeñar:**
+
+
 "*Coordinador de Investigación y Gestión del Proyecto*": Encargado de la investigación que se realizará para nuestro proyecto y de la gestión del grupo que se requiera.
 
-Imágen Referencial:
+**Imágen Referencial:**
+
+[]
 
  
 # Morales Alvarado Jesús Anselmo - (jesus.morales@upch.pe)
