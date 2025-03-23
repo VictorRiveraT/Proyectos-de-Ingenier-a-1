@@ -13,7 +13,9 @@ Somos un equipo de estudiantes de la Universidad Peruana Cayetano Heredia, perte
 # Nuestra Misión:
 Diseñar y desarrollar un prototipo que fomente prácticas de consumo responsable, incentivando la sostenibilidad y la optimización de recursos en la sociedad peruana. Nos alineamos con la ODS 12, buscando generar conciencia sobre la producción y el consumo responsable mediante soluciones tecnológicas accesibles y efectivas.
 
-![image](https://github.com/user-attachments/assets/dd64728b-e13d-4df7-93a8-71ce389130db)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dd64728b-e13d-4df7-93a8-71ce389130db" alt="Imagen de la misión" width="400">
+</p>
 
 # Nuestra Visión:
 Ser un equipo de referencia en el desarrollo de soluciones tecnológicas que impulsen una cultura de consumo responsable, contribuyendo a la reducción del desperdicio de recursos y al fortalecimiento de una sociedad más consciente y sostenible.
