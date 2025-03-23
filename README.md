@@ -1,10 +1,10 @@
-# Fundamentos De Diseño Grupo 3
+# 🌍 Fundamentos De Diseño Grupo 3
 Bienvenidos al repositorio del Grupo 3 del curso: "Fundamentos de diseño".  
 
 
 # 1. NOSOTROS  
 
-# Objetivo del archivo actual:  
+# 🎯 Objetivo del archivo actual:  
 Este documento tiene como propósito presentar a los integrantes de nuestro equipo, detallando sus perfiles, intereses y fortalezas. Además, exponemos nuestra misión y visión como grupo, reflejando nuestro compromiso con el desarrollo de soluciones innovadoras alineadas con los principios de sostenibilidad y consumo responsable.
 
 # ¿Quienes somos?  
@@ -24,7 +24,7 @@ Ser un equipo de referencia en el desarrollo de soluciones tecnológicas que imp
 
 A continuación, se brindará algunas caracteristicas de cada integrante del grupo.
 
-## **Rabanal Bravo Flavio Francisco - (flavio.rabanal@upch.pe)**
+### **Rabanal Bravo Flavio Francisco - (📧 flavio.rabanal@upch.pe)**
 
 **Carrera:** Ingeniería Ambiental
 
@@ -38,13 +38,13 @@ Estudiante de tercer año de Ingeniería Ambiental con interés en energías ren
 **Cargo a Desempeñar:**
 
 
-"*Coordinador General*": Encargado de la organización y supervisión del proyecto, asegurando el trabajo coordinado entre todas las áreas. Facilita la comunicación, apoya en la resolución de problemas y fomenta un ambiente colaborativo para alcanzar los objetivos planteados.
+📌 "*Coordinador General*": Encargado de la organización y supervisión del proyecto, asegurando el trabajo coordinado entre todas las áreas. Facilita la comunicación, apoya en la resolución de problemas y fomenta un ambiente colaborativo para alcanzar los objetivos planteados.
 
 **Imágen Referencial:**
 
 []
 
-## **Herrera Tumba Óscar Manuel - (oscar.herrera@upch.pe)**
+### **Herrera Tumba Óscar Manuel - (📧 oscar.herrera@upch.pe)**
 
 **Carrera:** Ingeniería Ambiental
 
@@ -58,13 +58,13 @@ Estudiante de la carrera de Ingeniería Ambiental interesado en el rubro del tra
 **Cargo a Desempeñar:**
 
 
-"*Coordinador de Investigación y Gestión del Proyecto*": Encargado de la investigación que se realizará para nuestro proyecto y de la gestión del grupo que se requiera.
+📌 "*Coordinador de Investigación y Gestión del Proyecto*": Encargado de la investigación que se realizará para nuestro proyecto y de la gestión del grupo que se requiera.
 
 **Imágen Referencial:**
 
 []
 
-## **Morales Alvarado Jesús Anselmo - (jesus.morales@upch.pe)**
+### **Morales Alvarado Jesús Anselmo - (📧 jesus.morales@upch.pe)**
 
 **Carrera:** Ingeniería Informática
 
@@ -78,13 +78,13 @@ Estudiante de ingeniería informática, aún estoy por decidir el área al cual 
 **Cargo a Desempeñar:**
 
 
-"*Coordinador de Programación y Página Web*": Encargado de diseñar e incluir lo requerido para este proyecto.
+📌 "*Coordinador de Programación y Página Web*": Encargado de diseñar e incluir lo requerido para este proyecto.
 
 **Imágen Referencial:**
 
 []
 
-## **__ __ __ __ - (__.__@upch.pe)**
+### **__ __ __ __ - (📧 __.__@upch.pe)**
 
 **Carrera:** Ingeniería Informática
 
@@ -98,13 +98,13 @@ __
 **Cargo a Desempeñar:**
 
 
-"*Coordinadorx de __*": __
+📌 "*Coordinadorx de __*": __
 
 **Imágen Referencial:**
 
 []
 
-## **__ __ __ __ - (__.__@upch.pe)**
+### **__ __ __ __ - (📧 __.__@upch.pe)**
 
 **Carrera:** Ingeniería Informática
 
@@ -118,7 +118,7 @@ __
 **Cargo a Desempeñar:**
 
 
-"*Coordinadorx de __*": __
+📌 "*Coordinadorx de __*": __
 
 **Imágen Referencial:**
 
