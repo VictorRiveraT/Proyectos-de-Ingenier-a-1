@@ -18,17 +18,20 @@ Nuestra misión es desarrollar un prototipo como solucion tecnológica innovador
 # Acerca de nosotros:
 
 A continuación, se brindará algunas caracteristicas de cada integrante del grupo.
- 
-# Rabanal Bravo Flavio Francisco - (flavio.rabanal@upch.pe)
-Carrera: Ingeniería Ambiental
-Edad: 19 años
-Descripción:
+
+# Rabanal Bravo Flavio Francisco  
+**Correo:** flavio.rabanal@upch.pe  
+
+**Carrera:** Ingeniería Ambiental  
+**Edad:** 19 años  
+
+**Descripción:** 
 Estudiante de tercer año de Ingeniería Ambiental con interés en energías renovables y tratamiento de aguas. Le motiva comprender el impacto de las actividades humanas en el entorno y desarrollar soluciones innovadoras para una convivencia más sostenible. Ha formado parte de los Scouts del Perú y de diversos proyectos multiculturales, lo que le ha permitido fortalecer su liderazgo, trabajo en equipo y empatía. Disfruta la naturaleza, el arte, la música y valora el aprendizaje continuo.
 
-Cargo a Desempeñar:
+**Cargo a Desempeñar:**
 "*Coordinador General*": Encargado de la organización y supervisión del proyecto, asegurando el trabajo coordinado entre todas las áreas. Facilita la comunicación, apoya en la resolución de problemas y fomenta un ambiente colaborativo para alcanzar los objetivos planteados.
 
-Imágen Referencial:
+**Imágen Referencial:**
 
  
 # Herrera Tumba Oscar Manuel - (oscar.herrera@upch.pe)
