@@ -130,6 +130,6 @@ __
 -
 -
 -
-
-![image](https://github.com/user-attachments/assets/dc2735cc-b476-41eb-b225-048a50ce7f3c)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dc2735cc-b476-41eb-b225-048a50ce7f3c" alt="Imagen de equipo" width="400">
+</p>
