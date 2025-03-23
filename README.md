@@ -66,7 +66,7 @@ Estudiante de la carrera de Ingeniería Ambiental interesado en el rubro del tra
 **Cargo a Desempeñar:**
 
 
-📌 "*Coordinador de Investigación y Gestión del Proyecto*": Encargado de la investigación que se realizará para nuestro proyecto y de la gestión del grupo que se requiera.
+📌 "*Coordinador de Investigación y Gestión del Proyecto*": Responsable de la investigación necesaria para el desarrollo del proyecto, así como de la gestión y coordinación del equipo en las actividades requeridas.
 
 **Imágen Referencial:**
 
@@ -81,7 +81,7 @@ Estudiante de la carrera de Ingeniería Ambiental interesado en el rubro del tra
 **Descripción:** 
 
 
-Estudiante de ingeniería informática, aún estoy por decidir el área al cual me voy a desempeñar, en mi tiempo libre me gusta jugar fútbol
+Estudiante de Ingeniería Informática, aún está explorando las diferentes áreas de su carrera para definir su especialización. En su tiempo libre, disfruta jugar fútbol.
 
 **Cargo a Desempeñar:**
 
