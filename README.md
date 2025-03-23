@@ -3,6 +3,7 @@ Bienvenidos al repositorio del Grupo 3 del curso: "Fundamentos de diseño".
 
 
 # 1. NOSOTROS  
+
 # Objetivo del archivo actual:  
 Este documento tiene como propósito presentar a los integrantes de nuestro equipo, detallando sus perfiles, intereses y fortalezas. Además, exponemos nuestra misión y visión como grupo, reflejando nuestro compromiso con el desarrollo de soluciones innovadoras alineadas con los principios de sostenibilidad y consumo responsable.
 
