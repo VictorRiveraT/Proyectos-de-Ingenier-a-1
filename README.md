@@ -2,15 +2,15 @@
 Bienvenidos al repositorio del Grupo 3 del curso: "Fundamentos de diseño".  
 
 # 📖 Tabla de contenidos:
-- [Nosotros](#nosotros)  
-- [Nuestra Relación con la ODS 12](#nuestra-relación-con-la-ods-12)  
-- [Nuestra Misión](#nuestra-misión)  
-- [Nuestra Visión](#nuestra-visión)  
-- [Integrantes](#acerca-de-nosotros)  
+- [Objetivo del Archivo](#-🎯-Objetivo-del-archivo)  
+- [¿Quienes somos?](#-🌟-¿Quienes-somos?)  
+- [Nuestra Misión](#-🏆-Nuestra-Misión)  
+- [Nuestra Visión](#-🚀-Nuestra-Visión)  
+- [Integrantes](#-🙌-Acerca-de-nosotros)  
 
 # 1. NOSOTROS  
 
-# 🎯 Objetivo del archivo actual
+# 🎯 Objetivo del archivo
 Este documento tiene como propósito presentar a los integrantes de nuestro equipo, detallando sus perfiles, intereses y fortalezas. Además, exponemos nuestra misión y visión como grupo, reflejando nuestro compromiso con el desarrollo de soluciones innovadoras alineadas con los principios de sostenibilidad y consumo responsable.
 
 # 🌟 ¿Quienes somos?
