@@ -59,41 +59,65 @@ Estudiante de la carrera de Ingeniería Ambiental interesado en el rubro del tra
 
 []
 
- 
-# Morales Alvarado Jesús Anselmo - (jesus.morales@upch.pe)
-Carrera: Ingeniería Informática
-Edad: 19 años
-Descripción:
-Estudiante de ingeniería informática, aún estoy por decidir el área al cual me voy a desempeñar, en mi tiempo libre me gusta jugar fútbol.
+# Morales Alvarado Jesús Anselmo - (jesus.morales@upch.pe) 
 
-Cargo a Desempeñar:
+**Carrera:** Ingeniería Informática
+
+**Edad:** 19 años  
+
+**Descripción:** 
+
+
+Estudiante de ingeniería informática, aún estoy por decidir el área al cual me voy a desempeñar, en mi tiempo libre me gusta jugar fútbol
+
+**Cargo a Desempeñar:**
+
+
 "*Coordinador de Programación y Página Web*": Encargado de diseñar e incluir lo requerido para este proyecto.
 
-Imágen Referencial:
+**Imágen Referencial:**
 
-  
-# __ __ __ __ - (__.__@upch.pe)
-Carrera: Ingeniería __
-Edad: __ años
-Descripción:
+[]
+
+# __ __ __ __ - (__.__@upch.pe) 
+
+**Carrera:** Ingeniería Informática
+
+**Edad:** __ años  
+
+**Descripción:** 
+
+
 __
 
-Cargo a Desempeñar:
-"*Coordinadorx de ___ *": __
-
-Imágen Referencial:
+**Cargo a Desempeñar:**
 
 
-# __ __ __ __ - (__.__@upch.pe)
-Carrera: Ingeniería __
-Edad: __ años
-Descripción:
+"*Coordinadorx de __*": __
+
+**Imágen Referencial:**
+
+[]
+
+# __ __ __ __ - (__.__@upch.pe) 
+
+**Carrera:** Ingeniería Informática
+
+**Edad:** __ años  
+
+**Descripción:** 
+
+
 __
 
-Cargo a Desempeñar:
-"*Coordinadorx de ___ *": __
+**Cargo a Desempeñar:**
 
-Imágen Referencial:
+
+"*Coordinadorx de __*": __
+
+**Imágen Referencial:**
+
+[]
 
  
 Proyecto: ""  
