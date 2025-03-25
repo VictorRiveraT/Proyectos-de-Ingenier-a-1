@@ -126,7 +126,7 @@ Soy estudiante de Ingeniería Informática con interés en la bioinformática y 
 **Cargo a Desempeñar:**
 
 
-📌 "*Coordinadora de electronica y manufactura*": Encargada de la integración y gestión de sistemas electrónicos, además, del control de materiales y manufactura. Dirección de pruebas y calidad para mejorar diseños. Responsable del mantenimiento y resolución de fallos. Encargado de la seguridad del equipo y materiales..
+📌 "*Coordinadora de Electronica y Manufactura*": Encargada de la integración y gestión de sistemas electrónicos, además, del control de materiales y manufactura. Dirección de pruebas y calidad para mejorar diseños. Responsable del mantenimiento y resolución de fallos. Encargado de la seguridad del equipo y materiales..
 
 **Imágen Referencial:**
 
