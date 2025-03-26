@@ -70,7 +70,8 @@ Estudiante de la carrera de Ingeniería Ambiental interesado en el rubro del tra
 
 **Imágen Referencial:**
 
-[]
+![Imagen de WhatsApp 2025-03-25 a las 19 25 12_c841138f](https://github.com/user-attachments/assets/94d8ef24-20d4-4a7d-8168-fd02f29baeea)
+
 
 ### **Morales Alvarado Jesús Anselmo - (📧 jesus.morales@upch.pe)**
 
