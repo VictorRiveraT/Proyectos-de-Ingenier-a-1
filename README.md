@@ -71,7 +71,7 @@ Estudiante de la carrera de Ingeniería Ambiental interesado en el rubro del tra
 **Imágen Referencial:**
 
 <p align="center">
-  <img src="![Imágen Referencial - Oscar](https://github.com/user-attachments/assets/68e7ee19-69c8-4ef7-948f-682722fbcf4a)
+  <img src="![image](https://github.com/user-attachments/assets/35a4fdc0-5081-49eb-918a-cc7cedae7d52)
 " alt="Imagen referencial - Oscar" width="600">
 </p>
 
