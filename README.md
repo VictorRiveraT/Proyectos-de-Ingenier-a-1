@@ -25,8 +25,7 @@ Diseñar y desarrollar un prototipo que fomente prácticas de consumo responsabl
   <img src="https://github.com/user-attachments/assets/dd64728b-e13d-4df7-93a8-71ce389130db" alt="Imagen de la misión" width="200">
 </p>
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/f1679f03-4a1c-4f6a-9f7f-52f08e0d97ec)
-" alt="Imagen de la misión" width="200">
+  <img src="https://github.com/user-attachments/assets/f1679f03-4a1c-4f6a-9f7f-52f08e0d97ec" alt="Imagen de la misión" width="200">
 </p>
 
 # 🚀 Nuestra Visión
