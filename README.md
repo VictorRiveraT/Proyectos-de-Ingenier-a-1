@@ -24,6 +24,10 @@ Diseñar y desarrollar un prototipo que fomente prácticas de consumo responsabl
 <p align="center">
   <img src="https://github.com/user-attachments/assets/dd64728b-e13d-4df7-93a8-71ce389130db" alt="Imagen de la misión" width="200">
 </p>
+<p align="center">
+  <img src="![image](https://github.com/user-attachments/assets/f1679f03-4a1c-4f6a-9f7f-52f08e0d97ec)
+" alt="Imagen de la misión" width="200">
+</p>
 
 # 🚀 Nuestra Visión
 Ser un equipo de referencia en el desarrollo de soluciones tecnológicas que impulsen una cultura de consumo responsable, contribuyendo a la reducción del desperdicio de recursos y al fortalecimiento de una sociedad más consciente y sostenible.
