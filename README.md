@@ -28,6 +28,17 @@ Diseñar y desarrollar un prototipo que fomente prácticas de consumo responsabl
   <img src="https://github.com/user-attachments/assets/f1679f03-4a1c-4f6a-9f7f-52f08e0d97ec" alt="Imagen de la misión" width="200">
 </p>
 
+# Problemática
+La contaminación causada por los desechos de aceites usados es un problema ambiental grave debido a su impacto en los cuerpos de agua (1).Un litro de aceite usado de cocina contamina 1000 litros de agua, los cuales generan mayores costos de mantenimiento de las redes de alcantarillado y tratamiento de las aguas residuales, producidos por la falta de conocimiento de las consecuencias generadas por el residuo del aceite.(2)  Estos aceites, que suelen ser desechados sin tratamiento adecuado, crean una capa en la superficie del agua que impide el paso de oxígeno, afectando la fauna y flora acuática. Además, su descomposición es extremadamente lenta, lo que prolonga el tiempo de contaminación (3). La falta de conciencia y las prácticas inapropiadas de disposición aumentan la magnitud del problema, generando riesgos para la salud humana y contribuyendo al deterioro de los ecosistemas acuáticos (1). Es esencial implementar métodos de recolección y tratamiento para mitigar estos efectos (3).
+
+**Referencias**
+1.
+Moya Salazar MM, Moya Salazar J. BIODEGRADACIÓN DE RESIDUOS DE ACEITE USADO DE COCINA POR HONGOS LIPOLÍTICOS: UN ESTUDIO IN VITRO. Rev Int Contam Ambient [Internet]. 2020 [citado el 3 de abril de 2025];36(2):1–9. Disponible en: https://www.scielo.org.mx/scielo.php?pid=S0188-49992020000200351&script=sci_arttext
+2.Criollo, A. L. C., & Fernandez, A. D. Diseño de un sistema de recolección de aceite usado de cocina para la elaboración de jabón artesanal, en el distrito de Piura.
+https://siar.regionpiura.gob.pe/documentos/repositorio/phpcnVbmr.PDF 
+3.
+Katiyar V, Husain S. Environmental impacts of used oil. Material Science Research India [Internet]. 2010 [citado el 3 de abril de 2025];7:245–8. Disponible en: https://materialsciencejournal.org/pdf/vol7no1/MSRIVol07N1245-248.pdf
+
 # 🚀 Nuestra Visión
 Ser un equipo de referencia en el desarrollo de soluciones tecnológicas que impulsen una cultura de consumo responsable, contribuyendo a la reducción del desperdicio de recursos y al fortalecimiento de una sociedad más consciente y sostenible.
 
