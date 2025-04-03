@@ -139,3 +139,10 @@ Soy estudiante de Ingeniería Informática con interés en la bioinformática y 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/dc2735cc-b476-41eb-b225-048a50ce7f3c" alt="Imagen de equipo" width="600">
 </p>
+
+
+Definir el usuario (¿Para quién es un problema?)
+
+Definir el contexto (¿Por qué es un problema?)
+
+Definir los puntos de dolor (¿Cuándo y cómo es un problema?)
