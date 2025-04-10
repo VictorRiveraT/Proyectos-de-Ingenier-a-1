@@ -22,7 +22,7 @@ Somos un equipo de estudiantes de la Universidad Peruana Cayetano Heredia, perte
 Diseñar y desarrollar un prototipo que fomente prácticas de consumo responsable, incentivando la sostenibilidad y la optimización de recursos en la sociedad peruana. Nos alineamos con el ODS 3, buscando generar conciencia sobre la salud y el bienestar mediante alternativas tecnológicas accesibles y efectivas.
 
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/938e1149-d0c7-4f55-a615-89e7f73a3a12)
+  <img src="![image](https://github.com/user-attachments/assets/25c296c7-b187-4bcf-be41-2224b7bcf720)
 " alt="Imagen de la misión" width="200">
 </p>
 
