@@ -22,7 +22,7 @@ Somos un equipo de estudiantes de la Universidad Peruana Cayetano Heredia, perte
 Diseñar y desarrollar un prototipo que fomente prácticas de consumo responsable, incentivando la sostenibilidad y la optimización de recursos en la sociedad peruana. Nos alineamos con el ODS 3, buscando generar conciencia sobre la salud y el bienestar mediante alternativas tecnológicas accesibles y efectivas.
 
 <p align="center">
-  <img src="https://ods.inei.gob.pe/ods/images/variable_sistema/S_SDG_Icons-01-03.png" alt="Descripción de la imagen" width="500"/>
+  <img src="https://ods.inei.gob.pe/ods/images/variable_sistema/S_SDG_Icons-01-03.png" alt="Descripción de la imagen" width="200"/>
 </p>
 
 
