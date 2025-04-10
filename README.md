@@ -19,7 +19,7 @@ Este documento tiene como propósito exponer nuestra misión y visión como grup
 Somos un equipo de estudiantes de la Universidad Peruana Cayetano Heredia, pertenecientes a la Facultad de Ciencias e Ingeniería, unidos por el interés en generar un impacto positivo en la sociedad y el medio ambiente. Creemos que el análisis, la tecnología y la innovación son herramientas clave para promover un modelo de producción y consumo más sostenible en el Perú.
 
 # 🏆 Nuestra Misión
-Diseñar y desarrollar un prototipo que fomente prácticas de consumo responsable, incentivando la sostenibilidad y la optimización de recursos en la sociedad peruana. Nos alineamos con los ODS 12 y 6, buscando generar conciencia sobre la producción y el consumo responsable mediante soluciones tecnológicas accesibles y efectivas, además de buscar maneras de contribuir al a un mantenimiento de agua limpia.
+Diseñar y desarrollar un prototipo que fomente prácticas de consumo responsable, incentivando la sostenibilidad y la optimización de recursos en la sociedad peruana. Nos alineamos con el ODS 3, buscando generar conciencia sobre la salud y el bienestar mediante alternativas tecnológicas accesibles y efectivas.
 
 <p align="center">
   <img src="![image](https://github.com/user-attachments/assets/938e1149-d0c7-4f55-a615-89e7f73a3a12)
@@ -27,15 +27,15 @@ Diseñar y desarrollar un prototipo que fomente prácticas de consumo responsabl
 </p>
 
 # Problemática
-La contaminación causada por los desechos de aceites usados es un problema ambiental grave debido a su impacto en los cuerpos de agua (1).Un litro de aceite usado de cocina contamina 1000 litros de agua, los cuales generan mayores costos de mantenimiento de las redes de alcantarillado y tratamiento de las aguas residuales, producidos por la falta de conocimiento de las consecuencias generadas por el residuo del aceite.(2)  Estos aceites, que suelen ser desechados sin tratamiento adecuado, crean una capa en la superficie del agua que impide el paso de oxígeno, afectando la fauna y flora acuática. Además, su descomposición es extremadamente lenta, lo que prolonga el tiempo de contaminación (3). La falta de conciencia y las prácticas inapropiadas de disposición aumentan la magnitud del problema, generando riesgos para la salud humana y contribuyendo al deterioro de los ecosistemas acuáticos (1). Es esencial implementar métodos de recolección y tratamiento para mitigar estos efectos (3).
+El reutilizamiento del aceite de cocina representa un riesgo significativo para la salud humana debido a los compuestos tóxicos que se generan durante su uso repetido. Cuando el aceite es sometido a altas temperaturas varias veces, se forman sustancias como aldehídos y radicales libres, los cuales han sido asociados con enfermedades cardiovasculares, hepáticas y ciertos tipos de cáncer (1). A pesar de ello, en muchos hogares y establecimientos de comida se reutiliza el aceite por desconocimiento o por razones económicas, sin considerar las consecuencias a largo plazo sobre la salud (2). Estas prácticas, además de ser perjudiciales, son comunes en contextos donde no existe una regulación clara sobre el manejo de aceites usados. La exposición continua a los compuestos generados por el aceite reutilizado, ya sea por ingestión directa o por inhalación de vapores durante la fritura, puede afectar negativamente el sistema inmunológico y el metabolismo (3). Por ello, es fundamental promover la educación sobre el uso adecuado del aceite y establecer políticas que regulen su manejo y disposición.
 
 **Referencias**
 1.
-Moya Salazar MM, Moya Salazar J. BIODEGRADACIÓN DE RESIDUOS DE ACEITE USADO DE COCINA POR HONGOS LIPOLÍTICOS: UN ESTUDIO IN VITRO. Rev Int Contam Ambient [Internet]. 2020 [citado el 3 de abril de 2025];36(2):1–9. Disponible en: https://www.scielo.org.mx/scielo.php?pid=S0188-49992020000200351&script=sci_arttext
-2.Criollo, A. L. C., & Fernandez, A. D. Diseño de un sistema de recolección de aceite usado de cocina para la elaboración de jabón artesanal, en el distrito de Piura.
-https://siar.regionpiura.gob.pe/documentos/repositorio/phpcnVbmr.PDF 
+Velázquez, M. T., & Morales, L. M. (2017). Impacto del aceite reutilizado en la salud humana. Revista de Salud Pública y Nutrición, 16(3), 45–50.
+2.
+Castillo, R., & Gómez, P. (2018). Prácticas domésticas y riesgos asociados al uso repetido del aceite. Salud y Sociedad, 25(1), 33–41.
 3.
-Katiyar V, Husain S. Environmental impacts of used oil. Material Science Research India [Internet]. 2010 [citado el 3 de abril de 2025];7:245–8. Disponible en: https://materialsciencejournal.org/pdf/vol7no1/MSRIVol07N1245-248.pdf
+Organización Mundial de la Salud (OMS). (2020). Efectos del consumo de alimentos fritos en aceites reutilizados. Informe Técnico OMS.
 
 # 🚀 Nuestra Visión
 Ser un equipo de referencia en el desarrollo de soluciones tecnológicas que impulsen una cultura de consumo responsable, contribuyendo a la reducción del desperdicio de recursos y al fortalecimiento de una sociedad más consciente y sostenible.
