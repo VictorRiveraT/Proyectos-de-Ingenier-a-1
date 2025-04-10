@@ -29,6 +29,7 @@ Diseñar y desarrollar un prototipo que fomente prácticas de consumo responsabl
 # Problemática
 El reutilizamiento del aceite de cocina representa un riesgo significativo para la salud humana debido a los compuestos tóxicos que se generan durante su uso repetido. Cuando el aceite es sometido a altas temperaturas varias veces, se forman sustancias como aldehídos y radicales libres, los cuales han sido asociados con enfermedades cardiovasculares, hepáticas y ciertos tipos de cáncer (1). A pesar de ello, en muchos hogares y establecimientos de comida se reutiliza el aceite por desconocimiento o por razones económicas, sin considerar las consecuencias a largo plazo sobre la salud (2). Estas prácticas, además de ser perjudiciales, son comunes en contextos donde no existe una regulación clara sobre el manejo de aceites usados. La exposición continua a los compuestos generados por el aceite reutilizado, ya sea por ingestión directa o por inhalación de vapores durante la fritura, puede afectar negativamente el sistema inmunológico y el metabolismo (3). Por ello, es fundamental promover la educación sobre el uso adecuado del aceite y establecer políticas que regulen su manejo y disposición.
 
+
 **Referencias**
 1.
 Velázquez, M. T., & Morales, L. M. (2017). Impacto del aceite reutilizado en la salud humana. Revista de Salud Pública y Nutrición, 16(3), 45–50.
