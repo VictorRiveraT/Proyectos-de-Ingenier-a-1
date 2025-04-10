@@ -33,14 +33,11 @@ El reutilizamiento del aceite de cocina representa un riesgo significativo para 
 **Referencias**
 
 
-1.
-Velázquez, M. T., & Morales, L. M. (2017). Impacto del aceite reutilizado en la salud humana. Revista de Salud Pública y Nutrición, 16(3), 45–50.
+1. Velázquez, M. T., & Morales, L. M. (2017). Impacto del aceite reutilizado en la salud humana. Revista de Salud Pública y Nutrición, 16(3), 45–50.
 
-2.
-Castillo, R., & Gómez, P. (2018). Prácticas domésticas y riesgos asociados al uso repetido del aceite. Salud y Sociedad, 25(1), 33–41.
+2. Castillo, R., & Gómez, P. (2018). Prácticas domésticas y riesgos asociados al uso repetido del aceite. Salud y Sociedad, 25(1), 33–41.
 
-3.
-Organización Mundial de la Salud (OMS). (2020). Efectos del consumo de alimentos fritos en aceites reutilizados. Informe Técnico OMS.
+3. Organización Mundial de la Salud (OMS). (2020). Efectos del consumo de alimentos fritos en aceites reutilizados. Informe Técnico OMS.
 
 # 🚀 Nuestra Visión
 Ser un equipo de referencia en el desarrollo de soluciones tecnológicas que impulsen una cultura de consumo responsable, contribuyendo a la reducción del desperdicio de recursos y al fortalecimiento de una sociedad más consciente y sostenible.
