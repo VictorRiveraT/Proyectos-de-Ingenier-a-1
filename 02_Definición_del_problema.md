@@ -12,15 +12,17 @@ El reutilizamiento del aceite de cocina representa un riesgo significativo para 
 3. Organización Mundial de la Salud (OMS). (2020). Efectos del consumo de alimentos fritos en aceites reutilizados. Informe Técnico OMS.
 
 
+
 **Definir el usuario (¿Para quién es un problema?)**
 El problema afecta principalmente a los consumidores de alimentos preparados en restaurantes y establecimientos gastronómicos que reutilizan aceite de cocina en exceso. También involucra a los propios trabajadores de cocina, quienes están expuestos a los vapores tóxicos del aceite sobrecalentado y degradado.
 
 **Definir el contexto (¿Por qué es un problema?)**
-El problema identificado se centra en la gestión inadecuada del aceite usado en restaurantes y establecimientos gastronómicos. Esto incluye la reutilización sin filtrado en la preparación de alimentos, lo que afecta la calidad y seguridad alimentaria, y la eliminación inadecuada del aceite por el drenaje, lo que contribuye a la contaminación del agua y el suelo. Es necesario desarrollar soluciones que promuevan el uso responsable del aceite y su correcta disposición para minimizar impactos negativos en la salud pública y el medio ambiente.
+El problema radica en la reutilización excesiva del aceite de cocina, práctica común en restaurantes por razones económicas o por desconocimiento de los riesgos asociados. Al someter el aceite a altas temperaturas repetidamente, se generan compuestos tóxicos como aldehídos y radicales libres, los cuales han sido vinculados con enfermedades graves como cáncer, problemas cardiovasculares y hepáticos. Esta situación representa una amenaza para la salud pública, ya que los alimentos preparados con aceite degradado pierden calidad nutricional y se convierten en vehículos de sustancias nocivas. Además, la falta de normativas claras o su escasa fiscalización agrava el problema.
 
 **Definir los puntos de dolor (¿Cuándo y cómo es un problema?)**
 Cuando los restaurantes reutilizan aceite sin filtrarlo, afectando la calidad de la comida , la salud de los clientes y la ineficiencia en su uso al botarlo en su totalidad cuando no es necesario.
-El aceite usado se vierte en el drenaje causando contaminación en el agua y daños en el sistema de saneamiento.
 Cuando los restaurantes enfrentan regulaciones ambientales pero no tienen soluciones accesibles para el manejo adecuado del aceite.
-
-Cuando los costos de descarte y limpieza aumentan, afectando la rentabilidad del negocio.
+Cuando los establecimientos reutilizan el aceite más allá de los límites seguros, sin controles de calidad, afectando directamente la salud de los consumidores.
+Cuando los clientes presentan síntomas a largo plazo como inflamación, alteraciones digestivas o incluso enfermedades crónicas asociadas al consumo continuo de alimentos fritos en aceite degradado.
+Cuando los trabajadores de cocina inhalan vapores nocivos, afectando su salud respiratoria y general.
+Cuando no existen políticas claras o accesibles para el control del uso del aceite, lo que deja a muchos negocios sin guía o herramientas para una gestión adecuada.
