@@ -153,7 +153,7 @@ Soy estudiante de Ingeniería Informática con interés en la bioinformática y 
 
 
 **Definir el usuario (¿Para quién es un problema?)**
-El problema afecta principalmente a restaurantes y establecimientos gastronómicos que reutilizan aceite sin filtrarlo.
+El problema afecta principalmente a los consumidores de alimentos preparados en restaurantes y establecimientos gastronómicos que reutilizan aceite de cocina en exceso. También involucra a los propios trabajadores de cocina, quienes están expuestos a los vapores tóxicos del aceite sobrecalentado y degradado.
 
 **Definir el contexto (¿Por qué es un problema?)**
 El problema identificado se centra en la gestión inadecuada del aceite usado en restaurantes y establecimientos gastronómicos. Esto incluye la reutilización sin filtrado en la preparación de alimentos, lo que afecta la calidad y seguridad alimentaria, y la eliminación inadecuada del aceite por el drenaje, lo que contribuye a la contaminación del agua y el suelo. Es necesario desarrollar soluciones que promuevan el uso responsable del aceite y su correcta disposición para minimizar impactos negativos en la salud pública y el medio ambiente.
