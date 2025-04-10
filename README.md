@@ -31,6 +31,8 @@ El reutilizamiento del aceite de cocina representa un riesgo significativo para 
 
 
 **Referencias**
+
+
 1.
 Velázquez, M. T., & Morales, L. M. (2017). Impacto del aceite reutilizado en la salud humana. Revista de Salud Pública y Nutrición, 16(3), 45–50.
 2.
