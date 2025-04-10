@@ -22,10 +22,8 @@ Somos un equipo de estudiantes de la Universidad Peruana Cayetano Heredia, perte
 Diseñar y desarrollar un prototipo que fomente prácticas de consumo responsable, incentivando la sostenibilidad y la optimización de recursos en la sociedad peruana. Nos alineamos con los ODS 12 y 6, buscando generar conciencia sobre la producción y el consumo responsable mediante soluciones tecnológicas accesibles y efectivas, además de buscar maneras de contribuir al a un mantenimiento de agua limpia.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dd64728b-e13d-4df7-93a8-71ce389130db" alt="Imagen de la misión" width="200">
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f1679f03-4a1c-4f6a-9f7f-52f08e0d97ec" alt="Imagen de la misión" width="200">
+  <img src="![image](https://github.com/user-attachments/assets/938e1149-d0c7-4f55-a615-89e7f73a3a12)
+" alt="Imagen de la misión" width="200">
 </p>
 
 # Problemática
