@@ -23,7 +23,8 @@ Diseñar y desarrollar un prototipo que fomente prácticas de consumo responsabl
 
 <p align="center">
   <img src="[![download](https://github.com/user-attachments/assets/96d0e883-98d7-4118-9a2a-da8234f2196c)](https://ods.inei.gob.pe/ods/images/variable_sistema/S_SDG_Icons-01-03.png)
-" alt="Imagen de la misión" width="200">
+" alt="Imagen de la mis![1](https://github.com/user-attachments/assets/cabf02f9-280e-46fd-a992-d732c480abff)
+ión" width="200">
 </p>
 
 # Problemática
