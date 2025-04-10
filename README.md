@@ -22,10 +22,9 @@ Somos un equipo de estudiantes de la Universidad Peruana Cayetano Heredia, perte
 Diseñar y desarrollar un prototipo que fomente prácticas de consumo responsable, incentivando la sostenibilidad y la optimización de recursos en la sociedad peruana. Nos alineamos con el ODS 3, buscando generar conciencia sobre la salud y el bienestar mediante alternativas tecnológicas accesibles y efectivas.
 
 <p align="center">
-  <img src="[![download](https://github.com/user-attachments/assets/96d0e883-98d7-4118-9a2a-da8234f2196c)](https://ods.inei.gob.pe/ods/images/variable_sistema/S_SDG_Icons-01-03.png)
-" alt="Imagen de la mis![1](https://github.com/user-attachments/assets/cabf02f9-280e-46fd-a992-d732c480abff)
-ión" width="200">
+  <img src="https://ods.inei.gob.pe/ods/images/variable_sistema/S_SDG_Icons-01-03.png" alt="Descripción de la imagen" width="500"/>
 </p>
+
 
 # Problemática
 El reutilizamiento del aceite de cocina representa un riesgo significativo para la salud humana debido a los compuestos tóxicos que se generan durante su uso repetido. Cuando el aceite es sometido a altas temperaturas varias veces, se forman sustancias como aldehídos y radicales libres, los cuales han sido asociados con enfermedades cardiovasculares, hepáticas y ciertos tipos de cáncer (1). A pesar de ello, en muchos hogares y establecimientos de comida se reutiliza el aceite por desconocimiento o por razones económicas, sin considerar las consecuencias a largo plazo sobre la salud (2). Estas prácticas, además de ser perjudiciales, son comunes en contextos donde no existe una regulación clara sobre el manejo de aceites usados. La exposición continua a los compuestos generados por el aceite reutilizado, ya sea por ingestión directa o por inhalación de vapores durante la fritura, puede afectar negativamente el sistema inmunológico y el metabolismo (3). Por ello, es fundamental promover la educación sobre el uso adecuado del aceite y establecer políticas que regulen su manejo y disposición.
