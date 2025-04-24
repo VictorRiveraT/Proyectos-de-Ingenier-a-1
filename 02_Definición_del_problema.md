@@ -26,3 +26,8 @@ Cuando los establecimientos reutilizan el aceite más allá de los límites segu
 Cuando los clientes presentan síntomas a largo plazo como inflamación, alteraciones digestivas o incluso enfermedades crónicas asociadas al consumo continuo de alimentos fritos en aceite degradado.
 Cuando los trabajadores de cocina inhalan vapores nocivos, afectando su salud respiratoria y general.
 Cuando no existen políticas claras o accesibles para el control del uso del aceite, lo que deja a muchos negocios sin guía o herramientas para una gestión adecuada.
+
+
+
+# Mapa de Empatía
+blob:https://web.whatsapp.com/61dd50bf-8c2e-4763-b6c6-d33f8aef6434
