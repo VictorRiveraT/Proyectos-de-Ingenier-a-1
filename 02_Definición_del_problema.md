@@ -34,4 +34,13 @@ Cuando no existen políticas claras o accesibles para el control del uso del ace
 
 ![WhatsApp Image 2025-04-23 at 11 33 07 PM](https://github.com/user-attachments/assets/8ceafd5b-511f-4472-a70b-f1eed0b72bf1)
 
+# Mapa de ishikawa
+
+![WhatsApp Image 2025-04-24 at 12 02 45 PM](https://github.com/user-attachments/assets/8f95001d-246e-4916-ae0e-ad68a60874d1)
+
+
+# Journey Map
+
+![WhatsApp Image 2025-04-24 at 12 02 45 PM (1)](https://github.com/user-attachments/assets/c26280e4-da3f-4afc-b806-ef261b2f6fb8)
+
 
