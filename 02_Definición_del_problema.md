@@ -30,4 +30,9 @@ Cuando no existen políticas claras o accesibles para el control del uso del ace
 
 
 # Mapa de Empatía
-blob:https://web.whatsapp.com/61dd50bf-8c2e-4763-b6c6-d33f8aef6434
+
+
+<p align="center">
+  <img src="blob:https://web.whatsapp.com/61dd50bf-8c2e-4763-b6c6-d33f8aef6434" alt="Descripción de la imagen" width="200"/>
+</p>
+
