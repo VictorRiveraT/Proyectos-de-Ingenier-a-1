@@ -11,6 +11,8 @@ El reutilizamiento del aceite de cocina representa un riesgo grave para la salud
 
 3. Organización Mundial de la Salud (OMS). (2020). Efectos del consumo de alimentos fritos en aceites reutilizados. Informe Técnico OMS.
 
+4. Gestión Comercial Estrat+egica. (2010). ¿Hay riesgos para la salud al consumir aceites reutilizados?. 
+
 
 
 **Definir el usuario (¿Para quién es un problema?)**
