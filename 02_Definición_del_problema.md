@@ -11,9 +11,9 @@ El reutilizamiento del aceite de cocina representa un riesgo grave para la salud
 
 3. Organización Mundial de la Salud (OMS). (2020). Efectos del consumo de alimentos fritos en aceites reutilizados. Informe Técnico OMS.
 
-4. Gestión Comercial Estratégica. (2010). ¿Hay riesgos para la salud al consumir aceites reutilizados?. 
+4. Gestión Comercial Estratégica. (2010). ¿Hay riesgos para la salud al consumir aceites reutilizados?.
 
-
+5. Instituto Tomas Pascual Sanz. (2012). Detectan aldehídos tóxicos en el aceite recalentado. Available from: https://www.institutotomaspascualsanz.com/detectan-aldehidos-toxicos-en-el-aceite-recalentado/
 
 **Definir el usuario (¿Para quién es un problema?)**
 
