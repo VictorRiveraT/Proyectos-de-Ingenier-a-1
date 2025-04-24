@@ -32,7 +32,6 @@ Cuando no existen políticas claras o accesibles para el control del uso del ace
 # Mapa de Empatía
 
 
-<p align="center">
-  <img src="![WhatsApp Image 2025-04-23 at 11 33 07 PM](https://github.com/user-attachments/assets/d7f99c59-f5b5-40ba-aac3-18fc30a43fee)" alt="Descripción de la imagen" width="200"/>
-</p>
+![WhatsApp Image 2025-04-23 at 11 33 07 PM](https://github.com/user-attachments/assets/8ceafd5b-511f-4472-a70b-f1eed0b72bf1)
+
 
