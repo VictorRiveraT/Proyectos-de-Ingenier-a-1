@@ -33,6 +33,6 @@ Cuando no existen políticas claras o accesibles para el control del uso del ace
 
 
 <p align="center">
-  <img src="blob:https://web.whatsapp.com/61dd50bf-8c2e-4763-b6c6-d33f8aef6434" alt="Descripción de la imagen" width="200"/>
+  <img src="![WhatsApp Image 2025-04-23 at 11 33 07 PM](https://github.com/user-attachments/assets/d7f99c59-f5b5-40ba-aac3-18fc30a43fee)" alt="Descripción de la imagen" width="200"/>
 </p>
 
