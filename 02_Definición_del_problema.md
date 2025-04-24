@@ -41,7 +41,8 @@ Cuando no existen políticas claras o accesibles para el control del uso del ace
 
 
 # Mapa del Viajero
-![WhatsApp Image 2025-04-24 at 12 02 45 PM (1)](https://github.com/user-attachments/assets/c26280e4-da3f-4afc-b806-ef261b2f6fb8)
+![WhatsApp Image 2025-04-24 at 12 34 09 PM](https://github.com/user-attachments/assets/14c2f60f-7d67-4277-bbb6-14380db31cdb)
+
 
 # Bibliografía
 ![WhatsApp Image 2025-04-24 at 12 30 28 PM](https://github.com/user-attachments/assets/3f1a75d2-9028-449e-97ad-540819258149)
