@@ -36,12 +36,12 @@ Cuando no existen políticas claras o accesibles para el control del uso del ace
 ![WhatsApp Image 2025-04-24 at 12 20 23 PM](https://github.com/user-attachments/assets/529dd22b-11bf-4850-a089-f7091aebd0f8)
 
 
-# Mapa de Ishikawa
-![WhatsApp Image 2025-04-24 at 12 02 45 PM](https://github.com/user-attachments/assets/8f95001d-246e-4916-ae0e-ad68a60874d1)
-
-
 # Mapa del Viajero
 ![WhatsApp Image 2025-04-24 at 12 34 09 PM](https://github.com/user-attachments/assets/14c2f60f-7d67-4277-bbb6-14380db31cdb)
+
+
+# Mapa de Ishikawa
+![WhatsApp Image 2025-04-24 at 12 02 45 PM](https://github.com/user-attachments/assets/8f95001d-246e-4916-ae0e-ad68a60874d1)
 
 
 # Bibliografía
