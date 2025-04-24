@@ -14,7 +14,8 @@ El reutilizamiento del aceite de cocina representa un riesgo grave para la salud
 
 
 **Definir el usuario (¿Para quién es un problema?)**
-El problema afecta principalmente a los consumidores de alimentos preparados en restaurantes y establecimientos gastronómicos que reutilizan aceite de cocina en exceso. También involucra a los propios trabajadores de cocina, quienes están expuestos a los vapores tóxicos del aceite sobrecalentado y degradado.
+
+El problema afecta a los consumidores frecuentes de alimentos preparados en restaurantes y establecimientos gastronómicos (principalmente personas con enfermedaes cardiovasculares) quienes están más expuestos a aceites reutilizados sin control de calidad, debido a prácticas comunes en sectores con bajo control sanitario.
 
 **Definir el contexto (¿Por qué es un problema?)**
 El problema radica en la reutilización excesiva del aceite de cocina, práctica común en restaurantes por razones económicas o por desconocimiento de los riesgos asociados. Al someter el aceite a altas temperaturas repetidamente, se generan compuestos tóxicos como aldehídos y radicales libres, los cuales han sido vinculados con enfermedades graves como cáncer, problemas cardiovasculares y hepáticos. Esta situación representa una amenaza para la salud pública, ya que los alimentos preparados con aceite degradado pierden calidad nutricional y se convierten en vehículos de sustancias nocivas. Además, la falta de normativas claras o su escasa fiscalización agrava el problema.
@@ -30,7 +31,8 @@ Cuando no existen políticas claras o accesibles para el control del uso del ace
 
 
 # Mapa de Empatía
-![WhatsApp Image 2025-04-23 at 11 33 07 PM](https://github.com/user-attachments/assets/8ceafd5b-511f-4472-a70b-f1eed0b72bf1)
+![WhatsApp Image 2025-04-24 at 12 20 23 PM](https://github.com/user-attachments/assets/529dd22b-11bf-4850-a089-f7091aebd0f8)
+
 
 # Mapa de Ishikawa
 ![WhatsApp Image 2025-04-24 at 12 02 45 PM](https://github.com/user-attachments/assets/8f95001d-246e-4916-ae0e-ad68a60874d1)
