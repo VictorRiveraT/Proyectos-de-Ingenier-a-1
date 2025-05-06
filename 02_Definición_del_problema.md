@@ -1,4 +1,6 @@
-# Problemática
+# Definición del Problema
+
+**Problemática: La ausencia de herramientas accesibles y eficaces para medir en campo la calidad del aceite reutilizado en establecimientos gastronómicos informales dificulta la fiscalización sanitaria, exponiendo a consumidores y trabajadores a compuestos tóxicos que afectan gravemente la salud pública**
 
 El uso reiterado de aceite de cocina en establecimientos gastronómicos representa un riesgo crítico para la salud pública, especialmente en contextos donde el costo del aceite ha aumentado y las regulaciones son escasas o poco fiscalizadas. Al exponerse a temperaturas elevadas de manera repetida, el aceite sufre procesos de oxidación, hidrólisis y polimerización, generando compuestos peligrosos como aldehídos tóxicos, radicales libres y ácidos grasos trans, los cuales están directamente asociados con enfermedades cardiovasculares, hepáticas, neurodegenerativas e incluso cáncer [1]. 
 
