@@ -1,6 +1,6 @@
 # Definición del Problema
 
-**Problemática: La ausencia de herramientas accesibles y eficaces para medir en campo la calidad del aceite reutilizado en establecimientos gastronómicos informales dificulta la fiscalización sanitaria, exponiendo a consumidores y trabajadores a compuestos tóxicos que afectan gravemente la salud pública**
+**Problemática:** La ausencia de herramientas accesibles y eficaces para medir en campo la calidad del aceite reutilizado en establecimientos gastronómicos informales dificulta la fiscalización sanitaria, exponiendo a consumidores y trabajadores a compuestos tóxicos que afectan gravemente la salud pública
 
 -----
 
