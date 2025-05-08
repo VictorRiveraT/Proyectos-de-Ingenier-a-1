@@ -1,11 +1,3 @@
-# Definición del problema  
-
-![Emisión de humo de aceite degradado](images/aceite-smoke.jpg)  
-*Figura. Humo y partículas de aceite degradado en freidoras de Lima.*  
-El uso reiterado de aceite de cocina en establecimientos gastronómicos de Lima genera residuos peligrosos, deteriora la calidad de alimentos y compromete la salud pública al someter el aceite a múltiples ciclos de calentamiento (180 °C), donde se forman compuestos tóxicos como aldehídos reactivos (4-HNE, MDA), AGEs, grasas trans y radicales libres que inducen inflamación crónica y estrés oxidativo en tejidos cardiovasculares y hepáticos.<sup>1,2</sup>
-
----
-
 ## Contexto Político  
 
 ![Inspección de DIGESA](images/inspeccion-sanitaria.jpg)  
