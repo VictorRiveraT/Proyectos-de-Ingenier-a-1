@@ -9,7 +9,7 @@
 
 El uso reiterado de aceite de cocina en establecimientos gastronómicos representa un riesgo crítico para la salud pública, especialmente en contextos donde el costo del insumo ha aumentado y las regulaciones son escasas o carecen de mecanismos de verificación técnica. Al someterse a temperaturas superiores a 180 °C de forma continua, el aceite inicia reacciones de oxidación de ácidos grasos insaturados, polimerización de triglicéridos e hidrólisis de enlaces éster, generando una mezcla compleja de compuestos peligrosos. Entre ellos destacan aldehídos reactivos (4-HNE, MDA), productos de glicación avanzada (AGEs), ácidos grasos trans y radicales libres, todos asociados a la inflamación crónica, disfunción endotelial y daño mitocondrial en tejidos cardiovasculares, hepáticos y neurológicos. La inhalación de aerosoles de estos subproductos, reportada en cocinas industriales, también incrementa la incidencia de asma ocupacional y enfermedades respiratorias crónicas en el personal de cocina <sup>1</sup> <sup>2</sup>.
 
-Investigaciones de la Universidad de Reading y la Universidad de Illinois han demostrado que la ingestión o inhalación de estos compuestos produce estrés oxidativo a nivel celular, comprometiendo la integridad del ADN y promoviendo procesos carcinogénicos en el tracto digestivo y pulmonar <sup>3</sup> <sup>4</sup>.
+Investigaciones de la Universidad de Reading y la Universidad de Illinois han demostrado que la ingestión o inhalación de estos compuestos produce estrés oxidativo a nivel celular, comprometiendo la integridad del ADN y promoviendo procesos carcinogénicos en el tracto digestivo y pulmonar <sup>3,4</sup>.
 
 ### Definir el usuario (¿Para quién es un problema?)
 
@@ -30,7 +30,7 @@ Cuando los establecimientos gastronómicos reutilizan aceite más allá de los l
 
 ### ¿Qué consecuencias tiene si no se resuelve el problema?
 
-Si no se controla esta práctica, se perpetúan efectos nocivos sobre la salud pública: incremento de enfermedades crónicas, como cáncer, Alzheimer, trastornos hepáticos y cardiovasculares<sup>1</sup> <sup>2</sup>. A esto se suman costos médicos indirectos, informalidad en la gestión de residuos y un ambiente propicio para prácticas alimentarias insalubres. También se pierde la oportunidad de generar cultura de prevención sanitaria en el rubro gastronómico <sup>3</sup>.
+Si no se controla esta práctica, se perpetúan efectos nocivos sobre la salud pública: incremento de enfermedades crónicas, como cáncer, Alzheimer, trastornos hepáticos y cardiovasculares<sup>1,2</sup>. A esto se suman costos médicos indirectos, informalidad en la gestión de residuos y un ambiente propicio para prácticas alimentarias insalubres. También se pierde la oportunidad de generar cultura de prevención sanitaria en el rubro gastronómico <sup>3</sup>.
 
 El aceite reutilizado sufre una transformación química tras múltiples usos a alta temperatura, generando compuestos como aldehídos (4-HNE, MDA), acroleína, acrilamida, hidroperóxidos lipídicos y ácidos grasos trans. Estos compuestos se adhieren y penetran los alimentos fritos, convirtiéndolos en vectores directos de sustancias tóxicas. Su ingesta reiterada se ha relacionado con:
 - Aterosclerosis y enfermedad coronaria (por grasas trans) <sup>2</sup>.
