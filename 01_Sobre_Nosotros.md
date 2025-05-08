@@ -19,12 +19,20 @@ Este documento tiene como propósito exponer nuestra misión y visión como grup
 Somos un equipo de estudiantes de la Universidad Peruana Cayetano Heredia, pertenecientes a la Facultad de Ciencias e Ingeniería, unidos por el interés en generar un impacto positivo en la sociedad y el medio ambiente. Creemos que el análisis, la tecnología y la innovación son herramientas clave para promover un modelo de producción y consumo más sostenible en el Perú.
 
 # 🏆 Nuestra Misión
-Diseñar y desarrollar un prototipo que fomente prácticas de consumo responsable, incentivando la sostenibilidad y la optimización de recursos en la sociedad peruana. Nos alineamos con el ODS 3, buscando generar conciencia sobre la salud y el bienestar mediante alternativas tecnológicas accesibles y efectivas.
 
 <p align="center">
   <img src="https://ods.inei.gob.pe/ods/images/variable_sistema/S_SDG_Icons-01-03.png" alt="Descripción de la imagen" width="200"/>
 </p>
 
+Nuestro propósito es diseñar y desarrollar un prototipo innovador que fomente prácticas de consumo responsable y sostenibilidad en la sociedad peruana, alineándonos directamente con la meta ODS 3.9: “Reducir sustancialmente el número de muertes y enfermedades por productos químicos peligrosos y contaminación del aire, agua y suelo”. Para ello, nos comprometemos a:
+
+1. Diagnosticar necesidades reales mediante pruebas piloto en entornos académicos y pequeñas cocinas de la comunidad universitaria, evaluando el uso y degradación de aceites de cocina.
+2. Desarrollar un dispositivo portátil y de bajo costo que mida parámetros críticos (pH y turbidez), con una interfaz sencilla para usuarios no técnicos.
+3. Validar el prototipo en escenarios controlados de laboratorio y en ferias de innovación de la universidad, recopilando retroalimentación para mejorar su facilidad de uso y precisión.
+5. Difundir los resultados y manuales de operación a través de talleres internos, publicaciones académicas y exposiciones en eventos estudiantiles.
+6. Medir el impacto mediante indicadores como reducción de uso de aceites degradados en los ensayos, aceptación del prototipo por parte de usuarios y replicabilidad del diseño en proyectos de ingeniería.
+
+Con estas acciones, buscamos demostrar la viabilidad de soluciones tecnológicas accesibles para combatir la contaminación química en ámbitos de pequeña escala, sirviendo de base para futuras escalas de implementación.
 
 # 🚀 Nuestra Visión
 Ser un equipo de referencia en el desarrollo de soluciones tecnológicas que impulsen una cultura de consumo responsable, contribuyendo a la reducción del desperdicio de recursos y al fortalecimiento de una sociedad más consciente y sostenible.
