@@ -34,7 +34,7 @@ El aceite reutilizado sufre una transformación química tras múltiples usos a 
 
 ### ¿Cómo se ha intentado resolver este problema hasta ahora?
 
-Las soluciones existentes en Perú y otros países de la región se han centrado en la recolección de aceite usado para su reciclaje como biodiésel. Sin embargo, no existen métodos simples, rápidos ni económicos para determinar la calidad del aceite mientras está en uso activo<sup>4</sup>. La fiscalización sigue dependiendo de observaciones visuales o encuestas, lo cual es subjetivo y fácilmente manipulable<sup>5</sup>.
+Las soluciones existentes en Perú y otros países de la región se han centrado en la recolección de aceite usado para su reciclaje como biodiésel. Sin embargo, no existen métodos simples, rápidos ni económicos para determinar la calidad del aceite mientras está en uso activo <sup>4</sup>. La fiscalización sigue dependiendo de observaciones visuales o encuestas, lo cual es subjetivo y fácilmente manipulable <sup>5</sup>.
 
 ### Solución Propuesta
 
