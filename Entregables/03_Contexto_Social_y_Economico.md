@@ -1,4 +1,3 @@
-```markdown
 # Definición del problema  
 
 ![Emisión de humo de aceite degradado](https://www.istockphoto.com/photo/used-fryer-oil-smoke-gm1201234567-345678901)  
