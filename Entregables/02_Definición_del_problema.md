@@ -94,7 +94,7 @@ Este sistema está dirigido a:
 
 
 # Mapa del Viajero
-![image](https://github.com/user-attachments/assets/bd03cb22-b210-40db-aad1-7bfc524b97ba)
+![image](https://github.com/user-attachments/assets/3e771605-814b-4f4b-9a59-70e1213d0727)
 
 
 # Mapa de Ishikawa
