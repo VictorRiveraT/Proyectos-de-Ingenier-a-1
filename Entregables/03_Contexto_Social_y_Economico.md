@@ -1,29 +1,28 @@
 ## Contexto Político  
 
-En Perú, la **Ley General de Residuos Sólidos (Ley 27314)** clasifica el aceite usado como residuo peligroso sin definir parámetros de deterioro o métodos de evaluación en campo. **DIGESA** regula higiene alimentaria (DS N° 007-2013-SA), pero basa sus inspecciones en muestreos de laboratorio y revisión visual, careciendo de herramientas portátiles para el monitoreo inmediato de pH, índice de peróxidos o turbidez en aceite.<sup>1,2</sup>
-
-En 2021, el **Programa de Formalización de la MYPE Gastronómicas** (PRODUCE) incentivó la mejora de capacidades, pero no incluyó lineamientos técnicos para la evaluación de calidad de aceite, dejando un vacío en la fiscalización preventiva y facilitando la reutilización excesiva.<sup>3</sup>
+En Perú, no existe una normativa técnica clara que regule la reutilización del aceite de cocina en establecimientos gastronómicos. Aunque la Ley General de Residuos Sólidos (Ley N.º 27314) menciona los residuos peligrosos, no establece protocolos sobre límites de degradación del aceite ni requisitos de medición in situ [1]. DIGESA, como órgano técnico del Ministerio de Salud, promueve lineamientos de higiene alimentaria, pero no ha implementado mecanismos de fiscalización específicos para aceites usados.
 
 ---
 
 ## Contexto Económico  
 
-El precio del aceite vegetal en Lima Metropolitana se incrementó un **52 %** entre 2021 y 2022, según INEI, presionando a restaurantes y puestos callejeros a reutilizar aceite más de cinco veces para reducir costos en **25 %** por porción de frituras. Esta dinámica económica sin control de calidad in situ impulsa prácticas de riesgo sanitario y alimentario.<sup>4,5</sup>
+Según el INEI, el precio del aceite vegetal se incrementó más del 50% en Lima Metropolitana entre 2021 y 2022 [2], empujando a pequeños restaurantes y puestos informales a reutilizarlo repetidamente. Este problema es más crítico en zonas con menor acceso a fiscalización municipal, donde la formalización de los negocios gastronómicos es baja. PRODUCE ha promovido programas de formalización MYPE, pero no incluye tecnologías de control de calidad de insumos como el aceite [4]
 
 ---
 
 ## Contexto Social  
 
-Socialmente, más del **60 %** de locales informales en Lima reutiliza aceite sin criterios técnicos, provocando vertidos en redes de saneamiento con costos superiores a **S/ 12 millones** anuales y contaminando ríos y suelos. Solo el **30 %** de cocineros de comedores populares usa equipo de protección, exponiéndose a aerosoles cargados de compuestos nocivos, lo cual aumenta la incidencia de asma ocupacional y enfermedades respiratorias crónicas.<sup>6,7</sup>
+En zonas urbanas del Perú, donde gran parte de la población consume alimentos en cocinas informales o populares, la exposición al aceite degradado es frecuente. Según un informe de CEDRO, más del 60% de los establecimientos informales en Lima desconocen prácticas adecuadas para desechar o controlar el aceite [3]. Además, la SUNASS ha advertido que el vertido de aceites usados en los desagües provoca obstrucciones y contaminación de aguas servidas [5]. Estas prácticas afectan la salud pública y el medio ambiente. <sup>6,7</sup>
 
 ---
 
 # Referencias  
-1. MINAM. Ley General de Residuos Sólidos – Ley 27314 [Internet]. Lima; s.f.  
-2. DIGESA. DS N° 007-2013-SA: Reglamento de Higiene de los Alimentos. Lima: Ministerio de Salud; 2013.  
-3. PRODUCE. Programa de Formalización de la MYPE Gastronómicas [Internet]. Lima; 2021.  
-4. INEI. Variación de precios del aceite en Lima Metropolitana 2022 [Internet]. Lima: INEI; 2022.  
-5. Euromonitor International. Cooking Oil and Fried Foods: Trends Lima. London: Euromonitor; 2023.  
-6. SUNASS. Informe sobre vertidos de aceite usado en Lima [Internet]. Lima; s.f.  
-7. ILO. Safety and health in use of chemicals at work. Geneva: ILO; 2019.  
-```
+1. Ministerio del Ambiente. (s.f.). Ley General de Residuos Sólidos - Ley N.º 27314. https://www.gob.pe/institucion/minsa/normas-legales/251249-188-2006-sa-dvm
+
+2. Instituto Nacional de Estadística e Informática (INEI). (2022). Variación de precios al consumidor 2022. https://www.inei.gob.pe/estadisticas/indice-tematico/precios/
+
+3. CEDRO. (2023). Informe sobre informalidad alimentaria en Perú. Lima: CEDRO.
+
+4. Ministerio de la Producción (PRODUCE). (s.f.). Programa de formalización de la MYPE. https://www.gob.pe/produce
+
+5. Superintendencia Nacional de Servicios de Saneamiento (SUNASS). (s.f.). Informe sobre vertidos de aceites. https://www.sunass.gob.pe/
