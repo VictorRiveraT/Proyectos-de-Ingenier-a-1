@@ -23,23 +23,9 @@ Somos un equipo de estudiantes de la Universidad Peruana Cayetano Heredia, perte
 <p align="center">
   <img src="https://ods.inei.gob.pe/ods/images/variable_sistema/S_SDG_Icons-01-03.png" alt="Descripción de la imagen" width="200"/>
 </p>
+<p align="center"> <img src="sandbox:/mnt/data/2d0ca441-e79a-416e-98d8-c8a75eeebcdb.png" alt="ODS 3.9 Reducir muertes y enfermedades por contaminación" width="150"/> </p>
 
-Nuestro propósito es diseñar y desarrollar un prototipo innovador que fomente prácticas de consumo responsable y sostenibilidad en la sociedad peruana, alineándonos directamente con la meta ODS 3.9: “Reducir sustancialmente el número de muertes y enfermedades por productos químicos peligrosos y contaminación del aire, agua y suelo”. Para ello, nos comprometemos a:
-
-
-**1.** **Diagnosticar** necesidades reales mediante pruebas piloto en entornos académicos y pequeñas cocinas de la comunidad universitaria, evaluando el uso y degradación de aceites de cocina.
-
-**2.** **Desarrollar** un dispositivo portátil y de bajo costo que mida parámetros críticos (pH y turbidez), con una interfaz sencilla para usuarios no técnicos.
-
-**3.** **Validar** el prototipo en escenarios controlados de laboratorio y en ferias de innovación de la universidad, recopilando retroalimentación para mejorar su facilidad de uso y precisión.
-
-**5.** **Difundir** los resultados y manuales de operación a través de talleres internos, publicaciones académicas y exposiciones en eventos 
-estudiantiles.
-
-**6.** **Medir** el impacto mediante indicadores como reducción de uso de aceites degradados en los ensayos, aceptación del prototipo por parte de usuarios y replicabilidad del diseño en proyectos de ingeniería.
-
-
-Con estas acciones, buscamos demostrar la viabilidad de soluciones tecnológicas accesibles para combatir la contaminación química en ámbitos de pequeña escala, sirviendo de base para futuras escalas de implementación.
+En línea con el Objetivo de Desarrollo Sostenible 3: Salud y Bienestar, nuestro equipo centra sus esfuerzos en la meta 3.9: “Reducir sustancialmente el número de muertes y enfermedades por productos químicos peligrosos y contaminación del aire, agua y suelo” (ONU, 2023). Reconocemos el impacto negativo de los subproductos tóxicos generados por aceites degradados en la calidad de los alimentos y la salud de las comunidades. Nuestro proyecto propone el desarrollo de un prototipo tecnológico accesible y de bajo costo que permita evaluar la degradación del aceite en tiempo real, contribuyendo al control de contaminantes y al bienestar colectivo.
 
 # 🚀 Nuestra Visión
 Ser un equipo de referencia en el desarrollo de soluciones tecnológicas que impulsen una cultura de consumo responsable, contribuyendo a la reducción del desperdicio de recursos y al fortalecimiento de una sociedad más consciente y sostenible.
