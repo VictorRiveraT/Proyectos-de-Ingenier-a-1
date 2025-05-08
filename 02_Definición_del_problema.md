@@ -4,9 +4,9 @@
 
 -----
 
-El uso reiterado de aceite de cocina en establecimientos gastronómicos representa un riesgo crítico para la salud pública, especialmente en contextos donde el costo del insumo ha aumentado y las regulaciones son escasas o carecen de mecanismos de verificación técnica. Al someterse a temperaturas superiores a 180 °C de forma continua, el aceite inicia reacciones de oxidación de ácidos grasos insaturados, polimerización de triglicéridos e hidrólisis de enlaces éster, generando una mezcla compleja de compuestos peligrosos. Entre ellos destacan aldehídos reactivos (4-HNE, MDA), productos de glicación avanzada (AGEs), ácidos grasos trans y radicales libres, todos asociados a la inflamación crónica, disfunción endotelial y daño mitocondrial en tejidos cardiovasculares, hepáticos y neurológicos. La inhalación de aerosoles de estos subproductos, reportada en cocinas industriales, también incrementa la incidencia de asma ocupacional y enfermedades respiratorias crónicas en el personal de cocina[^1][^2].
+El uso reiterado de aceite de cocina en establecimientos gastronómicos representa un riesgo crítico para la salud pública, especialmente en contextos donde el costo del insumo ha aumentado y las regulaciones son escasas o carecen de mecanismos de verificación técnica. Al someterse a temperaturas superiores a 180 °C de forma continua, el aceite inicia reacciones de oxidación de ácidos grasos insaturados, polimerización de triglicéridos e hidrólisis de enlaces éster, generando una mezcla compleja de compuestos peligrosos. Entre ellos destacan aldehídos reactivos (4-HNE, MDA), productos de glicación avanzada (AGEs), ácidos grasos trans y radicales libres, todos asociados a la inflamación crónica, disfunción endotelial y daño mitocondrial en tejidos cardiovasculares, hepáticos y neurológicos. La inhalación de aerosoles de estos subproductos, reportada en cocinas industriales, también incrementa la incidencia de asma ocupacional y enfermedades respiratorias crónicas en el personal de cocina [1][2].
 
-Investigaciones de la Universidad de Reading y la Universidad de Illinois han demostrado que la ingestión o inhalación de estos compuestos produce estrés oxidativo a nivel celular, comprometiendo la integridad del ADN y promoviendo procesos carcinogénicos en el tracto digestivo y pulmonar [^3][^4]. Además, estudios epidemiológicos en América Latina indican que zonas con alta informalidad gastronómica muestran un 20 % más de hospitalizaciones por problemas cardiovasculares comparadas con áreas de control, lo que subraya la urgencia de monitorear y regular la calidad del aceite en tiempo real. Esta evidencia convierte la reutilización excesiva del aceite en una práctica de alto riesgo sanitario que exige protocolos cuantitativos de evaluación y control, más allá de las inspecciones visuales y olfativas tradicionales.
+Investigaciones de la Universidad de Reading y la Universidad de Illinois han demostrado que la ingestión o inhalación de estos compuestos produce estrés oxidativo a nivel celular, comprometiendo la integridad del ADN y promoviendo procesos carcinogénicos en el tracto digestivo y pulmonar [3][4].
 
 ### Definir el usuario (¿Para quién es un problema?)
 
@@ -36,23 +36,11 @@ El aceite reutilizado sufre una transformación química tras múltiples usos a 
 
 Las soluciones existentes en Perú y otros países de la región se han centrado en la recolección de aceite usado para su reciclaje como biodiésel. Sin embargo, no existen métodos simples, rápidos ni económicos para determinar la calidad del aceite mientras está en uso activo [4]. La fiscalización sigue dependiendo de observaciones visuales o encuestas, lo cual es subjetivo y fácilmente manipulable [5].
 
-**Contexto Político**
-
-En Perú, no existe una normativa técnica clara que regule la reutilización del aceite de cocina en establecimientos gastronómicos. Aunque la Ley General de Residuos Sólidos (Ley N.º 27314) menciona los residuos peligrosos, no establece protocolos sobre límites de degradación del aceite ni requisitos de medición in situ [6]. DIGESA, como órgano técnico del Ministerio de Salud, promueve lineamientos de higiene alimentaria, pero no ha implementado mecanismos de fiscalización específicos para aceites usados. 
-
-**Contexto Económico**
-
-Según el INEI, el precio del aceite vegetal se incrementó más del 50% en Lima Metropolitana entre 2021 y 2022 [7], empujando a pequeños restaurantes y puestos informales a reutilizarlo repetidamente. Este problema es más crítico en zonas con menor acceso a fiscalización municipal, donde la formalización de los negocios gastronómicos es baja. PRODUCE ha promovido programas de formalización MYPE, pero no incluye tecnologías de control de calidad de insumos como el aceite [11]. 
-
-**Contexto Social**
-
-En zonas urbanas del Perú, donde gran parte de la población consume alimentos en cocinas informales o populares, la exposición al aceite degradado es frecuente. Según un informe de CEDRO, más del 60% de los establecimientos informales en Lima desconocen prácticas adecuadas para desechar o controlar el aceite [8]. Además, la SUNASS ha advertido que el vertido de aceites usados en los desagües provoca obstrucciones y contaminación de aguas servidas [12]. Estas prácticas afectan la salud pública y el medio ambiente.
-
 ### Solución Propuesta
 Se propone desarrollar un dispositivo portátil, autónomo y de bajo costo que permita medir en campo los parámetros de pH y turbidez del aceite reutilizado. El sistema contará con sensores, pantalla para lectura instantánea, alarmas LED/zumbador para advertencias, y opcionalmente, conectividad para almacenar datos (microSD o Bluetooth).
 
 El sistema permitirá detectar si un aceite ha excedido los límites aceptables (por
-ejemplo, pH < 4.5 o turbidez > 500 NTU en emulsiones [9]). Esto facilitará la labor de
+ejemplo, pH < 4.5 o turbidez > 500 NTU en emulsiones [10]). Esto facilitará la labor de
 fiscalización, permitirá a negocios informales autocontrolarse, y reducirá riesgos
 sanitarios en la población.
 
@@ -92,15 +80,9 @@ Este sistema está dirigido a:
 
 7) Instituto Nacional de Estadística e Informática (INEI). (2022). Variación de precios al consumidor 2022. https://www.inei.gob.pe/estadisticas/indice-tematico/precios/
 
-8) CEDRO. (2023). Informe sobre informalidad alimentaria en Perú. Lima: CEDRO.
+9) FAO/WHO. (1994). Grasas y aceites alimentarios en la nutrición humana. Roma: FAO. https://www.fao.org/3/y2774s/y2774s06.htm
 
-9) Lethuaut, L., Bouvier-Navé, P., & Rousseau, D. (2016). Evaluation of frying oil degradation. ResearchGate. https://www.researchgate.net/publication/310742828
-
-10) Sjaastad, A. K., & Svendsen, K. (2012). Exposure to particles, gases and vapours during frying in commercial kitchens. Journal of Occupational Health, 54(5), 405–413. https://doi.org/10.1539/joh.11-0208-OA
-
-11) Ministerio de la Producción (PRODUCE). (s.f.). Programa de formalización de la MYPE. https://www.gob.pe/produce
-
-12) Superintendencia Nacional de Servicios de Saneamiento (SUNASS). (s.f.). Informe sobre vertidos de aceites. https://www.sunass.gob.pe/
+10) Lethuaut, L., Bouvier-Navé, P., & Rousseau, D. (2016). Evaluation of frying oil degradation. ResearchGate. https://www.researchgate.net/publication/310742828
 
 # Mapa de Empatía
 ![WhatsApp Image 2025-05-02 at 1 14 55 PM (2)](https://github.com/user-attachments/assets/daa28ac6-3453-4b49-af6f-ed795f028ffd)
