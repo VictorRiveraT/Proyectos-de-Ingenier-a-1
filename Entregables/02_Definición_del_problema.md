@@ -4,6 +4,9 @@
 
 -----
 
+![image](https://github.com/user-attachments/assets/a8698fb6-a0be-44e7-9e8e-d34798f6d9ae)
+<sup>FUENTE: Getty Images / Sinc</sup>
+
 El uso reiterado de aceite de cocina en establecimientos gastronómicos representa un riesgo crítico para la salud pública, especialmente en contextos donde el costo del insumo ha aumentado y las regulaciones son escasas o carecen de mecanismos de verificación técnica. Al someterse a temperaturas superiores a 180 °C de forma continua, el aceite inicia reacciones de oxidación de ácidos grasos insaturados, polimerización de triglicéridos e hidrólisis de enlaces éster, generando una mezcla compleja de compuestos peligrosos. Entre ellos destacan aldehídos reactivos (4-HNE, MDA), productos de glicación avanzada (AGEs), ácidos grasos trans y radicales libres, todos asociados a la inflamación crónica, disfunción endotelial y daño mitocondrial en tejidos cardiovasculares, hepáticos y neurológicos. La inhalación de aerosoles de estos subproductos, reportada en cocinas industriales, también incrementa la incidencia de asma ocupacional y enfermedades respiratorias crónicas en el personal de cocina <sup>1</sup> <sup>2</sup>.
 
 Investigaciones de la Universidad de Reading y la Universidad de Illinois han demostrado que la ingestión o inhalación de estos compuestos produce estrés oxidativo a nivel celular, comprometiendo la integridad del ADN y promoviendo procesos carcinogénicos en el tracto digestivo y pulmonar <sup>3</sup> <sup>4</sup>.
@@ -15,6 +18,9 @@ Este problema afecta principalmente a entidades encargadas de la fiscalización 
 ### Definir el contexto (¿Por qué es un problema?)
 
 La reutilización excesiva del aceite es una práctica común en restaurantes informales, carretillas, ferias gastronómicas y comedores populares, debido al aumento de su precio y la falta de conocimiento técnico. Esta situación se ha agudizado tras la pandemia del COVID-19, que impulsó la aparición de nuevos negocios gastronómicos sin fiscalización. En estos espacios, no se realiza ningún tipo de control técnico sobre la calidad del aceite utilizado.
+
+![image](https://github.com/user-attachments/assets/e730a762-6ed2-4e6a-ad94-3306f2478f12)
+FUENTE: Dreamstime
 
 ### Definir los puntos de dolor (¿Cuándo y cómo es un problema?)
 
