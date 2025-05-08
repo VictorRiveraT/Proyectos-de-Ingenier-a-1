@@ -42,17 +42,17 @@ En Perú, no existe una normativa técnica clara que regule la reutilización de
 
 **Contexto Económico**
 
-Según el INEI, el precio del aceite vegetal se incrementó más del 50% en Lima Metropolitana entre 2021 y 2022 [7], empujando a pequeños restaurantes y puestos informales a reutilizarlo repetidamente. Este problema es más crítico en zonas con menor acceso a fiscalización municipal, donde la formalización de los negocios gastronómicos es baja. PRODUCE ha promovido programas de formalización MYPE, pero no incluye tecnologías de control de calidad de insumos como el aceite [12]. 
+Según el INEI, el precio del aceite vegetal se incrementó más del 50% en Lima Metropolitana entre 2021 y 2022 [7], empujando a pequeños restaurantes y puestos informales a reutilizarlo repetidamente. Este problema es más crítico en zonas con menor acceso a fiscalización municipal, donde la formalización de los negocios gastronómicos es baja. PRODUCE ha promovido programas de formalización MYPE, pero no incluye tecnologías de control de calidad de insumos como el aceite [11]. 
 
 **Contexto Social**
 
-En zonas urbanas del Perú, donde gran parte de la población consume alimentos en cocinas informales o populares, la exposición al aceite degradado es frecuente. Según un informe de CEDRO, más del 60% de los establecimientos informales en Lima desconocen prácticas adecuadas para desechar o controlar el aceite [8]. Además, la SUNASS ha advertido que el vertido de aceites usados en los desagües provoca obstrucciones y contaminación de aguas servidas [13]. Estas prácticas afectan la salud pública y el medio ambiente.
+En zonas urbanas del Perú, donde gran parte de la población consume alimentos en cocinas informales o populares, la exposición al aceite degradado es frecuente. Según un informe de CEDRO, más del 60% de los establecimientos informales en Lima desconocen prácticas adecuadas para desechar o controlar el aceite [8]. Además, la SUNASS ha advertido que el vertido de aceites usados en los desagües provoca obstrucciones y contaminación de aguas servidas [12]. Estas prácticas afectan la salud pública y el medio ambiente.
 
 ### Solución Propuesta
 Se propone desarrollar un dispositivo portátil, autónomo y de bajo costo que permita medir en campo los parámetros de pH y turbidez del aceite reutilizado. El sistema contará con sensores, pantalla para lectura instantánea, alarmas LED/zumbador para advertencias, y opcionalmente, conectividad para almacenar datos (microSD o Bluetooth).
 
 El sistema permitirá detectar si un aceite ha excedido los límites aceptables (por
-ejemplo, pH < 4.5 o turbidez > 500 NTU en emulsiones [10]). Esto facilitará la labor de
+ejemplo, pH < 4.5 o turbidez > 500 NTU en emulsiones [9]). Esto facilitará la labor de
 fiscalización, permitirá a negocios informales autocontrolarse, y reducirá riesgos
 sanitarios en la población.
 
@@ -94,15 +94,13 @@ Este sistema está dirigido a:
 
 8) CEDRO. (2023). Informe sobre informalidad alimentaria en Perú. Lima: CEDRO.
 
-9) FAO/WHO. (1994). Grasas y aceites alimentarios en la nutrición humana. Roma: FAO. https://www.fao.org/3/y2774s/y2774s06.htm
+9) Lethuaut, L., Bouvier-Navé, P., & Rousseau, D. (2016). Evaluation of frying oil degradation. ResearchGate. https://www.researchgate.net/publication/310742828
 
-10) Lethuaut, L., Bouvier-Navé, P., & Rousseau, D. (2016). Evaluation of frying oil degradation. ResearchGate. https://www.researchgate.net/publication/310742828
+10) Sjaastad, A. K., & Svendsen, K. (2012). Exposure to particles, gases and vapours during frying in commercial kitchens. Journal of Occupational Health, 54(5), 405–413. https://doi.org/10.1539/joh.11-0208-OA
 
-11) Sjaastad, A. K., & Svendsen, K. (2012). Exposure to particles, gases and vapours during frying in commercial kitchens. Journal of Occupational Health, 54(5), 405–413. https://doi.org/10.1539/joh.11-0208-OA
+11) Ministerio de la Producción (PRODUCE). (s.f.). Programa de formalización de la MYPE. https://www.gob.pe/produce
 
-12) Ministerio de la Producción (PRODUCE). (s.f.). Programa de formalización de la MYPE. https://www.gob.pe/produce
-
-13) Superintendencia Nacional de Servicios de Saneamiento (SUNASS). (s.f.). Informe sobre vertidos de aceites. https://www.sunass.gob.pe/
+12) Superintendencia Nacional de Servicios de Saneamiento (SUNASS). (s.f.). Informe sobre vertidos de aceites. https://www.sunass.gob.pe/
 
 # Mapa de Empatía
 ![WhatsApp Image 2025-05-02 at 1 14 55 PM (2)](https://github.com/user-attachments/assets/daa28ac6-3453-4b49-af6f-ed795f028ffd)
