@@ -90,7 +90,7 @@ Este sistema está dirigido a:
 10) Lethuaut, L., Bouvier-Navé, P., & Rousseau, D. (2016). Evaluation of frying oil degradation. ResearchGate. https://www.researchgate.net/publication/310742828
 
 # Mapa de Empatía
-![WhatsApp Image 2025-05-02 at 1 14 55 PM (2)](https://github.com/user-attachments/assets/daa28ac6-3453-4b49-af6f-ed795f028ffd)
+![image](https://github.com/user-attachments/assets/85f9260b-c484-4cb7-8b58-4e7ec7e96afe)
 
 
 # Mapa del Viajero
