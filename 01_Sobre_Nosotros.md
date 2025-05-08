@@ -23,7 +23,6 @@ Somos un equipo de estudiantes de la Universidad Peruana Cayetano Heredia, perte
 <p align="center">
   <img src="https://ods.inei.gob.pe/ods/images/variable_sistema/S_SDG_Icons-01-03.png" alt="Descripción de la imagen" width="200"/>
 </p>
-<p align="center"> <img src="sandbox:/mnt/data/2d0ca441-e79a-416e-98d8-c8a75eeebcdb.png" alt="ODS 3.9 Reducir muertes y enfermedades por contaminación" width="150"/> </p>
 
 En línea con el Objetivo de Desarrollo Sostenible 3: Salud y Bienestar, nuestro equipo centra sus esfuerzos en la meta 3.9: “Reducir sustancialmente el número de muertes y enfermedades por productos químicos peligrosos y contaminación del aire, agua y suelo” (ONU, 2023). Reconocemos el impacto negativo de los subproductos tóxicos generados por aceites degradados en la calidad de los alimentos y la salud de las comunidades. Nuestro proyecto propone el desarrollo de un prototipo tecnológico accesible y de bajo costo que permita evaluar la degradación del aceite en tiempo real, contribuyendo al control de contaminantes y al bienestar colectivo.
 
