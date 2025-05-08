@@ -20,7 +20,7 @@ Este problema afecta principalmente a entidades encargadas de la fiscalización 
 La reutilización excesiva del aceite es una práctica común en restaurantes informales, carretillas, ferias gastronómicas y comedores populares, debido al aumento de su precio y la falta de conocimiento técnico. Esta situación se ha agudizado tras la pandemia del COVID-19, que impulsó la aparición de nuevos negocios gastronómicos sin fiscalización. En estos espacios, no se realiza ningún tipo de control técnico sobre la calidad del aceite utilizado.
 
 ![image](https://github.com/user-attachments/assets/e730a762-6ed2-4e6a-ad94-3306f2478f12)
-FUENTE: Dreamstime
+<sup>FUENTE: Dreamstime</sup> 
 
 ### Definir los puntos de dolor (¿Cuándo y cómo es un problema?)
 
