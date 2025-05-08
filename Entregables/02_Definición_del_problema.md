@@ -98,4 +98,5 @@ Este sistema está dirigido a:
 
 
 # Mapa de Ishikawa
-![WhatsApp Image 2025-05-02 at 1 14 55 PM](https://github.com/user-attachments/assets/9639c042-5674-4867-a43f-c63ad670bc57)
+![image](https://github.com/user-attachments/assets/a083b4db-20dd-409a-8554-976d10def282)
+
