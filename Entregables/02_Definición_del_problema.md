@@ -94,7 +94,7 @@ Este sistema está dirigido a:
 
 
 # Mapa del Viajero
-![WhatsApp Image 2025-05-02 at 1 14 55 PM (1)](https://github.com/user-attachments/assets/5f3700de-ac01-406a-bfdb-ddc47588fa55)
+![image](https://github.com/user-attachments/assets/bd03cb22-b210-40db-aad1-7bfc524b97ba)
 
 
 # Mapa de Ishikawa
