@@ -21,6 +21,7 @@ La reutilización excesiva del aceite es una práctica común en restaurantes in
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e730a762-6ed2-4e6a-ad94-3306f2478f12"/>
+</p>
 <sup>FUENTE: Dreamstime</sup> 
 
 ### Definir los puntos de dolor (¿Cuándo y cómo es un problema?)
