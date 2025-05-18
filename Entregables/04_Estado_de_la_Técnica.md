@@ -1,5 +1,6 @@
 ### Caja Negra
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jesusmorales/Fundamentos-De-Dise-o---EQ-3/main/Im%C3%A1genes/Caja_Negra_EQ03.jpeg" />
+  <img src="![image](https://github.com/user-attachments/assets/34b478a3-7463-4271-b69f-be1a53371060)
+" />
 </p>
