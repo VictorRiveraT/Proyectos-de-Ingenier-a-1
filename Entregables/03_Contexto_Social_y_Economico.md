@@ -25,4 +25,10 @@ En zonas urbanas del Perú, donde gran parte de la población consume alimentos 
 
 4. Ministerio de la Producción (PRODUCE). (s.f.). Programa de formalización de la MYPE. https://www.gob.pe/produce
 
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jesusmorales/Fundamentos-De-Dise-o---EQ-3/main/Im%C3%A1genes/Caja_Negra_EQ03.jpeg" />
+</p>
+
 5. Superintendencia Nacional de Servicios de Saneamiento (SUNASS). (s.f.). Informe sobre vertidos de aceites. https://www.sunass.gob.pe/
