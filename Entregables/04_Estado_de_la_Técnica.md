@@ -5,7 +5,7 @@
 </p>
 
 <p align= "center">
-  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/refs/heads/main/Im%C3%A1genes/Lista_De_Exigencias_02_EQ03.jpeg?raw=true"/>
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Lista_De_Exigencias_02_EQ03.jpeg?raw=true"/>
 </p>
 
 
