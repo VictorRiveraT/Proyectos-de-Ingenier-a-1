@@ -20,7 +20,7 @@
 ## Lista de Exigencias
 
 <p align= "center">
-  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Lista_De_Exigencias_01_EQ03.jpeg?raw=true"/>
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Lista_De_Exigencias_01_EQ03.JPG?raw=true"/>
 </p>
 
 <p align= "center">
