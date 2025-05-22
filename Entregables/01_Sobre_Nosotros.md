@@ -21,7 +21,7 @@ Somos un equipo de estudiantes de la Universidad Peruana Cayetano Heredia, perte
 # 🏆 Nuestra Misión
 
 <p align="center">
-  <img src="https://ods.inei.gob.pe/ods/images/variable_sistema/S_SDG_Icons-01-03.png" alt="Descripción de la imagen" width="200"/>
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/ODS_03_EQ03.jpg?raw=true" alt="Descripción de la imagen" width="200"/>
 </p>
 
 En línea con el Objetivo de Desarrollo Sostenible 3: Salud y Bienestar, nuestro equipo centra sus esfuerzos en la meta 3.9: “Reducir sustancialmente el número de muertes y enfermedades por productos químicos peligrosos y contaminación del aire, agua y suelo” (ONU, 2023). Reconocemos el impacto negativo de los subproductos tóxicos generados por aceites degradados en la calidad de los alimentos y la salud de las comunidades. Nuestro proyecto propone el desarrollo de un prototipo tecnológico accesible y de bajo costo que permita evaluar la degradación del aceite en tiempo real, contribuyendo al control de contaminantes y al bienestar colectivo.
@@ -135,5 +135,5 @@ Soy estudiante de Ingeniería Informática con interés en la bioinformática y 
 
 ## 🤝 Imagen del Equipo  
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dc2735cc-b476-41eb-b225-048a50ce7f3c" alt="Imagen de equipo" width="600">
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Im%C3%A1gen_Equipo.jpg?raw=true" alt="Imagen de equipo" width="600">
 </p>
