@@ -49,6 +49,10 @@ Estudiante de tercer año de Ingeniería Ambiental con interés en energías ren
 
 📌 "*Coordinador General*": Encargado de la organización y supervisión del proyecto, asegurando el trabajo coordinado entre todas las áreas. Facilita la comunicación, apoya en la resolución de problemas y fomenta un ambiente colaborativo para alcanzar los objetivos planteados.
 
+<p align="center">
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Im%C3%A1gen_Flavio.jpg?raw=true"/>
+</p>
+
 ### **Herrera Tumba Óscar Manuel - (📧 oscar.herrera@upch.pe)**
 
 **Carrera:** Ingeniería Ambiental
@@ -65,6 +69,9 @@ Estudiante de la carrera de Ingeniería Ambiental interesado en el rubro del tra
 
 📌 "*Coordinador de Investigación y Gestión del Proyecto*": Responsable de la investigación necesaria para el desarrollo del proyecto, así como de la gestión del equipo en las actividades requeridas.
 
+<p align="center">
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Im%C3%A1gen_Oscar.jpg?raw=true"/>
+</p>
 
 ### **Morales Alvarado Jesús Anselmo - (📧 jesus.morales@upch.pe)**
 
@@ -82,6 +89,9 @@ Estudiante de Ingeniería Informática, aún está explorando las diferentes ár
 
 📌 "*Coordinador de Programación y Página Web*": Encargado de diseñar e incluir lo requerido para este proyecto.
 
+<p align="center">
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Im%C3%A1gen_Jes%C3%BAs.jpg?raw=true"/>
+</p>
 
 ### **Rivera Torres Victor Daniel - (📧 victor.rivera@upch.pe)**
 
@@ -99,6 +109,9 @@ Estudiante de tercer año de Ingeniería Informática con interés en bioinform�
 
 📌 "*Coordinador de Diseño y Prototipado*": Encargado de la elaboración de los mapas de construcción para el desarrollo de prototipos, asegurando su correcta planificación y funcionalidad.
 
+<p align="center">
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Im%C3%A1gen_Victor.jpg?raw=true"/>
+</p>
 
 ### **Villamizar Maravi Andrea Margarita - (📧 andrea.villamizar@upch.pe)**
 
@@ -116,6 +129,9 @@ Soy estudiante de Ingeniería Informática con interés en la bioinformática y 
 
 📌 "*Coordinadora de Electronica y Manufactura*": Encargada de la integración y gestión de sistemas electrónicos, además, del control de materiales y manufactura. Dirección de pruebas y calidad para mejorar diseños. Responsable del mantenimiento y resolución de fallos. Encargado de la seguridad del equipo y materiales..
 
+<p align="center">
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Im%C3%A1gen_Andrea.jpg?raw=true"/>
+</p>
 
 ## 🤝 Imagen del Equipo  
 <p align="center">
