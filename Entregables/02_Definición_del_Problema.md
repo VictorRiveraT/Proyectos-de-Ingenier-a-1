@@ -4,7 +4,9 @@
 
 -----
 
-![image](https://github.com/user-attachments/assets/a8698fb6-a0be-44e7-9e8e-d34798f6d9ae)
+<p align="center">
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Im%C3%A1gen_%20Aceite.jpg?raw=true" width="350"/>
+</p>
 <sup>FUENTE: Getty Images / Sinc</sup>
 
 El uso reiterado de aceite de cocina en establecimientos gastronómicos representa un riesgo crítico para la salud pública, especialmente en contextos donde el costo del insumo ha aumentado y las regulaciones son escasas o carecen de mecanismos de verificación técnica. Al someterse a temperaturas superiores a 180 °C de forma continua, el aceite inicia reacciones de oxidación de ácidos grasos insaturados, polimerización de triglicéridos e hidrólisis de enlaces éster, generando una mezcla compleja de compuestos peligrosos. Entre ellos destacan aldehídos reactivos (4-HNE, MDA), productos de glicación avanzada (AGEs), ácidos grasos trans y radicales libres, todos asociados a la inflamación crónica, disfunción endotelial y daño mitocondrial en tejidos cardiovasculares, hepáticos y neurológicos. La inhalación de aerosoles de estos subproductos, reportada en cocinas industriales, también incrementa la incidencia de asma ocupacional y enfermedades respiratorias crónicas en el personal de cocina <sup>1</sup> <sup>2</sup>.
@@ -20,7 +22,7 @@ Este problema afecta principalmente a entidades encargadas de la fiscalización 
 La reutilización excesiva del aceite es una práctica común en restaurantes informales, carretillas, ferias gastronómicas y comedores populares, debido al aumento de su precio y la falta de conocimiento técnico. Esta situación se ha agudizado tras la pandemia del COVID-19, que impulsó la aparición de nuevos negocios gastronómicos sin fiscalización. En estos espacios, no se realiza ningún tipo de control técnico sobre la calidad del aceite utilizado.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e730a762-6ed2-4e6a-ad94-3306f2478f12"/>
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Im%C3%A1gen_%20Aceite1.jpg?raw=true" width="350"/>
 </p>
 <sup>FUENTE: Dreamstime</sup>
 
@@ -90,13 +92,18 @@ Este sistema está dirigido a:
 10) Lethuaut, L., Bouvier-Navé, P., & Rousseau, D. (2016). Evaluation of frying oil degradation. ResearchGate. https://www.researchgate.net/publication/310742828
 
 # Mapa de Empatía
-![image](https://github.com/user-attachments/assets/85f9260b-c484-4cb7-8b58-4e7ec7e96afe)
+<p align="center">
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Mapa_De_Empat%C3%ADa_EQ03.jpg?raw=true" width="500"/>
+</p>
 
 
 # Mapa del Viajero
-![image](https://github.com/user-attachments/assets/3e771605-814b-4f4b-9a59-70e1213d0727)
+<p align="center">
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Mapa_Del_Viajero_EQ03.jpg?raw=true" width="500"/>
+</p>
 
 
 # Mapa de Ishikawa
-![image](https://github.com/user-attachments/assets/a083b4db-20dd-409a-8554-976d10def282)
-
+<p align="center">
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Mapa_De_Ishikawa_EQ03.jpg?raw=true" width="500"/>
+</p>
