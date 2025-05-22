@@ -5,7 +5,7 @@
 -----
 
 <p align="center">
-  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Im%C3%A1gen_%20Aceite.jpg?raw=true" width="350"/>
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Im%C3%A1gen_%20Aceite.jpg?raw=true" width="450"/>
 </p>
 <sup>FUENTE: Getty Images / Sinc</sup>
 
@@ -22,7 +22,7 @@ Este problema afecta principalmente a entidades encargadas de la fiscalización 
 La reutilización excesiva del aceite es una práctica común en restaurantes informales, carretillas, ferias gastronómicas y comedores populares, debido al aumento de su precio y la falta de conocimiento técnico. Esta situación se ha agudizado tras la pandemia del COVID-19, que impulsó la aparición de nuevos negocios gastronómicos sin fiscalización. En estos espacios, no se realiza ningún tipo de control técnico sobre la calidad del aceite utilizado.
 
 <p align="center">
-  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Im%C3%A1gen_%20Aceite1.jpg?raw=true" width="350"/>
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Im%C3%A1gen_%20Aceite1.jpg?raw=true" width="450"/>
 </p>
 <sup>FUENTE: Dreamstime</sup>
 
@@ -99,11 +99,11 @@ Este sistema está dirigido a:
 
 # Mapa del Viajero
 <p align="center">
-  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Mapa_Del_Viajero_EQ03.jpg?raw=true" width="500"/>
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Mapa_Del_Viajero_EQ03.jpg?raw=true" width="550"/>
 </p>
 
 
 # Mapa de Ishikawa
 <p align="center">
-  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Mapa_De_Ishikawa_EQ03.jpg?raw=true" width="500"/>
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Mapa_De_Ishikawa_EQ03.jpg?raw=true" width="550"/>
 </p>
