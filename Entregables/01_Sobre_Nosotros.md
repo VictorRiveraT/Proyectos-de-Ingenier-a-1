@@ -50,7 +50,7 @@ Estudiante de tercer año de Ingeniería Ambiental con interés en energías ren
 📌 "*Coordinador General*": Encargado de la organización y supervisión del proyecto, asegurando el trabajo coordinado entre todas las áreas. Facilita la comunicación, apoya en la resolución de problemas y fomenta un ambiente colaborativo para alcanzar los objetivos planteados.
 
 <p align="center">
-  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Im%C3%A1gen_Flavio.jpg?raw=true"/>
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Im%C3%A1gen_Flavio.jpg?raw=true" width="200"/>
 </p>
 
 ### **Herrera Tumba Óscar Manuel - (📧 oscar.herrera@upch.pe)**
