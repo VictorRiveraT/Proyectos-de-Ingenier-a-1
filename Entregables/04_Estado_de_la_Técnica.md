@@ -37,13 +37,13 @@
 ## Esquema de Funciones
 
 <p align="center">
-  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Esquema_EQ03.jpeg?raw=true"  width="450"/>
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Esquema_EQ03.jpeg?raw=true"  width="600"/>
 </p>
 
 ## Matriz Morfológica
 
 <p align="center">
-  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Matriz_Morfol%C3%B3gica_EQ03.jpeg?raw=true"  width="450"/>
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Matriz_Morfol%C3%B3gica_EQ03.jpeg?raw=true"  width="600"/>
 </p>
 
 ## Bocetos
