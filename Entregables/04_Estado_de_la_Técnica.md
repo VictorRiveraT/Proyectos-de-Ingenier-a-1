@@ -37,5 +37,42 @@
 ## Esquema de Funciones
 
 <p align="center">
-  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Esquema_De_Funciones_EQ03.jpg?raw=true" />
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Esquema_De_Funciones_EQ03.jpeg?raw=true" />
+</p>
+
+## Matriz Morfológica
+
+<p align="center">
+  <img src=""/>
+</p>
+
+## Bocetos
+
+### 01
+<p align="center">
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/BOCETO_01_EQ03.jpeg?raw=true"/>
+</p>
+
+### 02
+<p align="center">
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/BOCETO_02_EQ03.jpeg?raw=true"/>
+</p>
+
+### 03
+<p align="center">
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/BOCETO_03_EQ03.jpeg?raw=true"/>
+</p>
+
+## Modelado 3D: Propuesta Seleccionada
+
+<p align="center">
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Modelo_3D_EQ03.jpeg?raw=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Modelo_3D_02_EQ03.jpeg?raw=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Modelo_3D_03_EQ03.jpeg?raw=true"/>
 </p>
