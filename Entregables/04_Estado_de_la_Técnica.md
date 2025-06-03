@@ -70,6 +70,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/WhatsApp%20Image%202025-06-03%20at%209.23.14%20AM.jpeg?raw=true"  width="450"/>
+</p>
+
+<p align="center">
   <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/WhatsApp%20Image%202025-06-03%20at%209.09.26%20AM.jpeg?raw=true"  width="450"/>
 </p>
 
