@@ -37,13 +37,13 @@
 ## Esquema de Funciones
 
 <p align="center">
-  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Esquema_EQ03.jpeg?raw=true"  width="800"/>
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Esquema_De_Funciones_EQ03.png?raw=true"  width="800"/>
 </p>
 
 ## Matriz Morfológica
 
 <p align="center">
-  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/WhatsApp%20Image%202025-05-29%20at%2011.17.44%20AM.jpeg?raw=true"  width="800"/>
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Matriz_Morfol%C3%B3gica_EQ03.png?raw=true"  width="800"/>
 </p>
 
 ## Bocetos
@@ -66,17 +66,17 @@
 ## Modelado 3D: Propuesta Seleccionada (Boceto 01)
 
 <p align="center">
-  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/WhatsApp%20Image%202025-06-03%20at%209.14.47%20AM.jpeg?raw=true"  width="450"/>
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Modelo_3D_01_EQ03.jpeg?raw=true"  width="450"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/WhatsApp%20Image%202025-06-03%20at%209.23.14%20AM.jpeg?raw=true"  width="450"/>
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Modelo_3D_02_EQ03.jpeg?raw=true"  width="450"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/WhatsApp%20Image%202025-06-03%20at%209.09.26%20AM.jpeg?raw=true"  width="450"/>
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Modelo_3D_03_EQ03.jpeg?raw=true"  width="450"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/WhatsApp%20Image%202025-06-03%20at%209.08.46%20AM.jpeg?raw=true"  width="450"/>
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Modelo_3D_04_EQ03.jpeg?raw=true"  width="450"/>
 </p>
