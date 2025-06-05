@@ -42,12 +42,12 @@ El aceite reutilizado sufre una transformación química tras múltiples usos a 
 - Síndrome metabólico e inflamación crónica <sup>6</sup>.
 - Bronquitis y asma ocupacional por inhalación de vapores <sup>7</sup>.
 
+### Parámetros
+Los parámetros de pH y turbidez fueron elegidos por ser indicadores cruciales y accesibles del nivel de degradación del aceite de cocina. Con el uso continuo y la exposición a altas temperaturas, el pH del aceite disminuye significativamente. Esto se debe a la hidrólisis de los triglicéridos, que libera ácidos grasos libres, una clara señal de oxidación avanzada y la formación de compuestos polares nocivos. Simultáneamente, la turbidez del aceite aumenta. Este incremento se debe a la acumulación de partículas de alimentos, productos de oxidación polares y compuestos de polimerización, lo que afecta negativamente la calidad sensorial y nutricional del aceite. La facilidad con la que ambos parámetros pueden medirse utilizando sensores económicos, junto con su correlación directa con la degradación del aceite, los convierte en una opción práctica y efectiva para un monitoreo rápido y no destructivo en campo.
+
 ### ¿Cómo se ha intentado resolver este problema hasta ahora?
 
 Las soluciones existentes en Perú y otros países de la región se han centrado en la recolección de aceite usado para su reciclaje como biodiésel. Sin embargo, no existen métodos simples, rápidos ni económicos para determinar la calidad del aceite mientras está en uso activo <sup>4</sup>. La fiscalización sigue dependiendo de observaciones visuales o encuestas, lo cual es subjetivo y fácilmente manipulable <sup>5</sup>.
-
-### Parámetros
-Los parámetros de pH y turbidez fueron elegidos por ser indicadores cruciales y accesibles del nivel de degradación del aceite de cocina. Con el uso continuo y la exposición a altas temperaturas, el pH del aceite disminuye significativamente. Esto se debe a la hidrólisis de los triglicéridos, que libera ácidos grasos libres, una clara señal de oxidación avanzada y la formación de compuestos polares nocivos. Simultáneamente, la turbidez del aceite aumenta. Este incremento se debe a la acumulación de partículas de alimentos, productos de oxidación polares y compuestos de polimerización, lo que afecta negativamente la calidad sensorial y nutricional del aceite. La facilidad con la que ambos parámetros pueden medirse utilizando sensores económicos, junto con su correlación directa con la degradación del aceite, los convierte en una opción práctica y efectiva para un monitoreo rápido y no destructivo en campo.
 
 ### Solución Propuesta
 
