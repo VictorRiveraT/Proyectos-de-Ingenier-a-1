@@ -83,7 +83,7 @@ Vista Inferior
   <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Boceto02_05.jpeg?raw=true"  width="450"/>
 </p>
 
-### 03
+### Boceto 03
 <p align="center">
   <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Boceto03_EQ03.jpeg?raw=true"  width="450"/>
 </p>
