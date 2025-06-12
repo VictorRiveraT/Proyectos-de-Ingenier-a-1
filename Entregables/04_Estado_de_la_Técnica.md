@@ -31,7 +31,7 @@
 ## Caja Negra
 
 <p align= "center">
-  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Caja_Negra_EQ03.png?raw=true"/>
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/CajaNegra_EQ03.png?raw=true"/>
 </p>
 
 ## Esquema de Funciones
@@ -43,7 +43,7 @@
 ## Matriz Morfológica
 
 <p align="center">
-  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/MatrizMorfol%C3%B3gica_EQ03.png?raw=true"  width="800"/>
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/MatrizMorfol%C3%B3gica__EQ03.png?raw=true"  width="800"/>
 </p>
 
 ## Bocetos
