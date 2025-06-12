@@ -31,7 +31,7 @@
 ## Caja Negra
 
 <p align= "center">
-  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/CajaNegra_EQ03.png?raw=true"/>
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/CajaNegra__EQ03.png?raw=true"/>
 </p>
 
 ## Esquema de Funciones
