@@ -55,12 +55,12 @@
 
 ### 02
 <p align="center">
-  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Boceto_02_EQ03.jpeg?raw=true"  width="450"/>
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Boceto02_EQ03.jpeg?raw=true"  width="450"/>
 </p>
 
 ### 03
 <p align="center">
-  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Boceto_03_EQ03.jpeg?raw=true"  width="450"/>
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Boceto03_EQ03.jpeg?raw=true"  width="450"/>
 </p>
 
 ## Modelado 3D: Propuesta Seleccionada (Boceto 01)
