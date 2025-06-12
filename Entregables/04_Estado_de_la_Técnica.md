@@ -63,20 +63,33 @@
   <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Boceto03_EQ03.jpeg?raw=true"  width="450"/>
 </p>
 
-## Modelado 3D: Propuesta Seleccionada (Boceto 01)
+## Modelado 3D: Propuesta Seleccionada (Boceto 02)
 
 <p align="center">
-  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Modelo_3D_01_EQ03.jpeg?raw=true"  width="450"/>
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Modelo3D_00_EQ03.jpeg?raw=true"  width="450"/>
 </p>
 
+### Vista Posterior
 <p align="center">
-  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Modelo_3D_02_EQ03.jpeg?raw=true"  width="450"/>
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Modelo3D_01_EQ03.jpeg?raw=true"  width="450"/>
 </p>
 
+### Vista Derecha
 <p align="center">
-  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Modelo_3D_03_EQ03.jpeg?raw=true"  width="450"/>
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Modelo3D_02_EQ03.jpeg?raw=true"  width="450"/>
 </p>
 
+### Vista Izquierda
 <p align="center">
-  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Modelo_3D_04_EQ03.jpeg?raw=true"  width="450"/>
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Modelo3D_03_EQ03.jpeg?raw=true"  width="450"/>
+</p>
+
+### Vista Planta (Superior)
+<p align="center">
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Modelo3D_04_EQ03.jpeg?raw=true"  width="450"/>
+</p>
+
+### Vista Inferior
+<p align="center">
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Modelo3D_05_EQ03.jpeg?raw=true"  width="450"/>
 </p>
