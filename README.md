@@ -2,15 +2,11 @@
 Bienvenidos al repositorio del Grupo #3 del curso: "Fundamentos de diseño". 
 
 # 📖 Tabla de contenidos:
-- [Objetivo del Archivo](#-objetivo-del-archivo)  
 - [¿Quienes somos?](#-¿quienes-somos?)  
 - [Nuestra Misión](#-nuestra-misión)  
 - [Nuestra Visión](#-nuestra-visión)  
 
 ---
-
-# 🎯 Objetivo del archivo
-Este documento tiene como propósito exponer nuestra misión y visión como grupo, reflejando nuestro compromiso con el desarrollo de soluciones innovadoras alineadas con los principios de sostenibilidad y consumo responsable. Además, presentamos a los integrantes de nuestro equipo, detallando sus perfiles, intereses y fortalezas.
 
 # 🌟 ¿Quienes somos?
 Somos un equipo de estudiantes de la Universidad Peruana Cayetano Heredia, pertenecientes a la Facultad de Ciencias e Ingeniería, unidos por el interés en generar un impacto positivo en la sociedad y el medio ambiente. Creemos que el análisis, la tecnología y la innovación son herramientas clave para promover un modelo de producción y consumo más sostenible en el Perú.
