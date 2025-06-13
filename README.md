@@ -25,6 +25,7 @@ Este proyecto se enfoca en el desarrollo de un dispositivo portátil y de bajo c
 <p align="center">
   <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/ODS_03.09_EQ03.JPG?raw=true" alt="ODS 3.9" width="200"/>
 </p>
+
 * **Nuestra Visión:**
 
 Reducir los riesgos para la salud pública derivados del uso excesivo de aceites de cocina degradados, fortaleceiendo las capacidades de entidades fiscalizadoras mediante tecnologías accesibles que les permitan monitorear de manera eficiente la calidad del aceite reutilizado en cocinas comerciales e informales, promoviendo así la protección de la salud pública.
