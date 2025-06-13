@@ -9,8 +9,7 @@ Bienvenidos al repositorio del Grupo #3 del curso: "Fundamentos de diseño".
 ---
 
 # 🌟 ¿Quienes somos?
-Somos un equipo de estudiantes de la Universidad Peruana Cayetano Heredia, pertenecientes a la Facultad de Ciencias e Ingeniería, unidos por el interés en generar un impacto positivo en la sociedad y el medio ambiente. Creemos que el análisis, la tecnología y la innovación son herramientas clave para promover un modelo de producción y consumo más sostenible en el Perú.
-
+Somos un equipo de estudiantes de la Universidad Peruana Cayetano Heredia, pertenecientes a la Facultad de Ciencias e Ingeniería, unidos por el interés en generar un impacto positivo en la sociedad y el medio ambiente. Creemos que el análisis, la tecnología y la innovación son herramientas clave para promover un modelo de producción y consumo más sostenible en el Perú. Los invitamos a revisar nuestro [perfil institucional](./Entregables/01_Sobre_Nosotros.md) para conocer mayor información de nuestros integrantes.
 <p align="center">
   <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Im%C3%A1gen_Equipo.jpg?raw=true" alt="Imagen de equipo" width="500">
 </p>
