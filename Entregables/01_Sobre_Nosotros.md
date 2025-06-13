@@ -67,7 +67,7 @@ Estudiante de la carrera de Ingeniería Ambiental interesado en el rubro del tra
 **Cargo a Desempeñar:**
 
 
-📌 "*Coordinador de Investigación*": Responsable de la investigación necesaria para el desarrollo del proyecto, así como de la gestión del equipo en las actividades requeridas.
+📌 "*Coordinador de Investigación*": A cargo asegurar el uso de datos reales, actualizados y técnicamente correctos para el desarrollo del proyecto.
 
 <p align="center">
   <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Im%C3%A1gen_Oscar.jpg?raw=true" width="350"/>
