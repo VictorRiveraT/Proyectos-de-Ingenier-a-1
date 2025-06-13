@@ -17,12 +17,14 @@ Somos un equipo de estudiantes de la Universidad Peruana Cayetano Heredia, perte
 # 🧪 Información sobre el Proyecto
 Proyecto: Sistema de Monitoreo de Calidad de Aceite de Cocina Reutilizado para la Seguridad Alimentaria
 
-Este proyecto se enfoca en el desarrollo de un dispositivo portátil y de bajo costo para medir pH y turbidez del aceite de cocina reutilizado, con el objetivo de facilitar la fiscalización técnica en entornos gastronómicos informales. La iniciativa responde a la necesidad de contar con herramientas objetivas y accesibles que respalden el trabajo de instituciones responsables de la inspección sanitaria, en línea con el ODS 3: Salud y Bienestar.
+Este proyecto se enfoca en el desarrollo de un dispositivo portátil y de bajo costo para medir pH y turbidez del aceite de cocina reutilizado, con el objetivo de facilitar la fiscalización técnica en entornos gastronómicos informales. La iniciativa responde a la necesidad de contar con herramientas objetivas y accesibles que respalden el trabajo de instituciones responsables de la inspección sanitaria, en línea con el ODS 3: Salud y Bienestar, con un enfoque en la meta 3.9: “Reducir sustancialmente el número de muertes y enfermedades por productos químicos peligrosos y contaminación del aire, agua y suelo” (ONU, 2023).
 
 <p align="center">
-  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/ODS_03_EQ03.jpg?raw=true" alt="Descripción de la imagen" width="200"/>
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/ODS_03_EQ03.jpg?raw=true" alt="ODS 3" width="200"/>
 </p>
-
+<p align="center">
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/ODS_03.09_EQ03.JPG?raw=true" alt="ODS 3.9" width="200"/>
+</p>
 * **Nuestra Visión:**
 
 Reducir los riesgos para la salud pública derivados del uso excesivo de aceites de cocina degradados, fortaleceiendo las capacidades de entidades fiscalizadoras mediante tecnologías accesibles que les permitan monitorear de manera eficiente la calidad del aceite reutilizado en cocinas comerciales e informales, promoviendo así la protección de la salud pública.
