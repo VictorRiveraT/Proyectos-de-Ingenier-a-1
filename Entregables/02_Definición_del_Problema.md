@@ -73,7 +73,7 @@ La fiscalización sigue dependiendo de observaciones visuales o encuestas, lo cu
 
 ### Solución Propuesta
 
-Se propone desarrollar un dispositivo portátil, autónomo y de bajo costo que permita medir en campo los parámetros de pH y turbidez del aceite reutilizado. El sistema contará un sensor individual para cada parámetro seleccionado, pantalla LCD para lectura instantánea y conectividad bluetooth con la aplicación Thinkspeak para almacenar datos.
+Se propone desarrollar un dispositivo portátil, autónomo y de bajo costo que permita medir en campo los parámetros de pH y turbidez del aceite reutilizado. El sistema contará un sensor individual para cada parámetro seleccionado, pantalla LCD para lectura instantánea y conectividad bluetooth con la aplicación ThingSpeak para almacenar datos.
 
 El sistema permitirá detectar si un aceite ha excedido los límites aceptables (por ejemplo, pH < 4.5 o turbidez > 500 NTU en emulsiones <sup>10</sup>). Esto facilitará la labor de fiscalización, permitirá a negocios informales autocontrolarse, y reducirá riesgos sanitarios en la población.
 
