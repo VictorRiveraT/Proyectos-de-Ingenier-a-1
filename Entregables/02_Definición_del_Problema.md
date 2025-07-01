@@ -1,99 +1,103 @@
 # Definición del Problema
 
-- **Problema:** La medición en campo de la calidad del aceite reutilizado en establecimientos gastronómicos carece de métodos accesibles y eficaces, lo que dificulta la fiscalización sanitaria y expone a consumidores a subproductos tóxicos, lo que afecta la salud pública.
-
------
+- **❗ Problema:**
+La medición en campo de la calidad del aceite reutilizado en establecimientos gastronómicos carece de métodos accesibles, objetivos y eficaces. Esta carencia dificulta la fiscalización sanitaria y expone tanto a consumidores como al personal de cocina a subproductos tóxicos, afectando la salud pública
 
 <p align="center">
   <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Im%C3%A1gen_%20Aceite.jpg?raw=true" width="450"/>
 </p>
 <sup>Fuente: Getty Images / Sinc</sup>
 
-El uso reiterado de aceite de cocina en establecimientos gastronómicos representa un riesgo crítico para la salud pública, especialmente en contextos donde el costo del insumo ha aumentado y las regulaciones son escasas o carecen de mecanismos de verificación técnica.
+------
 
-Al someterse a temperaturas superiores a 180 °C de forma continua, el aceite inicia reacciones de oxidación de ácidos grasos insaturados, polimerización de triglicéridos e hidrólisis de enlaces éster, generando una mezcla compleja de compuestos peligrosos. Entre ellos destacan:
+### 👥 ¿Para quién es un problema?
 
-- **Aldehídos reactivos** (4-HNE, MDA)
-- **Productos de glicación avanzada (AGEs)**
-- **Ácidos grasos trans**
-- **Radicales libres**
+Este problema afecta directamente a entidades responsables de la fiscalización sanitaria, como municipalidades, ministerios de salud, DIGESA, ONGs de nutrición e inocuidad alimentaria, así como a consumidores finales y personal de cocina que se expone a vapores tóxicos.
 
-Todos asociados a la inflamación crónica, disfunción endotelial y daño mitocondrial en tejidos cardiovasculares, hepáticos y neurológicos. La inhalación de aerosoles de estos subproductos, reportada en cocinas industriales, también incrementa la incidencia de asma ocupacional y enfermedades respiratorias crónicas en el personal de cocina <sup>1</sup> <sup>2</sup>.
+### 🌐 ¿Por qué es un problema?
 
-Investigaciones de la Universidad de Reading y la Universidad de Illinois han demostrado que la ingestión o inhalación de estos compuestos produce estrés oxidativo a nivel celular, comprometiendo la integridad del ADN y promoviendo procesos carcinogénicos en el tracto digestivo y pulmonar <sup>3,4</sup>.
-
-### Definir el usuario (¿Para quién es un problema?)
-
-Este problema afecta principalmente a entidades encargadas de la fiscalización sanitaria como municipalidades, ministerios de salud, ONGs especializadas en nutrición e inocuidad alimentaria, y asociaciones de consumidores. También repercute en los consumidores finales y en el personal de cocina que se expone a vapores tóxicos.
-
-### Definir el contexto (¿Por qué es un problema?)
-
-La reutilización excesiva del aceite es una práctica común en restaurantes informales, carretillas, ferias gastronómicas y comedores populares, debido al aumento de su precio y la falta de conocimiento técnico. Esta situación se ha agudizado tras la pandemia del COVID-19, que impulsó la aparición de nuevos negocios gastronómicos sin fiscalización. En estos espacios, no se realiza ningún tipo de control técnico sobre la calidad del aceite utilizado.
+El uso reiterado de aceite en frituras es común en restaurantes informales, carretillas, ferias gastronómicas y comedores populares, debido al alto costo del insumo y la falta de conocimiento técnico. Esta práctica se ha intensificado tras la pandemia de COVID-19, que promovió la proliferación de negocios gastronómicos sin fiscalización. En estos espacios, no existe control técnico sobre la calidad del aceite reutilizado.
 
 <p align="center">
   <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Im%C3%A1gen_%20Aceite1.jpg?raw=true" width="450"/>
 </p>
 <sup>Fuente: Dreamstime</sup>
 
-### Definir los puntos de dolor (¿Cuándo y cómo es un problema?)
+### 🧨 ¿Cuándo y cómo es un problema?
 
-Cuando los establecimientos gastronómicos reutilizan aceite más allá de los límites seguros sin filtrado ni monitoreo, el riesgo se transfiere directamente al consumidor. Es un problema también cuando las entidades fiscalizadoras no cuentan con herramientas accesibles para medir parámetros de degradación. Además, los trabajadores de cocina pueden inhalar vapores tóxicos producidos por compuestos como los aldehídos volátiles.
+Cuando se reutiliza aceite más allá de los límites seguros sin monitoreo ni filtrado, se generan compuestos químicos peligrosos. Las entidades fiscalizadoras no cuentan con herramientas accesibles para medir parámetros de degradación, y los trabajadores se exponen a vapores nocivos.
 
-### ¿Qué consecuencias tiene si no se resuelve el problema?
+El aceite sometido a temperaturas superiores a 180 °C sufre reacciones como:
+- Oxidación de ácidos grasos insaturados
+- Hidrólisis de enlaces éster
+- Polimerización de triglicéridos
 
-Si no se controla esta práctica, se perpetúan efectos nocivos sobre la salud pública: incremento de enfermedades crónicas, como cáncer, Alzheimer, trastornos hepáticos y cardiovasculares<sup>1,2</sup>.
+Esto da lugar a compuestos tóxicos como:
+- Aldehídos reactivos (4-HNE, MDA)
+- Productos de glicación avanzada (AGEs)
+- Ácidos grasos trans
+- Radicales libres
 
-A esto se suman costos médicos indirectos, informalidad en la gestión de residuos y un ambiente propicio para prácticas alimentarias insalubres.
+Estos subproductos están relacionados con inflamación crónica, disfunción endotelial, daño mitocondrial y enfermedades respiratorias como asma ocupacional.
+Estudios de la Universidad de Reading y la Universidad de Illinois demuestran que la exposición prolongada a estos compuestos (por ingesta o inhalación) produce estrés oxidativo, daño al ADN y favorece procesos carcinogénicos en el sistema digestivo y pulmonar.
 
-También se pierde la oportunidad de generar cultura de prevención sanitaria en el rubro gastronómico <sup>3</sup>.
+
+### 🧬 ¿Qué consecuencias tiene si no se resuelve el problema?
+
+De no abordarse este problema:
+
+Se incrementa el riesgo de enfermedades como:
+- Cáncer de colon, estómago (por acrilamida y 4-HNE)
+- Enfermedades cardiovasculares (por grasas trans)
+- Hígado graso no alcohólico
+- Síndrome metabólico e inflamación crónica
+- Alzheimer y Parkinson (por malondialdehído)
+- Asma ocupacional y bronquitis crónica
+
+Aumentan los costos médicos indirectos.
+Se perpetúa la informalidad en la gestión de residuos grasos.
+Se pierde la oportunidad de construir una cultura de fiscalización y prevención sanitaria.
 
 El aceite reutilizado sufre una transformación química tras múltiples usos a alta temperatura, generando compuestos como aldehídos (4-HNE, MDA), acroleína, acrilamida, hidroperóxidos lipídicos y ácidos grasos trans. Estos compuestos se adhieren y penetran los alimentos fritos, convirtiéndolos en vectores directos de sustancias tóxicas. Su ingesta reiterada se ha relacionado con:
+- Aterosclerosis y enfermedad coronaria (por grasas trans).
+- Cáncer de colon y estómago (por acrilamida y 4-HNE).
+- Hígado graso no alcohólico y hepatitis tóxica (por productos oxidativos).
+- Alzheimer y Parkinson (por malondialdehído – MDA).
+- Síndrome metabólico e inflamación crónica.
+- Bronquitis y asma ocupacional por inhalación de vapores.
 
-- **Aterosclerosis y enfermedad coronaria** (por grasas trans) <sup>2</sup>.
-- **Cáncer de colon y estómago** (por acrilamida y 4-HNE) <sup>3</sup>.
-- **Hígado graso no alcohólico y hepatitis tóxica** (por productos oxidativos) <sup>4</sup>.
-- **Alzheimer y Parkinson** (por malondialdehído – MDA) <sup>5</sup>.
-- **Síndrome metabólico e inflamación crónica** <sup>6</sup>.
-- **Bronquitis y asma ocupacional por inhalación de vapores** <sup>7</sup>.
+
+### 🧪 Parámetros
+
+Los parámetros de pH y turbidez fueron seleccionados por su  alta correlación con el nivel de degradación del aceite, relevancia química y facilidad de medición. Durante la fritura:
+- El pH disminuye progresivamente debido a la liberación de ácidos grasos por hidrólisis térmica.
+- La turbidez aumenta debido a la acumulación de partículas de alimentos, productos de oxidación y polímeros, afectando su calidad sensorial.
+Ambos parámetros son indicadores directos de la degradación del aceite y pueden ser evaluados en campo con sensores accesibles, lo que permite una medición práctica, rápida y confiable.
 
 
-### Parámetros
+### 💡 Solución Propuesta
 
-Los parámetros de pH y turbidez fueron elegidos por ser indicadores cruciales y accesibles del nivel de degradación del aceite de cocina. Con el uso continuo y la exposición a altas temperaturas, el pH del aceite disminuye significativamente debido a la hidrólisis de los triglicéridos, que libera ácidos grasos libres, una clara señal de oxidación avanzada y la formación de compuestos polares nocivos.
+Se propone un dispositivo portátil, económico y autónomo, que mida en campo el pH y la turbidez del aceite reutilizado mediante sensores específicos. El sistema incluirá:
+- Sensor de pH
+- Sensor de Turbidez
+- Pantalla LCD para lectura instantánea
+- Conectividad a la plataforma ThingSpeak para exportación de datos
+Este dispositivo permitirá detectar cuando el aceite ha superado límites aceptables (por ejemplo, pH < 4.5 o turbidez > 500 NTU), facilitando la labor de fiscalización y fomentando la autogestión en negocios gastronómicos, reduciendo riesgos contra la salud de la población.
 
-Simultáneamente, la turbidez del aceite aumenta por la acumulación de partículas de alimentos, productos de oxidación y compuestos de polimerización, lo que afecta negativamente la calidad sensorial y nutricional del aceite.
 
-La facilidad con la que ambos parámetros pueden medirse utilizando sensores económicos, junto con su correlación directa con la degradación del aceite, los convierte en una opción práctica y efectiva para un monitoreo rápido y no destructivo en campo.
+### 🧰 Requisitos del Dispositivo
+- Sensor de pH
+- Sensor de turbidez
+- Microcontrolador
+- Pantalla LCD
+- PowerBank
 
-### ¿Cómo se ha intentado resolver este problema hasta ahora?
-
-Las soluciones existentes en Perú y otros países de la región se han centrado en la recolección de aceite usado para su reciclaje como biodiésel. Sin embargo, no existen métodos simples, rápidos ni económicos para determinar la calidad del aceite mientras está en uso activo <sup>4</sup>.
-
-La fiscalización sigue dependiendo de observaciones visuales o encuestas, lo cual es subjetivo y fácilmente manipulable <sup>5</sup>.
-
-### Solución Propuesta
-
-Se propone desarrollar un dispositivo portátil, autónomo y de bajo costo que permita medir en campo los parámetros de pH y turbidez del aceite reutilizado. El sistema contará un sensor individual para cada parámetro seleccionado, pantalla LCD para lectura instantánea y conectividad bluetooth con la aplicación ThingSpeak para almacenar datos.
-
-El sistema permitirá detectar si un aceite ha excedido los límites aceptables (por ejemplo, pH < 4.5 o turbidez > 500 NTU en emulsiones <sup>10</sup>). Esto facilitará la labor de fiscalización, permitirá a negocios informales autocontrolarse, y reducirá riesgos sanitarios en la población.
-
-### Requisitos del Dispositivo
-- Sensor de pH (ej: PH-4502C)
-- Sensor de turbidez (ej: DFRobot SEN0189)
-- Microcontrolador (Arduino UNO o ESP32)
-- Pantalla LCD u OLED
-- Alarma (buzzer y LED)
-- Botón de calibración
-- Alimentación por batería recargable o powerbank
-- (Opcional) microSD o módulo Bluetooth HC-05
-
-### Público Objetivo
+### 🎯 Público Objetivo
 
 Este sistema está dirigido a:
 - Municipalidades y entidades como DIGESA
+- Administradores de restaurantes y comedores
 - ONGs enfocadas en salud pública y nutrición
-- Administradores de restaurantes, mercados y comedores
-- Escuelas de gastronomía
 - Organismos ambientales interesados en residuos oleosos
 
 ### Referencias bibliográficas
