@@ -1,4 +1,4 @@
-### ⚖️ Contexto Político  
+## ⚖️ Contexto Político  
 
 En Perú, no existe una normativa técnica clara que regule la reutilización del aceite de cocina en establecimientos gastronómicos, aunque la Ley General de Residuos Sólidos (Ley N.º 27314) menciona los residuos peligrosos, no establece protocolos sobre límites de degradación del aceite ni requisitos de medición in situ [1].
 
@@ -10,7 +10,7 @@ En la práctica, la norma resulta insuficiente, ya que no existen parámetros ob
 
 ---
 
-### Contexto Económico  
+## Contexto Económico  
 
 Según el INEI, el precio del aceite vegetal se incrementó más del 50% en Lima Metropolitana entre 2021 y 2022 [2], empujando a pequeños restaurantes y puestos informales a reutilizarlo repetidamente.
 
@@ -18,7 +18,7 @@ Este problema es más crítico en zonas con menor acceso a fiscalización munici
 
 ---
 
-### Contexto Social  
+## Contexto Social  
 
 En zonas urbanas del Perú, donde gran parte de la población consume alimentos en cocinas informales o populares, la exposición al aceite degradado es frecuente. Según un informe de CEDRO, más del 60% de los establecimientos informales en Lima desconocen prácticas adecuadas para desechar o controlar el aceite [3].
 
