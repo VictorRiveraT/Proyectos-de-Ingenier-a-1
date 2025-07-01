@@ -4,6 +4,10 @@ En Perú, no existe una normativa técnica clara que regule la reutilización de
 
 DIGESA, como órgano técnico del Ministerio de Salud, promueve lineamientos de higiene alimentaria, pero no ha implementado mecanismos de fiscalización específicos para aceites usados.
 
+Según la norma NTP-CODEX STAN 210:2014, los aceites comestibles no deben contener más de 0,2 % de humedad o materia volátil al calentarse a 105 °C. Esta regulación garantiza una buena calidad en el producto antes del uso, pero no contempla su degradación progresiva durante la fritura.
+
+En la práctica, la norma resulta insuficiente, ya que no existen parámetros obligatorios ni mecanismos técnicos de fiscalización in situ que controlen la calidad del aceite durante su uso activo en establecimientos gastronómicos. Esta brecha normativa permite que aceites degradados sigan utilizándose sin supervisión, representando un riesgo para la salud pública.
+
 ---
 
 ## Contexto Económico  
