@@ -1,3 +1,57 @@
+## 🧪 Contexto Químico  
+
+### Composición y Transformaciones en Aceites Comestibles
+Los aceites vegetales comestibles están compuestos mayoritariamente por triglicéridos, moléculas formadas por un esqueleto de glicerol unido a tres ácidos grasos, entre los que destacan el oleico y linoleico, responsables de muchas de sus propiedades físicas y nutricionales.
+Durante la fritura, estos triglicéridos sufren transformaciones importantes debido a dos factores principales:
+- **Altas temperaturas**: Comúnmente superiores a los 150 °C, que aumentan la energía cinética de las moléculas, favoreciendo la ruptura de enlaces éster.
+- **Presencia de agua**: Proveniente de los alimentos (como papas o pollo), que puede representar hasta un 40 % de su peso. Esta humedad genera una reacción de hidrólisis térmica, liberando ácidos grasos libres y glicerol.
+
+<p align="center">
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Contexto_Qu%C3%ADmico_01.JPG?raw=true" width="450"/>
+</p>
+Estas condiciones producen una serie de efectos degradativos en el aceite:
+
+- Disminución progresiva del pH por liberación de ácidos grasos.
+- Aumento de la turbidez por acumulación de productos polares, polímeros y sedimentos.
+- Rancidez debida a oxidación acelerada y formación de compuestos tóxicos.
+
+Aunque el aceite comercial cumple con límites de humedad regulados, su uso repetido en contacto con alimentos húmedos conduce inevitablemente a su deterioro químico y sensorial, volviéndolo inapropiado para el consumo humano.
+
+### Parámetros
+
+1. **pH**
+Uno de los indicadores más claros de degradación es la disminución del pH, provocada por la formación de ácidos grasos libres. Por ejemplo, el ácido linoleico (C₁₈H₃₂O₂), al reaccionar con agua a altas temperaturas, se disocia:
+<p align="center">
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Contexto_Qu%C3%ADmico_02.JPG?raw=true" width="450"/>
+</p>
+Esta es una reacción endotérmica (∆H > 0). Según el principio de Le Chatelier, al aumentar la temperatura, el equilibrio se desplaza hacia la formación de más iones hidronio, acidificando el aceite.
+
+- 💧 **Efecto de dilución**:
+Además, en mezclas emulsionadas (aceite con agua), la dilución favorece la ionización de los ácidos, intensificando la acidez.
+
+2. **Turbidez**:
+La turbidez es otro parámetro crítico que refleja el nivel de degradación del aceite. Se produce principalmente por:
+
+- **Oxidación térmica**: A causa de la oxidación de los ácidos grasos, se forman peróxidos, aldehídos y cetonas que dispersan la luz.
+<p align="center">
+  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/Contexto_Qu%C3%ADmico_05.JPG?raw=true" width="450"/>
+</p>
+
+- **Polimerización de ácidos grasos**: Inducida por el recalentamiento, genera moléculas más grandes e insolubles.
+
+Estos compuestos afectan negativamente la calidad sensorial, estabilidad y valor nutricional del aceite, haciéndolo inadecuado para uso alimentario continuo.
+
+### ❓ ¿Por qué elegimos pH y turbidez?
+
+Ambos parámetros son:
+- Fácilmente medibles mediante sensores de bajo costo.
+- Altamente representativos de los procesos químicos clave de degradación del aceite.
+- Relevantes científicamente: El pH indica la acumulación de ácidos grasos libres, y la turbidez señala la presencia de polímeros, partículas insolubles y oxidación
+
+Además, la disminución del pH y el aumento de la turbidez suelen estar relacionados, generando una sinergia oxidativa que agrava la toxicidad y degradación.
+Estas características los hacen ideales para un sistema portátil de fiscalización técnica in situ.
+
+
 ## ⚖️ Contexto Político  
 
 En Perú, no existe una normativa técnica clara que regule la reutilización del aceite de cocina en establecimientos gastronómicos, aunque la Ley General de Residuos Sólidos (Ley N.º 27314) menciona los residuos peligrosos, no establece protocolos sobre límites de degradación del aceite ni requisitos de medición in situ [1].
