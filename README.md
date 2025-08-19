@@ -14,15 +14,15 @@ Somos un equipo de estudiantes de la Universidad Peruana Cayetano Heredia, perte
 
 ## Integrantes:
 </p>
-* Victor Rivera
+- Victor Rivera
 </p>
-* Vanesa Rioja
+- Vanesa Rioja
 </p>
-* Jesús Morales
+- Jesús Morales
 </p>
-* Gisela Oscco
+- Gisela Oscco
 </p>
-* Jander Huamaní
+- Jander Huamaní
 </p>
 
 # 🧪 Información sobre el Proyecto
