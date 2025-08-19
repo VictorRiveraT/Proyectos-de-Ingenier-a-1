@@ -1,3 +1,11 @@
+# SafeFry: 
+## Descripción General
+SafeFry es una solución portátil  diseñada para evaluar la calidad del aceite de cocina usado. Este kit combina la medición de pH y el análisis de imagen por machine learning, ofreciendo a estudiantes, profesionales de la gastronomía e inspectores de calidad una herramienta accesible para obtener un diagnóstico preciso y en tiempo real.
+
+Concebido dentro de un entorno académico, este proyecto tiene como objetivo acercar la tecnología de análisis bromatológico a aquellos interesados en la seguridad alimentaria y la optimización de recursos en la industria culinaria.
+
+
+
 # 🌍 Proyectos de Ingeniería 1
 Bienvenidos a nuestro repositorio.
 
