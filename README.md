@@ -13,17 +13,15 @@ Bienvenidos a nuestro repositorio.
 Somos un equipo de estudiantes de la Universidad Peruana Cayetano Heredia, pertenecientes a la Facultad de Ciencias e Ingeniería, motivados por la búsqueda de soluciones tecnológicas que fortalezcan la salud pública, la seguridad alimentaria y la fiscalización ambiental, ya que reconocemos el impacto negativo de los subproductos tóxicos generados por aceites degradados en la calidad de los alimentos y la salud de las comunidades. 
 
 ## Integrantes:
-</p>
-- Victor Rivera
-</p>
-- Vanesa Rioja
-</p>
-- Jesús Morales
-</p>
-- Gisela Oscco
-</p>
-- Jander Huamaní
-</p>
+
+| Miembro | Rol | Función Principal | Correo |
+| :------------: | :------------: | :------------: | :------------: |
+| **Rivera Torres Victor Daniel** | Desarrollo Técnico | Prototipado y desarrollo técnico | victor.rivera@upch.pe |
+| **Morales Alvarado Jesús Anselmo** | Desarrollo Técnico | Prototipado y desarrollo técnico | jesus.morales@upch.pe |
+| **Rioja Cruz Vanesa Doris** | Investigación | Investigación sobre energías renovables | vanesa.rioja@upch.pe |
+| **Oscco Pizarro Gisela** | Investigación | Investigación sobre energías renovables | gisela.oscco@upch.pe |
+| **Huamani Salazar Jander** | Investigación | Investigación sobre energías renovables | jander.huamani@upch.pe |
+
 
 # 🧪 Información sobre el Proyecto
 ## **Proyecto:** Sistema de Monitoreo de Calidad de Aceite de Cocina Reutilizado para la Seguridad Alimentaria
