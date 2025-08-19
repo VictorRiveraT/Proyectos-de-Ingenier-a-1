@@ -28,7 +28,9 @@ Este dispositivo busca:
 ## Motivación y Contexto
 
 El acceso a herramientas accesibles y confiables para evaluar la calidad de aceites de cocina reutilizados suele estar limitado por altos costos, falta de precisión o la necesidad de equipos especializados. Esto genera un riesgo para la salud pública, especialmente en entornos gastronómicos informales donde los controles sanitarios son reducidos.
+</p>
 SafeFry nace con la intención de democratizar la evaluación de aceites, ofreciendo una alternativa portátil, de bajo costo y sencilla de implementar, que combina la medición de pH con el análisis de imágenes mediante visión artificial y machine learning.
+</p>
 Este proyecto también responde a la necesidad académica de brindar a los estudiantes experiencias prácticas en el uso de tecnologías emergentes (sensado químico e inteligencia artificial aplicada), facilitando la comprensión de conceptos de seguridad alimentaria, control de calidad y sostenibilidad en escenarios reales.
 
 ## Funcionamiento Esperado
