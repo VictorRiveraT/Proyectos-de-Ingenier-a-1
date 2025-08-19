@@ -15,9 +15,13 @@ Somos un equipo de estudiantes de la Universidad Peruana Cayetano Heredia, perte
 ## Integrantes:
 </p>
 - Victor Rivera
+</p>
 - Vanesa Rioja
+</p>
 - Jesús Morales
+</p>
 - Gisela Oscco
+</p>
 - Jander Huamaní
 </p>
 
