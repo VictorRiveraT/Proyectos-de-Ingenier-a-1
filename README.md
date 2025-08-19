@@ -34,14 +34,14 @@ Este proyecto se enfoca en el desarrollo de un dispositivo portátil y de bajo c
   <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/ODS03.09_EQ03.png?raw=true" alt="ODS 3" width="500"/>
 </p>
 
-* **Nuestra Visión:**
+- **Nuestra Visión:**
 
 Reducir los riesgos para la salud pública derivados del uso excesivo de aceites de cocina degradados, fortaleceiendo las capacidades de entidades fiscalizadoras mediante tecnologías accesibles que les permitan monitorear de manera eficiente la calidad del aceite reutilizado en cocinas comerciales e informales, promoviendo así la protección de la salud pública.
 
-* **Nuestra Misión:**
+- **Nuestra Misión:**
 
 Desarrollar un sistema confiable que proporcione datos en tiempo real sobre la estado del aceite de cocina, mediante parámetros clave como el pH y la información recabada en una imagen. Nuestro enfoque está en apoyar a organismos de control sanitario y ambiental, dotándolos de herramientas objetivas para inspecciones más efectivas.
 
-* **Objetivo General:**
+- **Objetivo General:**
 
 Implementar un dispositivo práctico para el monitoreo técnico del aceite reutilizado, destinado exclusivamente a instituciones y autoridades competentes, con el fin de identificar riesgos sanitarios y apoyar medidas regulatorias más sólidas.
