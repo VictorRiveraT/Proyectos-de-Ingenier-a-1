@@ -27,3 +27,10 @@
 | 18/08/25 | D | **Transporte:** Deberá contar con un peso adecuado para ser transportado de forma terrestre, además que sea portátil para el público objetivo. | Victor R. |
 | 18/08/25 | D | **Costos:** Para costos de materiales se estimara que no exceda los 300 soles para mantener el prototipo accesible en el mercado. | J.H |
 | 18/08/25 | E | **Plazos:** El proyecto empezará el lunes 18 de agosto y  espera su finalización el martes 2 de diciembre con un total aproximado de 128 horas de trabajo. | J.M |
+
+<p align="center">
+  <img src="https://github.com/VictorRiveraT/Proyectos-de-Ingenier-a/blob/main/Proyectos%20de%20Ingenier%C3%ADa/Im%C3%A1genes/1.jpg"/>
+<p align="center">
+  <img src="https://github.com/VictorRiveraT/Proyectos-de-Ingenier-a/blob/main/Proyectos%20de%20Ingenier%C3%ADa/Im%C3%A1genes/2.jpg"/>
+<p align="center">
+  <img src="https://github.com/VictorRiveraT/Proyectos-de-Ingenier-a/blob/main/Proyectos%20de%20Ingenier%C3%ADa/Im%C3%A1genes/3.jpg"/>
