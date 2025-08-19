@@ -8,6 +8,14 @@ Este proyecto se centra en el desarrollo de un dispositivo portátil y de bajo c
 
 La iniciativa busca facilitar la fiscalización técnica en entornos gastronómicos informales y brindar herramientas accesibles y confiables para la inspección sanitaria. De esta forma, se contribuye a la reducción de riesgos asociados al consumo de aceites degradados y a la prevención de enfermedades.
 
+### ODS 3: Salud y Bienestar
+
+El proyecto se enmarca dentro del ODS 3: Salud y Bienestar, particularmente en la meta 3.9: “Reducir sustancialmente el número de muertes y enfermedades por productos químicos peligrosos y contaminación del aire, agua y suelo” (ONU, 2023).
+
+Este dispositivo busca:
+- Contribuir a la seguridad alimentaria en contextos urbanos y rurales.
+- Apoyar a instituciones y actores locales en la inspección sanitaria.
+- Reducir el riesgo para la salud humana derivado del consumo de aceites en mal estado.
 
 # 🌍 Proyectos de Ingeniería 1
 Bienvenidos a nuestro repositorio.
