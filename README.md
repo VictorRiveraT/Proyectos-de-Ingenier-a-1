@@ -22,6 +22,7 @@ Somos un equipo de estudiantes de la Universidad Peruana Cayetano Heredia, perte
 - Gisela Oscco
 </p>
 - Jander Huamaní
+</p>
 
 # 🧪 Información sobre el Proyecto
 ## **Proyecto:** Sistema de Monitoreo de Calidad de Aceite de Cocina Reutilizado para la Seguridad Alimentaria
