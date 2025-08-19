@@ -34,3 +34,5 @@
   <img src="https://github.com/VictorRiveraT/Proyectos-de-Ingenier-a/blob/main/Proyectos%20de%20Ingenier%C3%ADa/Im%C3%A1genes/2.jpg"/>
 <p align="center">
   <img src="https://github.com/VictorRiveraT/Proyectos-de-Ingenier-a/blob/main/Proyectos%20de%20Ingenier%C3%ADa/Im%C3%A1genes/3.jpg"/>
+
+## Bibliografía
