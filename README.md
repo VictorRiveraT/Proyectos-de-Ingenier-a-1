@@ -2,7 +2,7 @@
 ## Descripción General
 ### Proyecto: Sistema de Monitoreo de Calidad de Aceite de Cocina Reutilizado para la Seguridad Alimentaria.
 
-Este proyecto se centra en el desarrollo de un dispositivo portátil y de bajo costo que combina:
+SafeFry se centra en el desarrollo de un dispositivo portátil y de bajo costo que combina:
 - La medición de pH del aceite de cocina reutilizado.
 - El análisis de imágenes con visión artificial y machine learning para determinar la calidad del aceite.
 
@@ -17,19 +17,36 @@ Este dispositivo busca:
 - Apoyar a instituciones y actores locales en la inspección sanitaria.
 - Reducir el riesgo para la salud humana derivado del consumo de aceites en mal estado.
 
-# 🌍 Proyectos de Ingeniería 1
-Bienvenidos a nuestro repositorio.
+## Características Principales
 
-# 📖 Tabla de contenidos:
-- [¿Quienes somos?](#-¿quienes-somos?)  
-- [Nuestra Misión](#-nuestra-misión)  
-- [Nuestra Visión](#-nuestra-visión)  
+- Medición química: Integración de un sensor de pH para análisis directo del aceite.
+- Visión artificial: Captura de imágenes de la muestra en un cajetín con iluminación controlada.
+- Machine Learning: Clasificación del aceite según su calidad (nuevo, reutilizado, degradado).
+- Interfaz intuitiva: Visualización clara de resultados.
+- Diseño portátil: Prototipo compacto, accesible y replicable en diferentes contextos.
 
----
+## Motivación y Contexto
 
-# 🌟 ¿Quienes somos?
+El acceso a herramientas accesibles y confiables para evaluar la calidad de aceites de cocina reutilizados suele estar limitado por altos costos, falta de precisión o la necesidad de equipos especializados. Esto genera un riesgo para la salud pública, especialmente en entornos gastronómicos informales donde los controles sanitarios son reducidos.
+SafeFry nace con la intención de democratizar la evaluación de aceites, ofreciendo una alternativa portátil, de bajo costo y sencilla de implementar, que combina la medición de pH con el análisis de imágenes mediante visión artificial y machine learning.
+Este proyecto también responde a la necesidad académica de brindar a los estudiantes experiencias prácticas en el uso de tecnologías emergentes (sensado químico e inteligencia artificial aplicada), facilitando la comprensión de conceptos de seguridad alimentaria, control de calidad y sostenibilidad en escenarios reales.
 
-Somos un equipo de estudiantes de la Universidad Peruana Cayetano Heredia, pertenecientes a la Facultad de Ciencias e Ingeniería, motivados por la búsqueda de soluciones tecnológicas que fortalezcan la salud pública, la seguridad alimentaria y la fiscalización ambiental, ya que reconocemos el impacto negativo de los subproductos tóxicos generados por aceites degradados en la calidad de los alimentos y la salud de las comunidades. 
+## Funcionamiento Esperado
+
+1. El aceite se coloca en el cajetín.
+2. La cámara captura una imagen bajo condiciones de luz controladas.
+3. El sensor mide el pH de la muestra.
+4. El sistema procesa la imagen y la combina con el dato de pH.
+5. El modelo ML clasifica el aceite según su calidad.
+6. El resultado se muestra en la interfaz del sistema.
+
+## Resultados Esperados
+
+- Clasificación precisa de aceites en diferentes estados de uso (nuevo, reutilizado, degradado) mediante visión artificial y machine learning.
+- Medición confiable de pH como parámetro químico de referencia en la evaluación de calidad.
+- Prototipo portátil y de bajo costo, diseñado para ser implementado en entornos gastronómicos informales y educativos.
+- Base de datos de imágenes de aceites, útil para entrenamiento y validación de futuros modelos.
+- Contribución académica y social, fortaleciendo la seguridad alimentaria y promoviendo el uso de tecnologías accesibles para el control de calidad.
 
 ## Integrantes:
 
@@ -40,25 +57,3 @@ Somos un equipo de estudiantes de la Universidad Peruana Cayetano Heredia, perte
 | **Rioja Cruz Vanesa Doris** | Investigación | Investigación sobre energías renovables | vanesa.rioja@upch.pe |
 | **Oscco Pizarro Gisela** | Investigación | Investigación sobre energías renovables | gisela.oscco@upch.pe |
 | **Huamani Salazar Jander** | Investigación | Investigación sobre energías renovables | jander.huamani@upch.pe |
-
-
-# 🧪 Información sobre el Proyecto
-## **Proyecto:** Sistema de Monitoreo de Calidad de Aceite de Cocina Reutilizado para la Seguridad Alimentaria
-
-Este proyecto se enfoca en el desarrollo de un dispositivo portátil y de bajo costo para medir pH y utilizar el procesamiento de imágenes en aceite de cocina reutilizado, con el objetivo de facilitar la fiscalización técnica en entornos gastronómicos informales. La iniciativa responde a la necesidad de contar con herramientas objetivas y accesibles que respalden el trabajo de instituciones responsables de la inspección sanitaria, en línea con el ODS 3: Salud y Bienestar, con un enfoque en la meta 3.9: “Reducir sustancialmente el número de muertes y enfermedades por productos químicos peligrosos y contaminación del aire, agua y suelo” (ONU, 2023).
-
-<p align="center">
-  <img src="https://github.com/jessusmorales/Fundamentos-De-Dise-o---EQ-3/blob/main/Im%C3%A1genes/ODS03.09_EQ03.png?raw=true" alt="ODS 3" width="500"/>
-</p>
-
-- **Nuestra Visión:**
-
-Reducir los riesgos para la salud pública derivados del uso excesivo de aceites de cocina degradados, fortaleceiendo las capacidades de entidades fiscalizadoras mediante tecnologías accesibles que les permitan monitorear de manera eficiente la calidad del aceite reutilizado en cocinas comerciales e informales, promoviendo así la protección de la salud pública.
-
-- **Nuestra Misión:**
-
-Desarrollar un sistema confiable que proporcione datos en tiempo real sobre la estado del aceite de cocina, mediante parámetros clave como el pH y la información recabada en una imagen. Nuestro enfoque está en apoyar a organismos de control sanitario y ambiental, dotándolos de herramientas objetivas para inspecciones más efectivas.
-
-- **Objetivo General:**
-
-Implementar un dispositivo práctico para el monitoreo técnico del aceite reutilizado, destinado exclusivamente a instituciones y autoridades competentes, con el fin de identificar riesgos sanitarios y apoyar medidas regulatorias más sólidas.
