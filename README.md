@@ -1,9 +1,12 @@
-# SafeFry: 
+# SafeFry: Kit portable para la evalucación de aceite vegetal
 ## Descripción General
-SafeFry es una solución portátil  diseñada para evaluar la calidad del aceite de cocina usado. Este kit combina la medición de pH y el análisis de imagen por machine learning, ofreciendo a estudiantes, profesionales de la gastronomía e inspectores de calidad una herramienta accesible para obtener un diagnóstico preciso y en tiempo real.
+### Proyecto: Sistema de Monitoreo de Calidad de Aceite de Cocina Reutilizado para la Seguridad Alimentaria.
 
-Concebido dentro de un entorno académico, este proyecto tiene como objetivo acercar la tecnología de análisis bromatológico a aquellos interesados en la seguridad alimentaria y la optimización de recursos en la industria culinaria.
+Este proyecto se centra en el desarrollo de un dispositivo portátil y de bajo costo que combina:
+- La medición de pH del aceite de cocina reutilizado.
+- El análisis de imágenes con visión artificial y machine learning para determinar la calidad del aceite.
 
+La iniciativa busca facilitar la fiscalización técnica en entornos gastronómicos informales y brindar herramientas accesibles y confiables para la inspección sanitaria. De esta forma, se contribuye a la reducción de riesgos asociados al consumo de aceites degradados y a la prevención de enfermedades.
 
 
 # 🌍 Proyectos de Ingeniería 1
