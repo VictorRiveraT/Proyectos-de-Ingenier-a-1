@@ -1,5 +1,5 @@
-# 🌍 Fundamentos De Diseño - Grupo #3
-Bienvenidos al repositorio del Grupo #3 del curso: "Fundamentos de diseño". 
+# 🌍 Proyectos de Ingeniería 1
+Bienvenidos a nuestro repositorio.
 
 # 📖 Tabla de contenidos:
 - [¿Quienes somos?](#-¿quienes-somos?)  
