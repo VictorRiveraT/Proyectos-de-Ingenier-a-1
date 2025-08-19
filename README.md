@@ -1,5 +1,5 @@
 # 🌍 Proyectos de Ingeniería 1
-## Bienvenidos a nuestro repositorio.
+Bienvenidos a nuestro repositorio.
 
 # 📖 Tabla de contenidos:
 - [¿Quienes somos?](#-¿quienes-somos?)  
@@ -13,11 +13,15 @@
 Somos un equipo de estudiantes de la Universidad Peruana Cayetano Heredia, pertenecientes a la Facultad de Ciencias e Ingeniería, motivados por la búsqueda de soluciones tecnológicas que fortalezcan la salud pública, la seguridad alimentaria y la fiscalización ambiental, ya que reconocemos el impacto negativo de los subproductos tóxicos generados por aceites degradados en la calidad de los alimentos y la salud de las comunidades. 
 
 ## Integrantes:
-### - Victor Rivera
-### - Vanesa Rioja
-### - Jesús Morales
-### - Gisela Oscco
-### - Jander Huamaní
+- Victor Rivera
+</p>
+- Vanesa Rioja
+</p>
+- Jesús Morales
+</p>
+- Gisela Oscco
+</p>
+- Jander Huamaní
 
 # 🧪 Información sobre el Proyecto
 ## **Proyecto:** Sistema de Monitoreo de Calidad de Aceite de Cocina Reutilizado para la Seguridad Alimentaria
