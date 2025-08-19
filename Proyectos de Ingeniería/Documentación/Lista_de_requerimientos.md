@@ -6,8 +6,7 @@
 |--------------------------|----------------|
 | **PROYECTO:** Instrumento de medición de aceite vegetal utilizando pH y tratamiento de imágenes | **Edición:** Rev. 1 |
 | **CLIENTE:** UNIVERSIDAD PERUANA CAYETANO HEREDIA | **Fecha:** 18/08/2025 |
-| | **Revisado:** |
-| | **Elaborado:**<br>Jesús Morales,<br>Jander Huamani,<br>Vanesa Rioja,<br>Víctor Rivera,<br>Gisela Oscco |
+| **Elaborado:**<br>Jesús Morales, Jander Huamani, Vanesa Rioja, Víctor Rivera, Gisela Oscco| **Revisado:** |
 
 ---
 
