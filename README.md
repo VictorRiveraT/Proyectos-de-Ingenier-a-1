@@ -13,15 +13,15 @@ Bienvenidos a nuestro repositorio.
 Somos un equipo de estudiantes de la Universidad Peruana Cayetano Heredia, pertenecientes a la Facultad de Ciencias e Ingeniería, motivados por la búsqueda de soluciones tecnológicas que fortalezcan la salud pública, la seguridad alimentaria y la fiscalización ambiental, ya que reconocemos el impacto negativo de los subproductos tóxicos generados por aceites degradados en la calidad de los alimentos y la salud de las comunidades. 
 
 ## Integrantes:
-- Victor Rivera
+* Victor Rivera
 </p>
-- Vanesa Rioja
+* Vanesa Rioja
 </p>
-- Jesús Morales
+* Jesús Morales
 </p>
-- Gisela Oscco
+* Gisela Oscco
 </p>
-- Jander Huamaní
+* Jander Huamaní
 </p>
 
 # 🧪 Información sobre el Proyecto
