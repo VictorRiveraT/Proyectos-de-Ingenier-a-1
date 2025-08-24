@@ -1,6 +1,6 @@
 # SafeFry: Kit Portable para la Evalucación de Aceite Vegetal
 ## Descripción General
-### Proyecto: Sistema de Monitoreo de Calidad de Aceite de Cocina Reutilizado para la Seguridad Alimentaria.
+### Proyecto: Sistema de Monitoreo de Calidad de Aceite de Cocina Reutilizado mediante pH y Capacitancia
 
 SafeFry se centra en el desarrollo de un dispositivo portátil y de bajo costo que combina:
 
