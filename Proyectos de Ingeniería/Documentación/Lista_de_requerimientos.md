@@ -1,5 +1,7 @@
-# Lista de Exigencias
-
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/2cae9b13-d1de-4a5a-a827-643818c98091" width="200">
+  <h1 align="center">Lista de Requerimientos</h1>
+</p>
 Proyecto: **Sistema de Monitoreo de Calidad de Aceite de Cocina Reutilizado mediante pH y Capacitancia**  
 Institución: Universidad Peruana Cayetano Heredia  
 Fecha Primera Revisión: 18/08/2025  
