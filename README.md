@@ -4,8 +4,8 @@
 
 SafeFry se centra en el desarrollo de un dispositivo portátil y de bajo costo que combina:
 
-- La medición de **pH** del aceite de cocina reutilizado.
-- La medición de **capacitancia dieléctrica**, para estimar el porcentaje de compuestos polares totales (TPC) en el aceite.
+- La medicón de **pH** del aceite de cocina reutilizado.
+- El sondeo de **capacitancia dieléctrica**, para estimar el porcentaje de compuestos polares totales (TPC) en el aceite.
 
 La iniciativa busca facilitar la fiscalización técnica en entornos gastronómicos informales y brindar herramientas accesibles y confiables para la inspección sanitaria. De esta forma, se contribuye a la reducción de riesgos asociados al consumo de aceites degradados y a la prevención de enfermedades.
 
