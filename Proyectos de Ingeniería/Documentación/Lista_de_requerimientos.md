@@ -1,6 +1,6 @@
 # Lista de Exigencias
 
-Proyecto: **Instrumento de medición de aceite vegetal por pH y capacitancia**  
+Proyecto: **Sistema de Monitoreo de Calidad de Aceite de Cocina Reutilizado para la Seguridad Alimentaria por pH y Capacitancia**  
 Institución: Universidad Peruana Cayetano Heredia  
 Fecha: 18/08/2025  
 
