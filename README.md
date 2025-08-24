@@ -3,8 +3,9 @@
 ### Proyecto: Sistema de Monitoreo de Calidad de Aceite de Cocina Reutilizado para la Seguridad Alimentaria.
 
 SafeFry se centra en el desarrollo de un dispositivo portátil y de bajo costo que combina:
-- La medición de pH del aceite de cocina reutilizado.
-- El análisis de imágenes con visión artificial y machine learning para determinar la calidad del aceite.
+
+- La medición de **pH** del aceite de cocina reutilizado.
+- La medición de **capacitancia dieléctrica**, para estimar el porcentaje de compuestos polares totales (TPC) en el aceite.
 
 La iniciativa busca facilitar la fiscalización técnica en entornos gastronómicos informales y brindar herramientas accesibles y confiables para la inspección sanitaria. De esta forma, se contribuye a la reducción de riesgos asociados al consumo de aceites degradados y a la prevención de enfermedades.
 
@@ -19,11 +20,10 @@ Este dispositivo busca:
 
 ## Características Principales
 
-- Medición química: Integración de un sensor de pH para análisis directo del aceite.
-- Visión artificial: Captura de imágenes de la muestra en un cajetín con iluminación controlada.
-- Machine Learning: Clasificación del aceite según su calidad (nuevo, reutilizado, degradado).
-- Interfaz intuitiva: Visualización clara de resultados.
-- Diseño portátil: Prototipo compacto, accesible y replicable en diferentes contextos.
+- **Medición química:** Integración de un sensor de pH para análisis indirecto de acidez en el aceite.
+- **Medición dieléctrica:** Uso de una celda capacitiva para estimar %TPC, con criterio de retiro cuando TPC ≥ 25%.
+- **Interfaz intuitiva:** Visualización clara de resultados (pH, %TPC, diagnóstico final).
+- **Diseño portátil:** Prototipo compacto, accesible y replicable en diferentes contextos.
 
 ## Motivación y Contexto
 
@@ -33,19 +33,16 @@ Este proyecto también responde a la necesidad académica de brindar a los estud
 
 ## Funcionamiento Esperado
 
-1. El aceite se coloca en el cajetín.
-2. La cámara captura una imagen bajo condiciones de luz controladas.
-3. El sensor mide el pH de la muestra.
-4. El sistema procesa la imagen y la combina con el dato de pH.
-5. El modelo ML clasifica el aceite según su calidad.
-6. El resultado se muestra en la interfaz del sistema.
+1. La muestras de aceite se preparan y colocan en compartimentos de medición.
+2. El sensor mide el **pH aparente** de la muestra.
+3. La celda capacitiva mide la **capacitancia dieléctrica** asociada al %TPC.
+4. El sistema procesa ambos valores y los compara con parámetros de referencia.
+5. Se muestra el resultado en pantalla: Apto / No apto.
 
 ## Resultados Esperados
 
-- Clasificación precisa de aceites en diferentes estados de uso (nuevo, reutilizado, degradado) mediante visión artificial y machine learning.
-- Medición confiable de pH como parámetro químico de referencia en la evaluación de calidad.
+- Medición confiable de **pH** y **%TPC** como parámetros de referencia para la evaluación de la calidad del aceite.
 - Prototipo portátil y de bajo costo, diseñado para ser implementado en entornos gastronómicos informales y educativos.
-- Base de datos de imágenes de aceites, útil para entrenamiento y validación de futuros modelos.
 - Contribución académica y social, fortaleciendo la seguridad alimentaria y promoviendo el uso de tecnologías accesibles para el control de calidad.
 
 ## Integrantes:
