@@ -51,6 +51,6 @@ Este proyecto también responde a la necesidad académica de brindar a los estud
 | :------------: | :------------: | :------------: | :------------: |
 | **Rivera Torres Victor Daniel** | Desarrollo Técnico | Prototipado y desarrollo técnico | victor.rivera@upch.pe |
 | **Morales Alvarado Jesús Anselmo** | Desarrollo Técnico | Prototipado y desarrollo técnico | jesus.morales@upch.pe |
-| **Rioja Cruz Vanesa Doris** | Investigación | Investigación sobre energías renovables | vanesa.rioja@upch.pe |
-| **Oscco Pizarro Gisela** | Investigación | Investigación sobre energías renovables | gisela.oscco@upch.pe |
-| **Huamani Salazar Jander** | Investigación | Investigación sobre energías renovables | jander.huamani@upch.pe |
+| **Rioja Cruz Vanesa Doris** | Investigación | Investigación sobre herramientas de medición | vanesa.rioja@upch.pe |
+| **Oscco Pizarro Gisela** | Investigación | Investigación sobre herramientas de medición | gisela.oscco@upch.pe |
+| **Huamani Salazar Jander** | Investigación | Investigación sobre herramientas de medición | jander.huamani@upch.pe |
