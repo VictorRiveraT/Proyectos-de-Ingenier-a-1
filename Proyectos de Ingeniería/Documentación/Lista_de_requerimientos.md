@@ -1,6 +1,6 @@
 # Lista de Exigencias
 
-Proyecto: **Instrumento de medición de aceite vegetal por pH y Capacitancia**  
+Proyecto: **Instrumento de medición de aceite vegetal por pH y capacitancia**  
 Institución: Universidad Peruana Cayetano Heredia  
 Fecha: 18/08/2025  
 
