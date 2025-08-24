@@ -1,7 +1,7 @@
-# 📋 Lista de Exigencias
+# Lista de Exigencias
 
 Proyecto: **Instrumento de medición de aceite vegetal por pH y Capacitancia**  
-Cliente: Universidad Peruana Cayetano Heredia  
+Institución: Universidad Peruana Cayetano Heredia  
 Fecha: 18/08/2025  
 
 | Fecha    | Tipo | Exigencia              | Descripción                                                                                                                                                                                                                       | Responsable                 |
@@ -34,8 +34,42 @@ Fecha: 18/08/2025
   <img src="https://github.com/VictorRiveraT/Proyectos-de-Ingenier-a/blob/main/Proyectos%20de%20Ingenier%C3%ADa/Im%C3%A1genes/3.jpg"/>
 
 ## Bibliografía
-- Esterbauer, H., Schaur, R. J., & Zollner, H. (2014). Chemistry and biochemistry of 4-hydroxynonenal, malonaldehyde and related aldehydes. Neurotoxicology, 45, 10–21. https://doi.org/10.1016/j.neuro.2014.09.007
-- FAO/WHO. (1994). Grasas y aceites alimentarios en la nutrición humana. Roma: FAO. https://www.fao.org/3/y2774s/y2774s06.htm
-- Lethuaut, L., Bouvier-Navé, P., & Rousseau, D. (2016). Evaluation of frying oil degradation. ResearchGate. https://www.researchgate.net/publication/310742828
-- Loguercio, C., & Federico, A. (2005). Oxidative stress in viral and alcoholic hepatitis. Journal of Hepatology, 42(6), 845–851. https://doi.org/10.1016/j.jhep.2005.07.019
-- Ministerio del Ambiente. (s.f.). Ley General de Residuos Sólidos - Ley N.º 27314. https://www.gob.pe/institucion/minsa/normas-legales/251249-188-2006-sa-dvm
+
+- AOCS. (2017). *Official Method Cd 20-91: Total Polar Materials in Used Frying Oils.* American Oil Chemists’ Society.  
+  Recuperado de [https://www.aocs.org/resource/determination-of-polar-compounds-in-used-frying-oils-and-fats-by-adsorption-chromatography](https://www.aocs.org/resource/determination-of-polar-compounds-in-used-frying-oils-and-fats-by-adsorption-chromatography)
+
+- Codex Alimentarius. (2019). *Standard for Named Vegetable Oils (CODEX-STAN 210-1999).* FAO/WHO.  
+  Recuperado de [http://www.fao.org/fao-who-codexalimentarius/sh-proxy/en/?lnk=1&url=https://workspace.fao.org/sites/codex/Standards/CODEX%20STAN%20210-1999/CXS_210e.pdf](http://www.fao.org/fao-who-codexalimentarius/sh-proxy/en/?lnk=1&url=https://workspace.fao.org/sites/codex/Standards/CODEX%20STAN%20210-1999/CXS_210e.pdf)
+
+- FAO/OMS. (2010). *Safety evaluation of certain food additives and contaminants* (WHO Food Additives Series 61). Geneva: World Health Organization.  
+  Recuperado de [https://www.who.int/publications/i/item/9789241660614](https://www.who.int/publications/i/item/9789241660614)
+
+- ISO. (2020). *ISO 660:2020 – Animal and vegetable fats and oils — Determination of acid value and acidity.*  
+  Recuperado de [https://www.iso.org/standard/76623.html](https://www.iso.org/standard/76623.html)
+
+- ISO. (2018). *ISO 22000:2018 – Food safety management systems — Requirements for any organization in the food chain.*  
+  Recuperado de [https://www.iso.org/standard/65464.html](https://www.iso.org/standard/65464.html)
+
+- ISO. (2019). *ISO 468:2019 – Surface roughness — Parameters, their values and general rules for specifying requirements.*  
+  Recuperado de [https://www.iso.org/standard/69126.html](https://www.iso.org/standard/69126.html)
+
+- ISO. (2017). *ISO 7250-1:2017 – Basic human body measurements for technological design — Part 1.*  
+  Recuperado de [https://www.iso.org/standard/65244.html](https://www.iso.org/standard/65244.html)
+
+- ISO. (2018). *ISO 45001:2018 – Occupational health and safety management systems.*  
+  Recuperado de [https://www.iso.org/standard/63787.html](https://www.iso.org/standard/63787.html)
+
+- Khaled, A. Y., Aziz, S. A., & Rokhani, F. Z. (2015). Capacitive sensor probe to assess frying oil degradation. *Information Processing in Agriculture, 2*(2), 142–148.  
+  https://doi.org/10.1016/j.inpa.2015.07.002
+
+- Zhang, Z., Li, Z., Zhang, X., Zhou, J., Wang, S., & Chen, Y. (2020). Portable dielectric sensor for frying oil monitoring. *Sensors, 20*(3), 837.  
+  https://doi.org/10.3390/s20030837
+
+- Zubair, M., Kim, H. S., & Kim, H. S. (2018). Capacitive sensor for engine oil deterioration measurement. *Sensors and Transducers, 219*(7), 1–8.  
+  Recuperado de [https://www.sensorsportal.com/HTML/DIGEST/july_2018/P_3098.pdf](https://www.sensorsportal.com/HTML/DIGEST/july_2018/P_3098.pdf)
+
+- Congreso de la República del Perú. (2011). *Ley N° 29783, Ley de Seguridad y Salud en el Trabajo.*  
+  Recuperado de [https://www.gob.pe/institucion/mtpe/normas-legales/203435-ley-n-29783](https://www.gob.pe/institucion/mtpe/normas-legales/203435-ley-n-29783)
+
+- Ministerio de Salud del Perú. (1998). *Decreto Supremo N° 007-98-SA, Reglamento sobre Vigilancia y Control Sanitario de Alimentos y Bebidas.*  
+  Recuperado de [https://www.gob.pe/institucion/minsa/normas-legales/287047-007-98-sa](https://www.gob.pe/institucion/minsa/normas-legales/287047-007-98-sa)
