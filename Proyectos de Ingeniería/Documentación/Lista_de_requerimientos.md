@@ -2,7 +2,7 @@
 
 Proyecto: **Sistema de Monitoreo de Calidad de Aceite de Cocina Reutilizado mediante pH y Capacitancia**  
 Institución: Universidad Peruana Cayetano Heredia  
-Fecha: 18/08/2025  
+Fecha Primera Revisión: 18/08/2025  
 
 | Fecha    | Tipo | Exigencia              | Descripción                                                                                                                                                                                                                       | Responsable                 |
 |----------|------|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
