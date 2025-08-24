@@ -7,7 +7,7 @@ Fecha: 18/08/2025
 | Fecha    | Tipo | Exigencia              | Descripción                                                                                                                                                                                                                       | Responsable                 |
 |----------|------|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
 | 18/08/25 | E    | Función principal      | El dispositivo debe medir la calidad del aceite vegetal usado a través de **pH aparente** (relacionado a la acidez y liberación de ácidos grasos) y **capacitancia dieléctrica** (indicador indirecto de %TPC). Ambos parámetros son aceptados en la literatura como indicadores de deterioro. | J.M, J.H, Vanesa R, Victor R, G.O |
-| 18/08/25 | E    | Medición de parámetros | - **pH aparente (emulsión aceite–agua/etanol):** rango 0–14, resolución ±0.1; alerta si pH < 4.5 (alta acidez). <br> - **Capacitancia/TPC:** correlación con %TPC; fresco <10%, en uso 10–24%, deteriorado ≥25%.                                                        | J.M, J.H, G.O              |
+| 18/08/25 | E    | Medición de parámetros | **pH aparente (emulsión aceite–agua/etanol):** rango 0–14, resolución ±0.1; alerta si pH < 4.5 (alta acidez). <br> **Capacitancia/TPC:** correlación con %TPC; fresco <10%, en uso 10–24%, deteriorado ≥25%.                                                        | J.M, J.H, G.O              |
 | 18/08/25 | D    | Geometría y portabilidad | Prototipo compacto y liviano (<1.5 kg, ≤15×10×20 cm) para transporte en mochila y uso en campo (ISO 7250).                                                                                                                         | Victor R                   |
 | 18/08/25 | D    | Energía y autonomía    | Autonomía mínima de 8 horas con baterías recargables de bajo costo; salida en corriente continua de 5–9 V.                                                                                                                         | G.O                        |
 | 18/08/25 | D    | Software y control     | El sistema debe procesar lecturas de pH, registrar capacitancia y estimar %TPC, corregir por temperatura y entregar diagnóstico (Apto/No apto).                                                                                    | J.M                        |
@@ -25,13 +25,6 @@ Fecha: 18/08/2025
 | 18/08/25 | D    | Uso ambiental          | Operar hasta 3500 m.s.n.m y tolerar variaciones de temperatura y humedad (condiciones del Perú).                                                                                                                                   | Victor R                   |
 | 18/08/25 | E    | Plazos                 | El proyecto empezará el lunes 18 de agosto y finalizará el martes 2 de diciembre con un total aproximado de 128 horas de trabajo.                                                                                                  | J.M, J.H, Vanesa R, Victor R, G.O |
 
-
-<p align="center">
-  <img src="https://github.com/VictorRiveraT/Proyectos-de-Ingenier-a/blob/main/Proyectos%20de%20Ingenier%C3%ADa/Im%C3%A1genes/1.jpg"/>
-<p align="center">
-  <img src="https://github.com/VictorRiveraT/Proyectos-de-Ingenier-a/blob/main/Proyectos%20de%20Ingenier%C3%ADa/Im%C3%A1genes/2.jpg"/>
-<p align="center">
-  <img src="https://github.com/VictorRiveraT/Proyectos-de-Ingenier-a/blob/main/Proyectos%20de%20Ingenier%C3%ADa/Im%C3%A1genes/3.jpg"/>
 
 ## Bibliografía
 
