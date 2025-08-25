@@ -1,4 +1,4 @@
-# Simulación Estructural del Cajetín
+# Simulación Estructural
 
 ## 📌 Descripción 
 Consiste en la simulación estructural de un cajetín diseñado en **Onshape** e importado a **SimScale**.  
