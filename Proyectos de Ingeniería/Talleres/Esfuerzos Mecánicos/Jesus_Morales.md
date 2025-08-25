@@ -41,7 +41,7 @@ A continuación se presentan las capturas de cada etapa y del resultado final de
 <img width="1381" height="793" alt="image" src="https://github.com/user-attachments/assets/7d15c25c-ef62-4b96-bf73-6b03b1dcecfb" />
 
 ### 🔹 Paso 4 – Generación de malla
-<img width="827" height="601" alt="image" src="https://github.com/user-attachments/assets/d2ee7662-9ec5-42b2-adbe-5ec42e19d767" />
+<img width="1272" height="693" alt="image" src="https://github.com/user-attachments/assets/8dd17953-2a13-4738-88fe-3fc7d7519ea1" />
 
 ### 🔹 Resultado final – Mapa de calor
 <img width="1915" height="913" alt="image" src="https://github.com/user-attachments/assets/8e8c391c-b40e-4763-a88e-c4c6986e1424" />
@@ -55,3 +55,4 @@ A continuación se presentan las capturas de cada etapa y del resultado final de
 - El cajetín fabricado en PLA resiste adecuadamente la carga de **500 N** en dirección X, presentando deformaciones dentro de un rango esperado para el material.  
 - La fijación en la base es la zona crítica, por lo que en un diseño real se recomienda reforzar esta área para evitar concentraciones excesivas de tensión.  
 - El análisis confirma la utilidad de **SimScale** para la validación inicial de diseños provenientes de **Onshape**.
+
