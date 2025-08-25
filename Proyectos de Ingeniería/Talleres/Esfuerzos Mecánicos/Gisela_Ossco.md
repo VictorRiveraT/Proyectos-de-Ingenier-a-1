@@ -14,11 +14,6 @@ EQUIPOS Y SOFTWARE
 - Onshape: para el diseño CAD de la tobera.
 - SimScale: Para la simulación estructural
 
-CONCLUSIONES 
-- La simulación mostro que las mayores tensiones se concentran en la parte superior de la tobera
--  El desplazamiento maximo fue bajo, indicando buena rigidez estructural.
--  El diseño es mecanicamente estable bajo la carga aplicada.
--  La integración de Onshape y SinScale permitio evaluar el diseño de forma eficiente. 
   
 EVIDENCIAS 
 
@@ -45,6 +40,13 @@ A continuacion se adjuntas las imagenes.
 <img width="1793" height="869" alt="image" src="https://github.com/user-attachments/assets/e36a1d40-2731-4d5b-945a-8c400779476d" />
 
 <img width="1791" height="871" alt="image" src="https://github.com/user-attachments/assets/c29c9539-b075-408a-8785-1c7e6c2d1fee" />
+
+CONCLUSIONES 
+- La simulación mostro que las mayores tensiones se concentran en la parte superior de la tobera
+-  El desplazamiento maximo fue bajo, indicando buena rigidez estructural.
+-  El diseño es mecanicamente estable bajo la carga aplicada.
+-  La integración de Onshape y SinScale permitio evaluar el diseño de forma eficiente. 
+
 
 
 
