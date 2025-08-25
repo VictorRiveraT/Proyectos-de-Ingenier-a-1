@@ -1,6 +1,6 @@
 SIMULACION ESTRUCTURAL 
 
-Se diseño una tobera en Onshape y posteriormente se importo a SimScale para realizar un analisis mecanico. El objetivo principal fue evaluar su comportamiento estructural al aplicarle una fuerza en una dirección especifica. Durante la simulación se verifico el desplazamiento resultante y la distribucion de esfuerzos en el material, con el fin de identificar las zonas criticas y comprobar la resistencia de diseño frente a las condiciones de carga establecidas. 
+Se diseño una tobera en Onshape y posteriormente se importo a SimScale para realizar un analisis mecanico. El objetivo principal fue evaluar su comportamiento estructural al aplicarle una fuerza en una dirección especifica. Durante la simulación se verifico el desplazamiento resultante y la distribucion de esfuerzos en el material, con el fin de identificar las zonas criticas. 
 
 EVIDENCIAS 
 <img width="1800" height="857" alt="image" src="https://github.com/user-attachments/assets/5cd117cd-afa7-41ae-ac34-12e9f659d939" />
@@ -16,6 +16,16 @@ EVIDENCIAS
 <img width="1786" height="840" alt="image" src="https://github.com/user-attachments/assets/c0378958-bae0-456c-9496-fb5f3d9a6fbf" />
 
 <img width="1791" height="875" alt="image" src="https://github.com/user-attachments/assets/a0b4024d-577e-4428-bc4e-7bc2ac4286ab" />
+
+<img width="1790" height="844" alt="image" src="https://github.com/user-attachments/assets/8bd1f3e3-5f13-43fd-991d-de2f0b19a981" />
+
+<img width="1793" height="869" alt="image" src="https://github.com/user-attachments/assets/e36a1d40-2731-4d5b-945a-8c400779476d" />
+
+<img width="1791" height="871" alt="image" src="https://github.com/user-attachments/assets/c29c9539-b075-408a-8785-1c7e6c2d1fee" />
+
+
+
+
 
 
 
