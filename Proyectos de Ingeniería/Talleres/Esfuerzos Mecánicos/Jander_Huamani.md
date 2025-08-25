@@ -23,10 +23,10 @@ El presente informe documenta las simulaciones realizadas sobre un modelo 3D de 
 - **Resultado**: No se observó deformación apreciable en el modelo.  
 
 **Imagen de soporte y fuerza:**  
-![Soporte y Fuerza - Run 1](Proyectos de Ingeniería/Imágenes/SUPPORT.png)
+![Soporte y Fuerza - Run 1](https://github.com/VictorRiveraT/Proyectos-de-Ingenier-a-1/blob/main/Proyectos%20de%20Ingenier%C3%ADa/Im%C3%A1genes/SUPPORT.png)
 
 **Imagen de mapa de calor (resultado):**  
-![Mapa de Calor - Run 1](Proyectos de Ingeniería/Imágenes/RUN 1.png)
+![Mapa de Calor - Run 1](https://github.com/VictorRiveraT/Proyectos-de-Ingenier-a-1/blob/main/Proyectos%20de%20Ingenier%C3%ADa/Im%C3%A1genes/RUN%201.png)
 
 ---
 
@@ -37,10 +37,10 @@ El presente informe documenta las simulaciones realizadas sobre un modelo 3D de 
 - **Resultado**: Similar al Run 1, no se observó deformación apreciable.
 
 **Imagen de soporte y fuerza:**  
-![Soporte y Fuerza - Run 2](Proyectos de Ingeniería/Imágenes/FORCE AND SUPPORT 2.png)
+![Soporte y Fuerza - Run 2](https://github.com/VictorRiveraT/Proyectos-de-Ingenier-a-1/blob/main/Proyectos%20de%20Ingenier%C3%ADa/Im%C3%A1genes/FORCE%20AND%20SUPPORT%202.png)
 
 **Imagen de mapa de calor (resultado):**  
-![Mapa de Calor - Run 2](Proyectos de Ingeniería/Imágenes/RUN 2.png)
+![Mapa de Calor - Run 2](https://github.com/VictorRiveraT/Proyectos-de-Ingenier-a-1/blob/main/Proyectos%20de%20Ingenier%C3%ADa/Im%C3%A1genes/RUN%202.png)
 
 ---
 
@@ -51,10 +51,10 @@ El presente informe documenta las simulaciones realizadas sobre un modelo 3D de 
 - **Resultado**: Se observó deformación significativa; el vaso se estiró en dirección del eje Z.
 
 **Imagen de soporte y fuerza:**  
-![Soporte y Fuerza - Run 3](Proyectos de Ingeniería/Imágenes/RUN 3 FORCE AND SUPPORT.png)
+![Soporte y Fuerza - Run 3](https://github.com/VictorRiveraT/Proyectos-de-Ingenier-a-1/blob/main/Proyectos%20de%20Ingenier%C3%ADa/Im%C3%A1genes/RUN%203%20FORCE%20AND%20SUPPORT.png)
 
 **Imagen de mapa de calor (resultado):**  
-![Mapa de Calor - Run 3](Proyectos de Ingeniería/Imágenes/RUN 3.png)
+![Mapa de Calor - Run 3](https://github.com/VictorRiveraT/Proyectos-de-Ingenier-a-1/blob/main/Proyectos%20de%20Ingenier%C3%ADa/Im%C3%A1genes/RUN%203.png)
 
 ---
 
