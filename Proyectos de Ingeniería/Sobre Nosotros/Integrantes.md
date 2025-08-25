@@ -9,9 +9,9 @@
 | :------------: | :------------: | :------------: | :------------: |
 | **Rivera Torres Victor Daniel** | Desarrollo Técnico | Prototipado y desarrollo técnico | victor.rivera@upch.pe |
 | **Morales Alvarado Jesús Anselmo** | Desarrollo Técnico | Prototipado y desarrollo técnico | jesus.morales@upch.pe |
-| **Rioja Cruz Vanesa Doris** | Investigación | Investigación sobre energías renovables | vanesa.rioja@upch.pe |
-| **Oscco Pizarro Gisela** | Investigación | Investigación sobre energías renovables | gisela.oscco@upch.pe |
-| **Huamani Salazar Jander** | Investigación | Investigación sobre energías renovables | jander.huamani@upch.pe |
+| **Rioja Cruz Vanesa Doris** | Investigación | Investigación sobre herramientas de medición | vanesa.rioja@upch.pe |
+| **Oscco Pizarro Gisela** | Investigación | Investigación sobre herramientas de medición | gisela.oscco@upch.pe |
+| **Huamani Salazar Jander** | Investigación | Investigación sobre herramientas de medición | jander.huamani@upch.pe |
 
 ## Equipo Fundador
 
@@ -22,4 +22,5 @@
 | **Herrera Tumba Oscar Manuel** | Coordinador de Investigación | Asegurar datos reales y técnicamente correctos | oscar.herrera@upch.pe |
 | **Villamizar Maravi Andrea Margarita** | Coordinadora de Electrónica y Manufactura | Integrar sistemas electrónicos y supervisar pruebas de calidad| andrea.villamizar@upch.pe |
 | **Morales Alvarado Jesús Anselmo** | Coordinador de Programación y Página Web | Programar el controlador y visualización digital | jesus.morales@upch.pe |
+
 
