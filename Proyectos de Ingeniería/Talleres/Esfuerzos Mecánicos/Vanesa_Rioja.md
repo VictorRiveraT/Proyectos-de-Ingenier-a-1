@@ -44,5 +44,5 @@ Se aplicó una fuerza de **-1000 N** en la dirección negativa del eje X, genera
 ## 3. Conclusiones
 - La plataforma **SimScale** permitió simular adecuadamente los efectos de tracción y compresión en la pieza.  
 - La visualización con mapas de color facilita la identificación de zonas críticas de esfuerzo.  
-- El método de elementos finitos confirma que los puntos de fijación concentran mayores tensiones, lo cual es consistente con la teoría de resistencia de materiales.  
 - Esta práctica refuerza la importancia de realizar simulaciones previas en diseños mecánicos para prevenir fallas y optimizar geometrías.  
+
