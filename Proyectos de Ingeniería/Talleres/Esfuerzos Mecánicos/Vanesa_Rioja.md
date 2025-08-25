@@ -17,24 +17,30 @@ Se seleccionó el material PLA con un modulo de Young de 3.5e+9 Pa, un radio de 
 Se generó un mallado automático con refinamiento en las zonas críticas. 
 
 ![Mesh](https://github.com/VictorRiveraT/Proyectos-de-Ingenier-a-1/blob/main/Proyectos%20de%20Ingenier%C3%ADa/Im%C3%A1genes/mallado.png)
+Imagen 1: mallado de la pieza
+
+![fuerzas](https://github.com/VictorRiveraT/Proyectos-de-Ingenier-a-1/blob/main/Proyectos%20de%20Ingenier%C3%ADa/Im%C3%A1genes/direcci%C3%B3n%20fuerzas.png)
+Imagen 2: Dirección de la fuerza y la superficie fija
 
 ---
 
-### 2.2 Simulación de Tracción (Fuerza = +1000 N en eje X)
+### 2.3 Simulación de Tracción (Fuerza = +1000 N en eje X)
 En esta condición, se aplicó una carga de **+1000 N** en la dirección positiva del eje X, contando con una superficie de soporte fijo ubicado a la izquierda de la pieza. La pieza mostró un desplazamiento hacia la derecha y una distribución de esfuerzos concentrada en la zona de fijación.  
 
 ![tracción](https://github.com/VictorRiveraT/Proyectos-de-Ingenier-a-1/blob/main/Proyectos%20de%20Ingenier%C3%ADa/Im%C3%A1genes/tracci%C3%B3n.png)
+Imagen 3: Resultado de tracción
 
 ---
 
-### 2.3 Simulación de Compresión (Fuerza = -1000 N en eje X)
+### 2.4 Simulación de Compresión (Fuerza = -1000 N en eje X)
 Se aplicó una fuerza de **-1000 N** en la dirección negativa del eje X, generando una compresión de la pieza. En este caso también se cuenta con una superficie de soporte fijo ubicado a la izquierda de la pieza. La deformación ocurre en sentido contrario a la tracción, y la concentración de esfuerzos se observa también en los laterales.  
 
 ![compresión](https://github.com/VictorRiveraT/Proyectos-de-Ingenier-a-1/blob/main/Proyectos%20de%20Ingenier%C3%ADa/Im%C3%A1genes/compresi%C3%B3n.png)
+Imagen 4: Resultado de compresión
 
 ---
 
-### 2.4 Análisis comparativo
+### 2.5 Análisis comparativo
 - En tracción, los esfuerzos tienden a alargarse, distribuyéndose en la dirección de la fuerza.  
 - En compresión, los esfuerzos tienden a acumularse en los laterales, aumentando el riesgo de aplastamiento en ciertas zonas.  
 - Los valores máximos de esfuerzo se concentran en las superficies donde la pieza se encuentra restringida.  
@@ -45,4 +51,5 @@ Se aplicó una fuerza de **-1000 N** en la dirección negativa del eje X, genera
 - La plataforma **SimScale** permitió simular adecuadamente los efectos de tracción y compresión en la pieza.  
 - La visualización con mapas de color facilita la identificación de zonas críticas de esfuerzo.  
 - Esta práctica refuerza la importancia de realizar simulaciones previas en diseños mecánicos para prevenir fallas y optimizar geometrías.  
+
 
