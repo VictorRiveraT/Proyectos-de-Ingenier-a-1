@@ -9,7 +9,7 @@
 SafeFry se centra en el desarrollo de un dispositivo portátil y de bajo costo que combina:
 
 - La medicón de **pH** del aceite de cocina reutilizado.
-- El sondeo de **capacitancia dieléctrica**, para estimar el porcentaje de compuestos polares totales (TPC) en el aceite.
+- El sondeo de la **turbidez**, para estimar la presencia de impurezas y particulas asociadas al deterior del aceite.
 
 La iniciativa busca facilitar la fiscalización técnica en entornos gastronómicos informales y brindar herramientas accesibles y confiables para la inspección sanitaria. De esta forma, se contribuye a la reducción de riesgos asociados al consumo de aceites degradados y a la prevención de enfermedades.
 
@@ -25,27 +25,27 @@ Este dispositivo busca:
 ## Características Principales
 
 - **Medición química:** Integración de un sensor de pH para análisis indirecto de acidez en el aceite.
-- **Medición dieléctrica:** Uso de una celda capacitiva para estimar %TPC, con criterio de retiro cuando TPC ≥ 25%.
-- **Interfaz intuitiva:** Visualización clara de resultados (pH, %TPC, diagnóstico final).
+- **Medición optica:** Uso de un sensor de turbidez como parametro indirecto del deterioro, con criterio de alerta en niveles altos de particulas e impurezas.
+- **Interfaz intuitiva:** Visualización clara de resultados (pH, turbidez, diagnóstico final).
 - **Diseño portátil:** Prototipo compacto, accesible y replicable en diferentes contextos.
 
 ## Motivación y Contexto
 
 El acceso a herramientas accesibles y confiables para evaluar la calidad de aceites de cocina reutilizados suele estar limitado por altos costos, falta de precisión o la necesidad de equipos especializados. Esto genera un riesgo para la salud pública, especialmente en entornos gastronómicos informales donde los controles sanitarios son reducidos. </p>
-SafeFry nace con la intención de democratizar la evaluación de aceites, ofreciendo una alternativa portátil, de bajo costo y sencilla de implementar, que combina la medición de pH con el análisis de imágenes mediante visión artificial y machine learning. </p>
-Este proyecto también responde a la necesidad académica de brindar a los estudiantes experiencias prácticas en el uso de tecnologías emergentes (sensado químico e inteligencia artificial aplicada), facilitando la comprensión de conceptos de seguridad alimentaria, control de calidad y sostenibilidad en escenarios reales.
+SafeFry nace con la intención de democratizar la evaluación de aceites, ofreciendo una alternativa portátil, de bajo costo y sencilla de implementar, que combina la medición de pH con el análisis de turbidez. </p>
+Este proyecto también responde a la necesidad académica de brindar a los estudiantes experiencias prácticas en el uso de tecnologías emergentes (sensado químico y sensado optico), facilitando la comprensión de conceptos de seguridad alimentaria, control de calidad y sostenibilidad en escenarios reales.
 
 ## Funcionamiento Esperado
 
 1. La muestras de aceite se preparan y colocan en compartimentos de medición.
 2. El sensor mide el **pH aparente** de la muestra.
-3. La celda capacitiva mide la **capacitancia dieléctrica** asociada al %TPC.
+3. El sensor optico mide la **turbidez** del aceite para detectar su grado de deterioro.
 4. El sistema procesa ambos valores y los compara con parámetros de referencia.
 5. Se muestra el resultado en pantalla: Apto / No apto.
 
 ## Resultados Esperados
 
-- Medición confiable de **pH** y **%TPC** como parámetros de referencia para la evaluación de la calidad del aceite.
+- Medición confiable de **pH** y **turbidez** como parámetros de referencia para la evaluación de la calidad del aceite.
 - Prototipo portátil y de bajo costo, diseñado para ser implementado en entornos gastronómicos informales y educativos.
 - Contribución académica y social, fortaleciendo la seguridad alimentaria y promoviendo el uso de tecnologías accesibles para el control de calidad.
 
