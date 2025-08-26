@@ -3,7 +3,7 @@
   <h1 align="center">Lista de Requerimientos</h1>
 </p>
 
-Proyecto: **Sistema de Monitoreo de Calidad de Aceite de Cocina Reutilizado mediante pH y Capacitancia**  
+Proyecto: **Sistema de Monitoreo de Calidad de Aceite de Cocina Reutilizado mediante pH y turbidez**  
 Institución: Universidad Peruana Cayetano Heredia  
 Fecha Primera Revisión: 18/08/2025  
 
