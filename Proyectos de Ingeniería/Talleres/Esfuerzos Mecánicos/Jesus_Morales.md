@@ -1,10 +1,10 @@
 # Simulación Estructural
 
-## 📌 Descripción 
+## Descripción 
 Consiste en la simulación estructural de un cajetín diseñado en **Onshape** e importado a **SimScale**.  
 El objetivo fue analizar el comportamiento mecánico del modelo al aplicarle una fuerza en una dirección específica, verificando el desplazamiento y la distribución de esfuerzos.
 
-## ⚙️ Configuración de la Simulación
+## Configuración de la Simulación
 
 - **Software utilizado:** SimScale (análisis estático lineal).
 - **Geometría:** Cajetín importado desde Onshape.
@@ -14,7 +14,7 @@ El objetivo fue analizar el comportamiento mecánico del modelo al aplicarle una
   - Fuerza aplicada en el eje **X** con magnitud de **500 N**.
 - **Mallado:** Generado automáticamente con refinamiento estándar.
 
-## 📊 Resultados
+## Resultados
 
 La simulación permitió visualizar:
 - El **mapa de desplazamientos**, que muestra la deformación bajo la carga aplicada.
@@ -23,7 +23,7 @@ La simulación permitió visualizar:
 
 Se observa que las zonas de mayor concentración de esfuerzos se encuentran alrededor del área cercana a la fijación, mientras que el resto del cuerpo presenta esfuerzos menores.
 
-## 🖼️ Evidencias
+## Evidencias
 
 A continuación se presentan las capturas de cada etapa y del resultado final de la simulación:
 
@@ -50,9 +50,10 @@ A continuación se presentan las capturas de cada etapa y del resultado final de
 
 <img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/45afe530-2925-4013-910e-76f522668b58" />
 
-## ✅ Conclusiones
+## Conclusiones
 
 - El cajetín fabricado en PLA resiste adecuadamente la carga de **500 N** en dirección X, presentando deformaciones dentro de un rango esperado para el material.  
 - La fijación en la base es la zona crítica, por lo que en un diseño real se recomienda reforzar esta área para evitar concentraciones excesivas de tensión.  
 - El análisis confirma la utilidad de **SimScale** para la validación inicial de diseños provenientes de **Onshape**.
+
 
