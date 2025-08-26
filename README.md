@@ -4,7 +4,7 @@
 </p>
 
 ## Descripción General
-### Proyecto: Sistema de Monitoreo de Calidad de Aceite de Cocina Reutilizado mediante pH y Capacitancia
+### Proyecto: Sistema de Monitoreo de Calidad de Aceite de Cocina Reutilizado mediante pH y turbidez
 
 SafeFry se centra en el desarrollo de un dispositivo portátil y de bajo costo que combina:
 
