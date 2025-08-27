@@ -1,4 +1,4 @@
-**Link al avance en la aplicación draw.io**: https://drive.google.com/file/d/1MRughnOz8zHX7MqqkQeBHqksV7nDdsnT/view?usp=sharing
+**Link del avance en la aplicación draw.io**: https://drive.google.com/file/d/1MRughnOz8zHX7MqqkQeBHqksV7nDdsnT/view?usp=sharing
 
 ---
 
