@@ -7,11 +7,11 @@
 
 | Miembro | Rol | Función Principal | Correo |
 | :------------: | :------------: | :------------: | :------------: |
-| **Rivera Torres Victor Daniel** | Desarrollo Técnico | Prototipado y desarrollo técnico | victor.rivera@upch.pe |
-| **Morales Alvarado Jesús Anselmo** | Desarrollo Técnico | Prototipado y desarrollo técnico | jesus.morales@upch.pe |
-| **Rioja Cruz Vanesa Doris** | Investigación | Investigación sobre herramientas de medición | vanesa.rioja@upch.pe |
-| **Oscco Pizarro Gisela** | Investigación | Investigación sobre herramientas de medición | gisela.oscco@upch.pe |
-| **Huamani Salazar Jander** | Investigación | Investigación sobre herramientas de medición | jander.huamani@upch.pe |
+| **Rivera Torres Victor Daniel** | Diseño mecánico y prototipo | Diseñar y generar planos; iterar el prototipo físico | victor.rivera@upch.pe |
+| **Morales Alvarado Jesús Anselmo** | Firmware y Telemetría | Programar filtrado y lógica; telemetría con envío al sitio web | jesus.morales@upch.pe |
+| **Rioja Cruz Vanesa Doris** | Investigación y Requisitos | Liderar la revisión bibliográfica, definir métricas/umbrales y protocolos de calibración | vanesa.rioja@upch.pe |
+| **Oscco Pizarro Gisela** | Gestión de Repositorio y Flujo de Desarrollo | Estructurar y mantener el GitHub, control de versiones de datos | gisela.oscco@upch.pe |
+| **Huamani Salazar Jander** | Electrónica y Ensamble | Diseñar el esquema, cableado y ensamble electrónico | jander.huamani@upch.pe |
 
 ## Equipo Fundador
 
@@ -22,5 +22,6 @@
 | **Herrera Tumba Oscar Manuel** | Coordinador de Investigación | Asegurar datos reales y técnicamente correctos | oscar.herrera@upch.pe |
 | **Villamizar Maravi Andrea Margarita** | Coordinadora de Electrónica y Manufactura | Integrar sistemas electrónicos y supervisar pruebas de calidad| andrea.villamizar@upch.pe |
 | **Morales Alvarado Jesús Anselmo** | Coordinador de Programación y Página Web | Programar el controlador y visualización digital | jesus.morales@upch.pe |
+
 
 
