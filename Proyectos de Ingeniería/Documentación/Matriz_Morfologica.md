@@ -4,5 +4,6 @@ Link del avance en Google Sheets: https://docs.google.com/spreadsheets/d/1ee9eD5
 
 ---
 
-![Matriz Morfologica](https://github.com/VictorRiveraT/Proyectos-de-Ingenier-a-1/blob/main/Proyectos%20de%20Ingenier%C3%ADa/Im%C3%A1genes/Matriz_morfologica.png)
+![Matriz Morfologica](https://github.com/VictorRiveraT/Proyectos-de-Ingenier-a-1/blob/main/Proyectos%20de%20Ingenier%C3%ADa/Im%C3%A1genes/Matriz.png)
+
 
