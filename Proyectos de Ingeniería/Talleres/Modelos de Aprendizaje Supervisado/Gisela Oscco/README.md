@@ -1,4 +1,4 @@
-** 1. Procedimiento**
+**1. PROCEDIMIENTO**
 
 **1.1** Clasificación Multiclase (Dataset: Salud)
 
@@ -35,14 +35,15 @@ Curva del codo: Se analiza la evolución del error en entrenamiento y validació
 
 Métricas finales: Se reporta la exactitud y la matriz de confusión sobre el conjunto de prueba.
 
-2. Análisis y Discusión
+**2. ANALISIS y DISCUSIÓN**
 
-Preprocesamiento: El OneHotEncoder permite usar modelos lineales con variables categóricas. Para KNN, la estandarización es fundamental porque el algoritmo depende de distancias.
+-Preprocesamiento: El OneHotEncoder permite usar modelos lineales con variables categóricas. Para KNN, la estandarización es fundamental porque el algoritmo depende de distancias.
 
-Ajuste de hiperparámetros: La elección de **weights="distance"** y la métrica (Manhattan o Euclidiana, 
+-Ajuste de hiperparámetros: La elección de **weights="distance"** y la métrica (Manhattan o Euclidiana, 
 𝑝=1 o 𝑝=2) afecta la frontera de decisión. Valores bajos de 𝑘 generan sobreajuste, mientras que valores muy grandes llevan a subajuste.
 
-Validez del modelo: Al aplicar correctamente la división entre entrenamiento y prueba se evita data leakage. Esto puede reducir un poco las métricas, pero da una mejor estimación de la capacidad de generalización del modelo.
+-Validez del modelo: Al aplicar correctamente la división entre entrenamiento y prueba se evita data leakage. Esto puede reducir un poco las métricas, pero da una mejor estimación de la capacidad de generalización del modelo.
+
 
 
 
