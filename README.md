@@ -4,11 +4,11 @@
 </p>
 
 ## Descripción General
-### Proyecto: Sistema de Monitoreo de Calidad de Aceite de Cocina Reutilizado mediante pH y turbidez
+### Proyecto: Sistema de Monitoreo de Calidad de Aceite de Cocina Reutilizado mediante Capacitancia y turbidez
 
 SafeFry se centra en el desarrollo de un dispositivo portátil y de bajo costo que combina:
 
-- La medicón de **pH** del aceite de cocina reutilizado.
+- La medicón de la **capacitancia** del aceite de cocina reutilizado, como indicador de cambio en sus propiedades dieléctricas asociadas al deterioro.
 - El sondeo de la **turbidez**, para estimar la presencia de impurezas y particulas asociadas al deterior del aceite.
 
 La iniciativa busca facilitar la fiscalización técnica en entornos gastronómicos informales y brindar herramientas accesibles y confiables para la inspección sanitaria. De esta forma, se contribuye a la reducción de riesgos asociados al consumo de aceites degradados y a la prevención de enfermedades.
