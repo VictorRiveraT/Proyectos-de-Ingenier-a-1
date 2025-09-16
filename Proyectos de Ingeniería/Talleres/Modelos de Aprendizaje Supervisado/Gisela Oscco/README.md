@@ -17,11 +17,11 @@ Evaluación: Se obtiene el **classification_report**, exactitud global y matriz 
 
 **1.2** Clasificación con KNN (Dataset: Datos Clasificados)
 
-Normalización: Se aplican transformaciones con StandardScaler para que todas las variables estén en la misma escala.
+**Normalización**: Se aplican transformaciones con StandardScaler para que todas las variables estén en la misma escala.
 
-División de datos: Se separa en entrenamiento y prueba en proporción 50/50, con random_state=101 para asegurar reproducibilidad.
+**División de datos**: Se separa en entrenamiento y prueba en proporción 50/50, con random_state=101 para asegurar reproducibilidad.
 
-Modelo inicial: Se utiliza un clasificador KNN con **n_neighbors=11** como punto de partida.
+**Modelo inicial**: Se utiliza un clasificador KNN con **n_neighbors=11** como punto de partida.
 
 Optimización de hiperparámetros: Se emplea **GridSearchCV** probando combinaciones de:
 
@@ -31,9 +31,9 @@ Optimización de hiperparámetros: Se emplea **GridSearchCV** probando combinaci
 
 -distancia de Minkowski con 𝑝 ∈{1,2}, con validación cruzada de 5 a 10 particiones.
 
-Curva del codo: Se analiza la evolución del error en entrenamiento y validación con **cross_val_score** para identificar un valor adecuado de 𝑘.
+**Curva del codo**: Se analiza la evolución del error en entrenamiento y validación con **cross_val_score** para identificar un valor adecuado de 𝑘.
 
-Métricas finales: Se reporta la exactitud y la matriz de confusión sobre el conjunto de prueba.
+**Métricas finales**: Se reporta la exactitud y la matriz de confusión sobre el conjunto de prueba.
 
 **2. ANALISIS y DISCUSIÓN**
 
@@ -43,6 +43,7 @@ Métricas finales: Se reporta la exactitud y la matriz de confusión sobre el co
 𝑝=1 o 𝑝=2) afecta la frontera de decisión. Valores bajos de 𝑘 generan sobreajuste, mientras que valores muy grandes llevan a subajuste.
 
 -Validez del modelo: Al aplicar correctamente la división entre entrenamiento y prueba se evita data leakage. Esto puede reducir un poco las métricas, pero da una mejor estimación de la capacidad de generalización del modelo.
+
 
 
 
