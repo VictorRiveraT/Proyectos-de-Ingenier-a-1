@@ -24,28 +24,28 @@ Este dispositivo busca:
 
 ## Características Principales
 
-- **Medición eléctrica:** Integración de un sensor de pH para análisis indirecto de acidez en el aceite.
+- **Medición eléctrica:** Integración de un sensor capacitivo para análisis indirecto de la constante dieéectrica en el aceite, relacionado con su grado de deterioro.
 - **Medición optica:** Uso de un sensor de turbidez como parametro indirecto del deterioro, con criterio de alerta en niveles altos de particulas e impurezas.
-- **Interfaz intuitiva:** Visualización clara de resultados (pH, turbidez, diagnóstico final).
+- **Interfaz intuitiva:** Visualización clara de resultados (capacitancia, turbidez, diagnóstico final).
 - **Diseño portátil:** Prototipo compacto, accesible y replicable en diferentes contextos.
 
 ## Motivación y Contexto
 
 El acceso a herramientas accesibles y confiables para evaluar la calidad de aceites de cocina reutilizados suele estar limitado por altos costos, falta de precisión o la necesidad de equipos especializados. Esto genera un riesgo para la salud pública, especialmente en entornos gastronómicos informales donde los controles sanitarios son reducidos. </p>
-SafeFry nace con la intención de democratizar la evaluación de aceites, ofreciendo una alternativa portátil, de bajo costo y sencilla de implementar, que combina la medición de pH con el análisis de turbidez. </p>
+SafeFry nace con la intención de democratizar la evaluación de aceites, ofreciendo una alternativa portátil, de bajo costo y sencilla de implementar, que combina la medición de capacitancia con el análisis de turbidez. </p>
 Este proyecto también responde a la necesidad académica de brindar a los estudiantes experiencias prácticas en el uso de tecnologías emergentes (sensado químico y sensado optico), facilitando la comprensión de conceptos de seguridad alimentaria, control de calidad y sostenibilidad en escenarios reales.
 
 ## Funcionamiento Esperado
 
 1. La muestras de aceite se preparan y colocan en compartimentos de medición.
-2. El sensor mide el **pH aparente** de la muestra.
+2. El sensor capacitivo mide la **capacitancia aparente** de la muestra, relacionada con cambios en su composición.
 3. El sensor optico mide la **turbidez** del aceite para detectar su grado de deterioro.
 4. El sistema procesa ambos valores y los compara con parámetros de referencia.
 5. Se muestra el resultado en pantalla: Apto / No apto.
 
 ## Resultados Esperados
 
-- Medición confiable de **pH** y **turbidez** como parámetros de referencia para la evaluación de la calidad del aceite.
+- Medición confiable de **capacitancia** y **turbidez** como parámetros de referencia para la evaluación de la calidad del aceite.
 - Prototipo portátil y de bajo costo, diseñado para ser implementado en entornos gastronómicos informales y educativos.
 - Contribución académica y social, fortaleciendo la seguridad alimentaria y promoviendo el uso de tecnologías accesibles para el control de calidad.
 
