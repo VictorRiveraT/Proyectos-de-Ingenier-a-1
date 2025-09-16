@@ -2,7 +2,7 @@
 
 1.1 Clasificación Multiclase (Dataset: Salud)
 
--Carga y feature engineering: Se genera la variable Stay_Days a partir de la diferencia entre la fecha de alta y la fecha de admisión.
+-Carga y feature engineering: Se genera la variable ´Stay_Days´ a partir de la diferencia entre la fecha de alta y la fecha de admisión.
 
 -Selección de variables: La variable objetivo será Test Results. Como predictores se toman todas las columnas excepto las de identificación (Nombre, Doctor, Número de Habitación) y las fechas originales.
 
@@ -13,4 +13,5 @@
 -Modelo: Se entrena una Regresión Logística con el solver "saga", adecuado para problemas multiclase y datasets con variables codificadas.
 
 Evaluación: Se obtiene el classification_report, exactitud global y matriz de confusión para analizar el desempeño.
+
 
