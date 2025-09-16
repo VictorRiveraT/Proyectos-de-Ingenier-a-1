@@ -16,7 +16,8 @@ Predicción y clasificación con **Modelos de Aprendizaje Supervisado**.
 ---
 
 ## 3. Materiales y recursos
-- **Lenguaje/Libs:** Python 3.x, `numpy`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`.
+- **Lenguaje/Libs:** Python 3.10.18, `numpy`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`.
 - **Datasets:**
   - Healthcare (`healthcare_dataset.csv`) – multiclase `Test Results`.
   - Classified Data (`Classified_Data.txt`) – binario.
+
