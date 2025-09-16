@@ -8,7 +8,7 @@
 
 SafeFry se centra en el desarrollo de un dispositivo portátil y de bajo costo que combina:
 
-- La medicón de la **capacitancia** del aceite de cocina reutilizado, como indicador de cambio en sus propiedades dieléctricas asociadas al deterioro.
+- La medición de la **capacitancia** del aceite de cocina reutilizado, como indicador de cambio en sus propiedades dieléctricas asociadas al deterioro.
 - El sondeo de la **turbidez**, para estimar la presencia de impurezas y particulas asociadas al deterior del aceite.
 
 La iniciativa busca facilitar la fiscalización técnica en entornos gastronómicos informales y brindar herramientas accesibles y confiables para la inspección sanitaria. De esta forma, se contribuye a la reducción de riesgos asociados al consumo de aceites degradados y a la prevención de enfermedades.
@@ -24,7 +24,7 @@ Este dispositivo busca:
 
 ## Características Principales
 
-- **Medición química:** Integración de un sensor de pH para análisis indirecto de acidez en el aceite.
+- **Medición eléctrica:** Integración de un sensor de pH para análisis indirecto de acidez en el aceite.
 - **Medición optica:** Uso de un sensor de turbidez como parametro indirecto del deterioro, con criterio de alerta en niveles altos de particulas e impurezas.
 - **Interfaz intuitiva:** Visualización clara de resultados (pH, turbidez, diagnóstico final).
 - **Diseño portátil:** Prototipo compacto, accesible y replicable en diferentes contextos.
