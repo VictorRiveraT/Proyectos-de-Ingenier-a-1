@@ -1,4 +1,4 @@
-**Procedimiento**
+** 1. Procedimiento**
 
 **1.1** Clasificación Multiclase (Dataset: Salud)
 
@@ -13,6 +13,7 @@
 -Modelo: Se entrena una Regresión Logística con el solver **"saga"**, adecuado para problemas multiclase y datasets con variables codificadas.
 
 Evaluación: Se obtiene el **classification_report**, exactitud global y matriz de confusión para analizar el desempeño.
+
 
 **1.2** Clasificación con KNN (Dataset: Datos Clasificados)
 
@@ -33,6 +34,16 @@ Optimización de hiperparámetros: Se emplea **GridSearchCV** probando combinaci
 Curva del codo: Se analiza la evolución del error en entrenamiento y validación con **cross_val_score** para identificar un valor adecuado de 𝑘.
 
 Métricas finales: Se reporta la exactitud y la matriz de confusión sobre el conjunto de prueba.
+
+2. Análisis y Discusión
+
+Preprocesamiento: El OneHotEncoder permite usar modelos lineales con variables categóricas. Para KNN, la estandarización es fundamental porque el algoritmo depende de distancias.
+
+Ajuste de hiperparámetros: La elección de **weights="distance"** y la métrica (Manhattan o Euclidiana, 
+𝑝=1 o 𝑝=2) afecta la frontera de decisión. Valores bajos de 𝑘 generan sobreajuste, mientras que valores muy grandes llevan a subajuste.
+
+Validez del modelo: Al aplicar correctamente la división entre entrenamiento y prueba se evita data leakage. Esto puede reducir un poco las métricas, pero da una mejor estimación de la capacidad de generalización del modelo.
+
 
 
 
