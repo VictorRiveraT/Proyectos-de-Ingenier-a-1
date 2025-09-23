@@ -1,13 +1,13 @@
 Informe Técnico: Predicción y Validación de Monóxido de Carbono (CO) en Hawai (2023–2025)
 
-1. INTRODUCCIÓN
+1. **INTRODUCCIÓN**
 
 Este informe documenta el desarrollo de un modelo de regresión para predecir las concentraciones de **Monóxido de Carbono (CO)** en la ciudad de **Hawai, Estados Unidos**.  
 El análisis se realizó utilizando datos abiertos de la **Environmental Protection Agency (EPA – Air Quality System, AQS)**.  
 
 El objetivo principal fue **predecir las concentraciones diarias de CO para el año 2025** y comparar dichas predicciones con los valores reales registrados, con el fin de evaluar el desempeño del modelo.
 
-2. METODOLOGÍA
+2. **METODOLOGÍA**
 
 ### 2.1. Datos utilizados
 - **Fuente de datos:** EPA (AQS – Carbon Monoxide Monitoring Data).  
@@ -34,7 +34,7 @@ El objetivo principal fue **predecir las concentraciones diarias de CO para el a
   - **RMSE (Raíz del Error Cuadrático Medio)**  
   - **R² (Coeficiente de Determinación)**
  
-3. RESULTADO
+3. **RESULTADO**
 
 ### 3.1. Desempeño del modelo
 El modelo entrenado mostró los siguientes valores de desempeño en el conjunto de prueba:  
@@ -54,26 +54,27 @@ El modelo permitió proyectar concentraciones de CO para cada día del 2025.
 - Se observó consistencia en las tendencias temporales.  
 - Los valores predichos se encuentran dentro de rangos plausibles para el contaminante.
 
-4. DISCUSIÓN 
+4. **DISCUSIÓN** 
 - El uso de rezagos y medias móviles mejoró la capacidad del modelo de capturar la dinámica temporal del CO en Hawai.  
 - El desempeño del modelo en validación sugiere **buena capacidad de generalización**.  
 - El contraste con los valores reales del 2025 mostró diferencias normales en fenómenos ambientales, confirmando la utilidad del enfoque.  
 
-5. CONCLUSIONES
+5. **CONCLUSIONES**
 1. Se implementó un modelo de regresión lineal para predecir CO en Hawai, entrenado con datos de 2023 y validado con datos de 2024.  
 2. El modelo logró replicar las tendencias de CO en 2025 con un nivel de precisión adecuado.  
 3. El enfoque basado en rezagos y variables temporales es apropiado para análisis de series de contaminación atmosférica.  
 4. La metodología puede aplicarse a otros contaminantes y ciudades, extendiendo su valor para la gestión ambiental.
 
-6. RECOMENDACIONES
+6. **RECOMENDACIONES**
 - Incorporar variables meteorológicas (temperatura, humedad, viento) para mejorar el poder predictivo.  
 - Comparar la regresión lineal con modelos más complejos (p. ej. Random Forest, XGBoost, LSTM).  
 - Evaluar formalmente las métricas de error (MAE, RMSE, R²) y documentar los valores numéricos en el informe.  
 - Ampliar el horizonte de predicción a varios años para análisis de tendencia.  
 
-7. REFERENCIAS
+7. **REFERENCIAS**
 [1] United States Environmental Protection Agency. “Outdoor Air Quality Data.” [Online]. Available: https://www.epa.gov/outdoor-air-quality-data.  
 [2] J. D. Hamilton, *Time Series Analysis*, Princeton University Press, 1994.  
 
 
 ---
+
