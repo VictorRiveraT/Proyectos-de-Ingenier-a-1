@@ -81,7 +81,7 @@ Estos valores muestran que el modelo, basado únicamente en información de fech
 
 En el gráfico de comparación, se observa que las predicciones siguen una trayectoria más suavizada y decreciente, sin reflejar los picos abruptos ni la amplitud de las variaciones diarias reales. Esto confirma que los atributos temporales por sí solos no son suficientes para capturar la complejidad del contaminante. 
 
-![image1]()
+![image1](https://github.com/VictorRiveraT/Proyectos-de-Ingenier-a-1/blob/main/Proyectos%20de%20Ingenier%C3%ADa/Im%C3%A1genes/descarga1.png)
 
 ---
 
@@ -103,7 +103,7 @@ Las tablas comparativas de 2025 respaldan esta conclusión:
 
 En el gráfico de comparación, se aprecia que el modelo reproduce de forma estable el nivel medio de las concentraciones de CO, pero no logra seguir los picos más pronunciados, lo que limita su capacidad predictiva en episodios críticos. 
 
-![image1]()
+![image2](https://github.com/VictorRiveraT/Proyectos-de-Ingenier-a-1/blob/main/Proyectos%20de%20Ingenier%C3%ADa/Im%C3%A1genes/descarga2.png)
 
 ---
 
@@ -138,3 +138,4 @@ El contraste entre ambos enfoques pone en evidencia las limitaciones de los mode
 - T. Chen y C. Guestrin, “XGBoost: A scalable tree boosting system,” Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, pp. 785–794, 2016.   
 - J. H. Friedman, “Greedy function approximation: A gradient boosting machine,” Annals of Statistics, vol. 29, no. 5, pp. 1189–1232, 2001.
 - U.S. Environmental Protection Agency (EPA), “Air Quality System (AQS) Data Mart,” 2024. [Online]. Available: [https://www.epa.gov/airdata](https://www.epa.gov/airdata)  
+
