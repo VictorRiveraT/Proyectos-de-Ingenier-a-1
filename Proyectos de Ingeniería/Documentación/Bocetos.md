@@ -1,1 +1,1 @@
-
+![Boceto 3](Proyectos%20de%20Ingeniería/Imágenes/Boceto%203.jpg)
