@@ -23,15 +23,15 @@ Sistema IoT profesional para monitoreo en tiempo real de la calidad del aceite d
 
 ### Funcionalidades Principales
 
-- ✅ **Monitoreo Multi-Sensor**: Medición simultánea de capacitancia y turbidez
-- ✅ **Conectividad WiFi**: Transmisión de datos en tiempo real
-- ✅ **Dashboard Web**: Interfaz gráfica profesional con Node-RED
-- ✅ **Control Remoto**: Pausa/reanuda mediciones desde cualquier dispositivo
-- ✅ **Display LCD**: Visualización local de datos y estado del sistema
-- ✅ **Toma de Decisiones**: Clasificación automática del aceite (Apto/No Apto)
-- ✅ **Histórico de Datos**: Gráficas temporales de evolución
-- ✅ **Sistema Modular**: Código organizado en clases reutilizables
-- ✅ **Calibración Flexible**: Ajuste de umbrales según tipo de aceite
+-  **Monitoreo Multi-Sensor**: Medición simultánea de capacitancia y turbidez
+-  **Conectividad WiFi**: Transmisión de datos en tiempo real
+-  **Dashboard Web**: Interfaz gráfica profesional con Node-RED
+-  **Control Remoto**: Pausa/reanuda mediciones desde cualquier dispositivo
+-  **Display LCD**: Visualización local de datos y estado del sistema
+-  **Toma de Decisiones**: Clasificación automática del aceite (Apto/No Apto)
+-  **Histórico de Datos**: Gráficas temporales de evolución
+-  **Sistema Modular**: Código organizado en clases reutilizables
+-  **Calibración Flexible**: Ajuste de umbrales según tipo de aceite
 
 ### Sensores Implementados
 
@@ -286,7 +286,7 @@ void loop() {
 
 ---
 
-### 📄 `lcd_display.h/.cpp` - Control del Display LCD
+###  `lcd_display.h/.cpp` - Control del Display LCD
 
 **Ubicación:** `src/lcd_display.h` + `src/lcd_display.cpp`
 
@@ -612,9 +612,9 @@ const char* WIFI_PASSWORD = "TU_CONTRASEÑA";
 ```
 
 **Requisitos:**
-- ✅ Red WiFi 2.4 GHz (ESP32 no soporta 5 GHz)
-- ✅ DHCP habilitado (asignación automática de IP)
-- ✅ Sin firewall que bloquee UDP
+-  Red WiFi 2.4 GHz (ESP32 no soporta 5 GHz)
+-  DHCP habilitado (asignación automática de IP)
+-  Sin firewall que bloquee UDP
 
 ### Configuración UDP
 
@@ -724,7 +724,7 @@ Desde el dashboard web (`http://IP_PC:1880/ui`):
 |--------|--------|----------|
 | **⏸️ PAUSAR** | Detiene mediciones | LCD: "SISTEMA PAUSADO" |
 | **▶️ REANUDAR** | Inicia mediciones | LCD: "Iniciando... Sistema" |
-| **⏱️ Slider** | Cambia intervalo (1-30s) | Serial: "Intervalo cambiado a: Xs" |
+| ** Slider** | Cambia intervalo (1-30s) | Serial: "Intervalo cambiado a: Xs" |
 
 ### Lectura del LCD
 
@@ -753,10 +753,10 @@ Desde el dashboard web (`http://IP_PC:1880/ui`):
 ║         LEYENDO SENSORES SAFEFRY          ║
 ╚════════════════════════════════════════════╝
 
-📊 SENSOR CAPACITIVO:
+ SENSOR CAPACITIVO:
   RAW: 3135 | Degradación: 45.5% | Estado: BUENO | ✅ APTO
 
-🌊 SENSORES DE TURBIDEZ:
+ SENSORES DE TURBIDEZ:
   Sensor 1: 225 (35.2%)
   Sensor 2: 220 (34.8%)
   Promedio: 35.0% NTU | Estado: BUENO | ✅ APTO
@@ -765,7 +765,7 @@ Desde el dashboard web (`http://IP_PC:1880/ui`):
 ║        DECISIÓN FINAL: ✅ APTO            ║
 ╚════════════════════════════════════════════╝
 
-📤 Datos enviados por UDP:
+ Datos enviados por UDP:
 {"timestamp":12345,"capacitancia_raw":3135,...}
 ```
 
@@ -825,7 +825,7 @@ Móvil:     http://IP_PC:1880/ui
 **Displays grandes:**
 ```
 ┌─────────────────────┐  ┌─────────────────────┐
-│  🌊 Turbidez RAW    │  │ ⚡ Capacitancia RAW │
+│    Turbidez RAW     │  │    Capacitancia RAW │
 │                     │  │                     │
 │       223           │  │       3135          │
 │   (fuente 36px)     │  │   (fuente 36px)     │
@@ -835,8 +835,8 @@ Móvil:     http://IP_PC:1880/ui
 #### 5. Estados Detallados
 
 **Texto descriptivo:**
-- ⚡ Capacitancia: BUENO (45.5%)
-- 🌊 Turbidez: EXCELENTE (35.0%)
+-  Capacitancia: BUENO (45.5%)
+-  Turbidez: EXCELENTE (35.0%)
 
 **Indicadores de estado:**
 - Cap: ✅ APTO / ❌ NO APTO
@@ -847,16 +847,16 @@ Móvil:     http://IP_PC:1880/ui
 
 **Tabla HTML estilizada:**
 
-| 📊 Parámetro | Valor | Estado |
+|   Parámetro | Valor | Estado |
 |-------------|-------|--------|
-| ⚡ Capacitancia RAW | 3135 | ✅ APTO |
-| ⚡ Capacitancia % | 45.5% | BUENO |
-| 🌊 Turbidez Sensor 1 RAW | 225 | - |
-| 🌊 Turbidez Sensor 2 RAW | 220 | - |
-| 🌊 Turbidez Promedio RAW | 223 | ✅ APTO |
-| 🌊 Turbidez % | 35.0% | EXCELENTE |
-| 🎯 **DECISIÓN FINAL** | **✅ APTO** | **✅ SISTEMA APTO** |
-| ⏱️ Última actualización | 09/11/2025 15:30:45 | - |
+|   Capacitancia RAW | 3135 | ✅ APTO |
+|   Capacitancia % | 45.5% | BUENO |
+|   Turbidez Sensor 1 RAW | 225 | - |
+|   Turbidez Sensor 2 RAW | 220 | - |
+|   Turbidez Promedio RAW | 223 | ✅ APTO |
+|   Turbidez % | 35.0% | EXCELENTE |
+|   **DECISIÓN FINAL** | **✅ APTO** | **✅ SISTEMA APTO** |
+|   Última actualización | 09/11/2025 15:30:45 | - |
 
 **Características:**
 - Hover effects
@@ -880,11 +880,11 @@ Móvil:     http://IP_PC:1880/ui
 
 ```
 ╔═══════════════════════════════════════════════════════════╗
-║              🛢️ SafeFry Dashboard Pro                    ║
+║                SafeFry Dashboard Pro                    ║
 ╠═══════════════════════════════════════════════════════════╣
-║  📊 INDICADORES PRINCIPALES                              ║
+║    INDICADORES PRINCIPALES                              ║
 ║  ┌──────────┐  ┌──────────┐                             ║
-║  │  🌊 35%  │  │  ⚡ 45%  │  (Gauges donut)             ║
+║  │    35%  │  │    45%  │  (Gauges donut)             ║
 ║  └──────────┘  └──────────┘                             ║
 ║                                                          ║
 ║  🚦 ESTADO DEL SISTEMA                                   ║
@@ -905,12 +905,12 @@ Móvil:     http://IP_PC:1880/ui
 ║  │   223    │  │   3135   │                             ║
 ║  └──────────┘  └──────────┘                             ║
 ║                                                          ║
-║  🔍 ESTADOS: ✅ Cap OK  ✅ Turb OK  ▶️ Activo            ║
+║    ESTADOS: ✅ Cap OK  ✅ Turb OK  ▶️ Activo            ║
 ║                                                          ║
-║  📋 TABLA COMPLETA                                       ║
+║    TABLA COMPLETA                                       ║
 ║  [Tabla con todos los datos detallados]                 ║
 ║                                                          ║
-║  🎛️ CONTROL REMOTO                                      ║
+║    CONTROL REMOTO                                      ║
 ║  [⏸️ PAUSAR] [▶️ REANUDAR] [━━━━◉━━━ 5s]               ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
