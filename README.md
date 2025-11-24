@@ -49,6 +49,67 @@ Este proyecto también responde a la necesidad académica de brindar a los estud
 - Prototipo portátil y de bajo costo, diseñado para ser implementado en entornos gastronómicos informales y educativos.
 - Contribución académica y social, fortaleciendo la seguridad alimentaria y promoviendo el uso de tecnologías accesibles para el control de calidad.
 
+## Estructura del Proyecto
+
+A continuación se detalla la organización de carpetas y archivos del repositorio:
+
+```text
+Proyectos-de-Ingenier-a-1/                        # Repositorio raíz
+│
+├── README.md                                     # Presentación general y documentación global
+├── Fundamentos de Diseño/                        # Carpeta del curso predecesor
+│
+└── Proyectos de Ingeniería/                      # Carpeta principal del curso actual
+    ├── Certificados/                             # Documentos de gestión y madurez TRL
+    ├── Imágenes/                                 # Recursos visuales subidos
+    ├── Sobre Nosotros/                           # Información de los integrantes
+    ├── Talleres/                                 # Talleres y laboratorios del curso
+    │
+    └── Documentación/                            # Documentación técnica de ingeniería
+        ├── 1.Justificación_Científica.md         # Base científica del proyecto
+        ├── 2.Lista_de_Requerimientos.md          # Requisitos de portabilidad y técnicos
+        ├── 3.Caja_Negra_y_Esquema_Funciones.md   # Diagramas funcionales del sistema
+        ├── 4.Matriz_Morfológica.md               # Evaluación de alternativas de diseño
+        ├── 5.Tabla_de_Valoración.md              # Selección de la solución final
+        ├── 6.Bocetos.md                          # Dibujos preliminares del prototipo
+        ├── 7.Modelo_3D.md                        # Modelado del prototipo en Onshape
+        ├── 8.Esquemático.md                      # Diagramas de conexiones electrónicas
+        │
+        └── 9. Código/                            # Sección de Software y Firmware
+            ├── README.md                         # Presentación de "SafeFry Pro" (IoT)
+            │
+            ├── Código_Node_Red/                  # Lógica del Dashboard IoT
+            │   ├── Node-Red_Flow-Safefry.json    # Flujo completo: Dashboard y Gráficas
+            │   └── README.md                     # Presentación del Flujo Node-RED
+            │
+            └── Código_Safefry_Aceite/            # Proyecto de Firmware (PlatformIO)
+                ├── .gitignore                    # Archivos ignorados por Git
+                ├── platformio.ini                # Configuración del entorno y librerías
+                │
+                ├── .vscode/                      # Configuración del editor VSCode
+                │   └── extensions.json           # Extensiones recomendadas
+                │
+                ├── include/                      # Archivos de cabecera (.h) globales
+                │   └── README                    # Info sobre headers
+                │
+                ├── lib/                          # Librerías privadas específicas
+                │   └── README                    # Info sobre librerías estáticas
+                │
+                ├── test/                         # Pruebas unitarias del código
+                │   └── README                    # Info sobre PlatformIO Test Runner
+                │
+                └── src/                          # Código fuente principal (C++)
+                    ├── main.cpp                  # Archivo principal (Lógica de control)
+                    ├── lcd_display.cpp           # Código control pantalla LCD
+                    ├── lcd_display.h             # Definiciones pantalla LCD
+                    ├── pulsador.cpp              # Lógica de los botones físicos
+                    ├── pulsador.h                # Definiciones de botones
+                    ├── sensor_capacitancia.cpp   # Lectura del sensor capacitivo (Aceite)
+                    ├── sensor_capacitancia.h     # Definiciones sensor capacitivo
+                    ├── sensores_turbidez.cpp     # Lectura de turbidez
+                    └── sensores_turbidez.h       # Definiciones turbidez
+```
+
 ## Integrantes:
 
 | Miembro | Rol | Función Principal | Correo |
